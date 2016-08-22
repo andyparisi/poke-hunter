@@ -24,7 +24,7 @@ export class Main extends React.Component<MainProps, MainState> {
     return (
       <div className="content">
         <h1 className={(isBlue) ? "is-blue" : ""}>Hello {username}. There are {pokemonCount} Pokemon!</h1>
-        <button onClick={() => makeBlue()}>Make it blue</button>
+        <button onClick={() => this.makeBlue()}>Make it blue</button>
       </div>
      );
   }
