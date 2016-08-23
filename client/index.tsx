@@ -7,6 +7,6 @@ const pokemonCount = 721;
 const username = "Andrew"
 
 ReactDOM.render(
-  <Main username={username} pokemonCount={pokemonCount} />,
+  <Main />,
   document.getElementById("app")
 );

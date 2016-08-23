@@ -1,17 +1,13 @@
 import * as React from "react";
-
-export interface MainProps {
-  username: string;
-  pokemonCount: number;
-}
+import { PokemonList } from "./PokemonList";
 
 export interface MainState {
   pokemonList?: Array<any>;
 }
 
-export class Main extends React.Component<MainProps, MainState> {
-  constructor(props: any) {
-    super(props);
+export class Main extends React.Component<{}, MainState> {
+  constructor() {
+    super();
 
     // Set the initial state
     this.state = {
@@ -31,20 +27,12 @@ export class Main extends React.Component<MainProps, MainState> {
   }
 
   render() {
-    const {username, pokemonCount} = this.props;
     const {pokemonList} = this.state;
-    let pokeItems: Array<any> = [];
-
-    pokemonList.forEach(poke => {
-      pokeItems.push(<li className="poke-item" key={poke.num}>{poke.name}</li>);
-    });
-
+    
     return (
       <div className="content">
         <h1>Pokemon Hunter</h1>
-        <ul className="poke-items">
-          {pokeItems}
-        </ul>
+        <PokemonList pokemonList={pokemonList} />
       </div>
      );
   }
