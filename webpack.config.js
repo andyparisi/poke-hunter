@@ -5,7 +5,7 @@ var WebpackNotifierPlugin = require('webpack-notifier');
 module.exports = {
   entry: [
     "webpack-hot-middleware/client",
-    "./src/index.tsx"
+    "./client/index.tsx"
   ],
   output: {
     filename: "bundle.js",

@@ -29,7 +29,7 @@ app.get('/poke', (req, res, next) => {
 });
 
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, '/index.html'));
+  res.sendFile(path.join(__dirname, '/client/index.html'));
 });
 
 app.listen(3001, () => {

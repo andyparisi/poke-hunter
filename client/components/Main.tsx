@@ -41,11 +41,11 @@ export class Main extends React.Component<MainProps, MainState> {
 
     return (
       <div className="content">
-        <h1 className={(pokemonList) ? "is-blue" : ""}>Hello {username}. There are {pokemonCount} Pokemon!</h1>
+        <h1>Pokemon Hunter</h1>
         <ul className="poke-items">
           {pokeItems}
         </ul>
       </div>
      );
-  };
+  }
 }
