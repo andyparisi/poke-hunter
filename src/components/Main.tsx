@@ -6,32 +6,46 @@ export interface MainProps {
 }
 
 export interface MainState {
-  isBlue: boolean;
+  pokemonList?: Array<any>;
 }
 
 export class Main extends React.Component<MainProps, MainState> {
   constructor(props: any) {
     super(props);
+
+    // Set the initial state
     this.state = {
-      isBlue: false
+      pokemonList: [],
     };
+  }
+
+  componentWillMount() {
+    // Fetch the list of Pokemon
+    fetch(`/poke`)
+    .then(res => res.json())
+    .then(res => {
+      this.setState({
+        pokemonList: res
+      });
+    });
   }
 
   render() {
     const {username, pokemonCount} = this.props;
-    const {isBlue} = this.state;
+    const {pokemonList} = this.state;
+    let pokeItems: Array<any> = [];
+
+    pokemonList.forEach(poke => {
+      pokeItems.push(<li className="poke-item" key={poke.num}>{poke.name}</li>);
+    });
 
     return (
       <div className="content">
-        <h1 className={(isBlue) ? "is-blue" : ""}>Hello {username}. There are {pokemonCount} Pokemon!</h1>
-        <button onClick={() => this.makeBlue()}>Make it blue</button>
+        <h1 className={(pokemonList) ? "is-blue" : ""}>Hello {username}. There are {pokemonCount} Pokemon!</h1>
+        <ul className="poke-items">
+          {pokeItems}
+        </ul>
       </div>
      );
-  }
-
-  makeBlue() {
-    this.setState({
-      isBlue: true
-    });
-  }
+  };
 }

@@ -7,6 +7,7 @@ var config = require('./webpack.config');
 var app = express();
 var compiler = webpack(config);
 app.use(express.static(path.join(__dirname, './')));
+app.use(bodyParser.json());
 
 app.use(require('webpack-dev-middleware')(compiler, {
   noInfo: true,
@@ -14,6 +15,18 @@ app.use(require('webpack-dev-middleware')(compiler, {
 }));
 
 app.use(require('webpack-hot-middleware')(compiler));
+
+// Handle poke requests
+app.get('/poke', (req, res, next) => {
+  var pokemon = [];
+  pokemon.push({
+    num: "001",
+    name: "Bulbasaur"
+  });
+
+  res.json(pokemon);
+  next();
+});
 
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '/index.html'));

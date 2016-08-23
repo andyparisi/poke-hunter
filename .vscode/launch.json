@@ -41,6 +41,14 @@
             "port": 5858,
             "sourceMaps": false,
             "outDir": null
+        },
+        {
+            "name": "Launch Chrome Dev Instance",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:3001",
+            "port": 9222,
+            "sourceMaps": false
         }
     ]
 }
