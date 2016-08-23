@@ -20,8 +20,25 @@ export class Main extends React.Component<{}, MainState> {
     fetch(`/poke`)
     .then(res => res.json())
     .then(res => {
+      // Parse the Pokemon list
+      let pokes: Array<Object> = [];
+
+      res.forEach((poke: any, index: number) => {
+        let dexNum: String = String(index + 1);
+
+        // Add leading zeroes
+        while(dexNum.length < 3) {
+          dexNum = "0" + dexNum;
+        }
+
+        pokes.push({
+          dexNum: dexNum,
+          name: poke
+        });
+      });
+
       this.setState({
-        pokemonList: res
+        pokemonList: pokes
       });
     });
   }

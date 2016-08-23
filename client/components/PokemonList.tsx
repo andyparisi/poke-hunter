@@ -10,8 +10,8 @@ export class PokemonList extends React.Component<Props, {}> {
     const { pokemonList } = this.props;
     let pokeItems: Array<any> = [];
 
-    pokemonList.forEach(poke => {
-      pokeItems.push(<PokemonListItem key={poke.num} poke={poke} />);
+    pokemonList.forEach((poke, index) => {
+      pokeItems.push(<PokemonListItem key={index} poke={poke} />);
     });
 
     return (

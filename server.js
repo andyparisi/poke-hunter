@@ -19,11 +19,7 @@ app.use(require('webpack-hot-middleware')(compiler));
 
 // Handle poke requests
 app.get('/poke', (req, res, next) => {
-  var pokemon = [];
-  pokemon.push({
-    num: "001",
-    name: "Bulbasaur"
-  });
+  var pokemon = require('./server/list');
 
   res.json(pokemon);
   next();
