@@ -17,7 +17,8 @@ export class Main extends React.Component<{}, State> {
     // Set the initial state
     this.state = {
       pokemonList: [],
-      pokeLocation: null
+      pokeLocation: null,
+      locations: {}
     };
   }
 
