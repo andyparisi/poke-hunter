@@ -16,7 +16,7 @@ h1
   font-size: 24px
 
 .container
-  width: 1000px
+  width: 1001px
   margin: 0 auto
 
 .pokemon-location
@@ -89,27 +89,13 @@ h1
     &:hover, &.is-selected
       background-color: #ebebeb
 
-      &:after
-        position: absolute
-        content: ''
-        top: 0  
-        left: 0
-        bottom: 0
-        right: 0
-        z-index: 5
-        background: rgba(0, 0, 0, 0.2)
+      .caught
+        display: block
 
-      &:before
-        content: ''
-        background: url(/client/images/ball.png) no-repeat 0 0
-        width: 16px
-        height: 16px
-        transform: scale(1.5)
-        top: 30px
-        left: 50%
-        margin-left: -8px
-        position: absolute
-        z-index: 6
+    &.is-selected
+      .caught
+        -webkit-filter: none
+        filter: none
 
     &.is-selected
       background-color: inherit
@@ -122,6 +108,18 @@ h1
       left: 3px
       font-size: 12px
       text-align: center
+
+    .caught
+      background: url(/client/images/ball.png) no-repeat 0 0
+      width: 16px
+      height: 16px
+      position: absolute
+      top: 5px
+      right: 5px
+      -webkit-filter: grayscale(100%)
+      filter: grayscale(100%)
+      display: none
+      z-index: 10
   
     .name 
       position: absolute
