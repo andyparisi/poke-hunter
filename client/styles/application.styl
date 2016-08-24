@@ -1,11 +1,87 @@
+@require 'poke_pos.styl'
 @require 'pokesprite.css'
+
+*
+  box-sizing: border-box
 
 body
   background: #ebebeb
-  font-family: Helvetica, Arial, sans-serif
+  font-family: 'Fira Mono', Helvetica, Arial, sans-serif
   padding: 0
   margin: 0
   color: #333
 
 h1
   font-size: 24px
+
+.container
+  width: 1000px
+  margin: 0 auto
+
+.pokemon-list
+  list-style: none
+  margin: 0
+  border-left: 1px solid #ccc
+  border-top: 1px solid #ccc
+  padding: 0
+
+  .poke-list-item
+    height: 90px
+    width: 90px
+    float: left
+    border-bottom: 1px solid #ccc
+    border-right: 1px solid #ccc
+    position: relative
+    cursor: pointer
+    -webkit-user-select: none
+    user-select: none
+
+    &:hover, &.is-selected
+      background-color: #ebebeb
+
+      &:after
+        position: absolute
+        content: ''
+        top: 0  
+        left: 0
+        bottom: 0
+        right: 0
+        z-index: 5
+        background: rgba(0, 0, 0, 0.2)
+
+      &:before
+        content: ''
+        background: url(/client/images/ball.png) no-repeat 0 0
+        width: 16px
+        height: 16px
+        transform: scale(1.5)
+        top: 30px
+        left: 50%
+        margin-left: -8px
+        position: absolute
+        z-index: 6
+
+    &.is-selected
+      background-color: inherit
+
+    .num
+      color: #999
+      display: block
+      position: absolute
+      top: 3px
+      left: 3px
+      font-size: 12px
+      text-align: center
+  
+    .name 
+      position: absolute
+      bottom: 5px
+      left: 0
+      right: 0
+      text-align: center
+      font-size: 11px
+    
+    .pkspr
+      left: 50%
+      top: 25px
+      margin-left: -20px

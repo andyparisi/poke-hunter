@@ -1,0 +1,3607 @@
+[
+    {
+        "dexNum": "001",
+        "name": "bulbasaur",
+        "displayName": "Bulbasaur"
+    },
+    {
+        "dexNum": "002",
+        "name": "ivysaur",
+        "displayName": "Ivysaur"
+    },
+    {
+        "dexNum": "003",
+        "name": "venusaur",
+        "displayName": "Venusaur"
+    },
+    {
+        "dexNum": "004",
+        "name": "charmander",
+        "displayName": "Charmander"
+    },
+    {
+        "dexNum": "005",
+        "name": "charmeleon",
+        "displayName": "Charmeleon"
+    },
+    {
+        "dexNum": "006",
+        "name": "charizard",
+        "displayName": "Charizard"
+    },
+    {
+        "dexNum": "007",
+        "name": "squirtle",
+        "displayName": "Squirtle"
+    },
+    {
+        "dexNum": "008",
+        "name": "wartortle",
+        "displayName": "Wartortle"
+    },
+    {
+        "dexNum": "009",
+        "name": "blastoise",
+        "displayName": "Blastoise"
+    },
+    {
+        "dexNum": "010",
+        "name": "caterpie",
+        "displayName": "Caterpie"
+    },
+    {
+        "dexNum": "011",
+        "name": "metapod",
+        "displayName": "Metapod"
+    },
+    {
+        "dexNum": "012",
+        "name": "butterfree",
+        "displayName": "Butterfree"
+    },
+    {
+        "dexNum": "013",
+        "name": "weedle",
+        "displayName": "Weedle"
+    },
+    {
+        "dexNum": "014",
+        "name": "kakuna",
+        "displayName": "Kakuna"
+    },
+    {
+        "dexNum": "015",
+        "name": "beedrill",
+        "displayName": "Beedrill"
+    },
+    {
+        "dexNum": "016",
+        "name": "pidgey",
+        "displayName": "Pidgey"
+    },
+    {
+        "dexNum": "017",
+        "name": "pidgeotto",
+        "displayName": "Pidgeotto"
+    },
+    {
+        "dexNum": "018",
+        "name": "pidgeot",
+        "displayName": "Pidgeot"
+    },
+    {
+        "dexNum": "019",
+        "name": "rattata",
+        "displayName": "Rattata"
+    },
+    {
+        "dexNum": "020",
+        "name": "raticate",
+        "displayName": "Raticate"
+    },
+    {
+        "dexNum": "021",
+        "name": "spearow",
+        "displayName": "Spearow"
+    },
+    {
+        "dexNum": "022",
+        "name": "fearow",
+        "displayName": "Fearow"
+    },
+    {
+        "dexNum": "023",
+        "name": "ekans",
+        "displayName": "Ekans"
+    },
+    {
+        "dexNum": "024",
+        "name": "arbok",
+        "displayName": "Arbok"
+    },
+    {
+        "dexNum": "025",
+        "name": "pikachu",
+        "displayName": "Pikachu"
+    },
+    {
+        "dexNum": "026",
+        "name": "raichu",
+        "displayName": "Raichu"
+    },
+    {
+        "dexNum": "027",
+        "name": "sandshrew",
+        "displayName": "Sandshrew"
+    },
+    {
+        "dexNum": "028",
+        "name": "sandslash",
+        "displayName": "Sandslash"
+    },
+    {
+        "dexNum": "029",
+        "name": "nidoran-f",
+        "displayName": "Nidoran ♀"
+    },
+    {
+        "dexNum": "030",
+        "name": "nidorina",
+        "displayName": "Nidorina"
+    },
+    {
+        "dexNum": "031",
+        "name": "nidoqueen",
+        "displayName": "Nidoqueen"
+    },
+    {
+        "dexNum": "032",
+        "name": "nidoran-m",
+        "displayName": "Nidoran ♂"
+    },
+    {
+        "dexNum": "033",
+        "name": "nidorino",
+        "displayName": "Nidorino"
+    },
+    {
+        "dexNum": "034",
+        "name": "nidoking",
+        "displayName": "Nidoking"
+    },
+    {
+        "dexNum": "035",
+        "name": "clefairy",
+        "displayName": "Clefairy"
+    },
+    {
+        "dexNum": "036",
+        "name": "clefable",
+        "displayName": "Clefable"
+    },
+    {
+        "dexNum": "037",
+        "name": "vulpix",
+        "displayName": "Vulpix"
+    },
+    {
+        "dexNum": "038",
+        "name": "ninetales",
+        "displayName": "Ninetales"
+    },
+    {
+        "dexNum": "039",
+        "name": "jigglypuff",
+        "displayName": "Jigglypuff"
+    },
+    {
+        "dexNum": "040",
+        "name": "wigglytuff",
+        "displayName": "Wigglytuff"
+    },
+    {
+        "dexNum": "041",
+        "name": "zubat",
+        "displayName": "Zubat"
+    },
+    {
+        "dexNum": "042",
+        "name": "golbat",
+        "displayName": "Golbat"
+    },
+    {
+        "dexNum": "043",
+        "name": "oddish",
+        "displayName": "Oddish"
+    },
+    {
+        "dexNum": "044",
+        "name": "gloom",
+        "displayName": "Gloom"
+    },
+    {
+        "dexNum": "045",
+        "name": "vileplume",
+        "displayName": "Vileplume"
+    },
+    {
+        "dexNum": "046",
+        "name": "paras",
+        "displayName": "Paras"
+    },
+    {
+        "dexNum": "047",
+        "name": "parasect",
+        "displayName": "Parasect"
+    },
+    {
+        "dexNum": "048",
+        "name": "venonat",
+        "displayName": "Venonat"
+    },
+    {
+        "dexNum": "049",
+        "name": "venomoth",
+        "displayName": "Venomoth"
+    },
+    {
+        "dexNum": "050",
+        "name": "diglett",
+        "displayName": "Diglett"
+    },
+    {
+        "dexNum": "051",
+        "name": "dugtrio",
+        "displayName": "Dugtrio"
+    },
+    {
+        "dexNum": "052",
+        "name": "meowth",
+        "displayName": "Meowth"
+    },
+    {
+        "dexNum": "053",
+        "name": "persian",
+        "displayName": "Persian"
+    },
+    {
+        "dexNum": "054",
+        "name": "psyduck",
+        "displayName": "Psyduck"
+    },
+    {
+        "dexNum": "055",
+        "name": "golduck",
+        "displayName": "Golduck"
+    },
+    {
+        "dexNum": "056",
+        "name": "mankey",
+        "displayName": "Mankey"
+    },
+    {
+        "dexNum": "057",
+        "name": "primeape",
+        "displayName": "Primeape"
+    },
+    {
+        "dexNum": "058",
+        "name": "growlithe",
+        "displayName": "Growlithe"
+    },
+    {
+        "dexNum": "059",
+        "name": "arcanine",
+        "displayName": "Arcanine"
+    },
+    {
+        "dexNum": "060",
+        "name": "poliwag",
+        "displayName": "Poliwag"
+    },
+    {
+        "dexNum": "061",
+        "name": "poliwhirl",
+        "displayName": "Poliwhirl"
+    },
+    {
+        "dexNum": "062",
+        "name": "poliwrath",
+        "displayName": "Poliwrath"
+    },
+    {
+        "dexNum": "063",
+        "name": "abra",
+        "displayName": "Abra"
+    },
+    {
+        "dexNum": "064",
+        "name": "kadabra",
+        "displayName": "Kadabra"
+    },
+    {
+        "dexNum": "065",
+        "name": "alakazam",
+        "displayName": "Alakazam"
+    },
+    {
+        "dexNum": "066",
+        "name": "machop",
+        "displayName": "Machop"
+    },
+    {
+        "dexNum": "067",
+        "name": "machoke",
+        "displayName": "Machoke"
+    },
+    {
+        "dexNum": "068",
+        "name": "machamp",
+        "displayName": "Machamp"
+    },
+    {
+        "dexNum": "069",
+        "name": "bellsprout",
+        "displayName": "Bellsprout"
+    },
+    {
+        "dexNum": "070",
+        "name": "weepinbell",
+        "displayName": "Weepinbell"
+    },
+    {
+        "dexNum": "071",
+        "name": "victreebel",
+        "displayName": "Victreebel"
+    },
+    {
+        "dexNum": "072",
+        "name": "tentacool",
+        "displayName": "Tentacool"
+    },
+    {
+        "dexNum": "073",
+        "name": "tentacruel",
+        "displayName": "Tentacruel"
+    },
+    {
+        "dexNum": "074",
+        "name": "geodude",
+        "displayName": "Geodude"
+    },
+    {
+        "dexNum": "075",
+        "name": "graveler",
+        "displayName": "Graveler"
+    },
+    {
+        "dexNum": "076",
+        "name": "golem",
+        "displayName": "Golem"
+    },
+    {
+        "dexNum": "077",
+        "name": "ponyta",
+        "displayName": "Ponyta"
+    },
+    {
+        "dexNum": "078",
+        "name": "rapidash",
+        "displayName": "Rapidash"
+    },
+    {
+        "dexNum": "079",
+        "name": "slowpoke",
+        "displayName": "Slowpoke"
+    },
+    {
+        "dexNum": "080",
+        "name": "slowbro",
+        "displayName": "Slowbro"
+    },
+    {
+        "dexNum": "081",
+        "name": "magnemite",
+        "displayName": "Magnemite"
+    },
+    {
+        "dexNum": "082",
+        "name": "magneton",
+        "displayName": "Magneton"
+    },
+    {
+        "dexNum": "083",
+        "name": "farfetchd",
+        "displayName": "Farfetchd"
+    },
+    {
+        "dexNum": "084",
+        "name": "doduo",
+        "displayName": "Doduo"
+    },
+    {
+        "dexNum": "085",
+        "name": "dodrio",
+        "displayName": "Dodrio"
+    },
+    {
+        "dexNum": "086",
+        "name": "seel",
+        "displayName": "Seel"
+    },
+    {
+        "dexNum": "087",
+        "name": "dewgong",
+        "displayName": "Dewgong"
+    },
+    {
+        "dexNum": "088",
+        "name": "grimer",
+        "displayName": "Grimer"
+    },
+    {
+        "dexNum": "089",
+        "name": "muk",
+        "displayName": "Muk"
+    },
+    {
+        "dexNum": "090",
+        "name": "shellder",
+        "displayName": "Shellder"
+    },
+    {
+        "dexNum": "091",
+        "name": "cloyster",
+        "displayName": "Cloyster"
+    },
+    {
+        "dexNum": "092",
+        "name": "gastly",
+        "displayName": "Gastly"
+    },
+    {
+        "dexNum": "093",
+        "name": "haunter",
+        "displayName": "Haunter"
+    },
+    {
+        "dexNum": "094",
+        "name": "gengar",
+        "displayName": "Gengar"
+    },
+    {
+        "dexNum": "095",
+        "name": "onix",
+        "displayName": "Onix"
+    },
+    {
+        "dexNum": "096",
+        "name": "drowzee",
+        "displayName": "Drowzee"
+    },
+    {
+        "dexNum": "097",
+        "name": "hypno",
+        "displayName": "Hypno"
+    },
+    {
+        "dexNum": "098",
+        "name": "krabby",
+        "displayName": "Krabby"
+    },
+    {
+        "dexNum": "099",
+        "name": "kingler",
+        "displayName": "Kingler"
+    },
+    {
+        "dexNum": "100",
+        "name": "voltorb",
+        "displayName": "Voltorb"
+    },
+    {
+        "dexNum": "101",
+        "name": "electrode",
+        "displayName": "Electrode"
+    },
+    {
+        "dexNum": "102",
+        "name": "exeggcute",
+        "displayName": "Exeggcute"
+    },
+    {
+        "dexNum": "103",
+        "name": "exeggutor",
+        "displayName": "Exeggutor"
+    },
+    {
+        "dexNum": "104",
+        "name": "cubone",
+        "displayName": "Cubone"
+    },
+    {
+        "dexNum": "105",
+        "name": "marowak",
+        "displayName": "Marowak"
+    },
+    {
+        "dexNum": "106",
+        "name": "hitmonlee",
+        "displayName": "Hitmonlee"
+    },
+    {
+        "dexNum": "107",
+        "name": "hitmonchan",
+        "displayName": "Hitmonchan"
+    },
+    {
+        "dexNum": "108",
+        "name": "lickitung",
+        "displayName": "Lickitung"
+    },
+    {
+        "dexNum": "109",
+        "name": "koffing",
+        "displayName": "Koffing"
+    },
+    {
+        "dexNum": "110",
+        "name": "weezing",
+        "displayName": "Weezing"
+    },
+    {
+        "dexNum": "111",
+        "name": "rhyhorn",
+        "displayName": "Rhyhorn"
+    },
+    {
+        "dexNum": "112",
+        "name": "rhydon",
+        "displayName": "Rhydon"
+    },
+    {
+        "dexNum": "113",
+        "name": "chansey",
+        "displayName": "Chansey"
+    },
+    {
+        "dexNum": "114",
+        "name": "tangela",
+        "displayName": "Tangela"
+    },
+    {
+        "dexNum": "115",
+        "name": "kangaskhan",
+        "displayName": "Kangaskhan"
+    },
+    {
+        "dexNum": "116",
+        "name": "horsea",
+        "displayName": "Horsea"
+    },
+    {
+        "dexNum": "117",
+        "name": "seadra",
+        "displayName": "Seadra"
+    },
+    {
+        "dexNum": "118",
+        "name": "goldeen",
+        "displayName": "Goldeen"
+    },
+    {
+        "dexNum": "119",
+        "name": "seaking",
+        "displayName": "Seaking"
+    },
+    {
+        "dexNum": "120",
+        "name": "staryu",
+        "displayName": "Staryu"
+    },
+    {
+        "dexNum": "121",
+        "name": "starmie",
+        "displayName": "Starmie"
+    },
+    {
+        "dexNum": "122",
+        "name": "mr-mime",
+        "displayName": "Mr. Mime"
+    },
+    {
+        "dexNum": "123",
+        "name": "scyther",
+        "displayName": "Scyther"
+    },
+    {
+        "dexNum": "124",
+        "name": "jynx",
+        "displayName": "Jynx"
+    },
+    {
+        "dexNum": "125",
+        "name": "electabuzz",
+        "displayName": "Electabuzz"
+    },
+    {
+        "dexNum": "126",
+        "name": "magmar",
+        "displayName": "Magmar"
+    },
+    {
+        "dexNum": "127",
+        "name": "pinsir",
+        "displayName": "Pinsir"
+    },
+    {
+        "dexNum": "128",
+        "name": "tauros",
+        "displayName": "Tauros"
+    },
+    {
+        "dexNum": "129",
+        "name": "magikarp",
+        "displayName": "Magikarp"
+    },
+    {
+        "dexNum": "130",
+        "name": "gyarados",
+        "displayName": "Gyarados"
+    },
+    {
+        "dexNum": "131",
+        "name": "lapras",
+        "displayName": "Lapras"
+    },
+    {
+        "dexNum": "132",
+        "name": "ditto",
+        "displayName": "Ditto"
+    },
+    {
+        "dexNum": "133",
+        "name": "eevee",
+        "displayName": "Eevee"
+    },
+    {
+        "dexNum": "134",
+        "name": "vaporeon",
+        "displayName": "Vaporeon"
+    },
+    {
+        "dexNum": "135",
+        "name": "jolteon",
+        "displayName": "Jolteon"
+    },
+    {
+        "dexNum": "136",
+        "name": "flareon",
+        "displayName": "Flareon"
+    },
+    {
+        "dexNum": "137",
+        "name": "porygon",
+        "displayName": "Porygon"
+    },
+    {
+        "dexNum": "138",
+        "name": "omanyte",
+        "displayName": "Omanyte"
+    },
+    {
+        "dexNum": "139",
+        "name": "omastar",
+        "displayName": "Omastar"
+    },
+    {
+        "dexNum": "140",
+        "name": "kabuto",
+        "displayName": "Kabuto"
+    },
+    {
+        "dexNum": "141",
+        "name": "kabutops",
+        "displayName": "Kabutops"
+    },
+    {
+        "dexNum": "142",
+        "name": "aerodactyl",
+        "displayName": "Aerodactyl"
+    },
+    {
+        "dexNum": "143",
+        "name": "snorlax",
+        "displayName": "Snorlax"
+    },
+    {
+        "dexNum": "144",
+        "name": "articuno",
+        "displayName": "Articuno"
+    },
+    {
+        "dexNum": "145",
+        "name": "zapdos",
+        "displayName": "Zapdos"
+    },
+    {
+        "dexNum": "146",
+        "name": "moltres",
+        "displayName": "Moltres"
+    },
+    {
+        "dexNum": "147",
+        "name": "dratini",
+        "displayName": "Dratini"
+    },
+    {
+        "dexNum": "148",
+        "name": "dragonair",
+        "displayName": "Dragonair"
+    },
+    {
+        "dexNum": "149",
+        "name": "dragonite",
+        "displayName": "Dragonite"
+    },
+    {
+        "dexNum": "150",
+        "name": "mewtwo",
+        "displayName": "Mewtwo"
+    },
+    {
+        "dexNum": "151",
+        "name": "mew",
+        "displayName": "Mew"
+    },
+    {
+        "dexNum": "152",
+        "name": "chikorita",
+        "displayName": "Chikorita"
+    },
+    {
+        "dexNum": "153",
+        "name": "bayleef",
+        "displayName": "Bayleef"
+    },
+    {
+        "dexNum": "154",
+        "name": "meganium",
+        "displayName": "Meganium"
+    },
+    {
+        "dexNum": "155",
+        "name": "cyndaquil",
+        "displayName": "Cyndaquil"
+    },
+    {
+        "dexNum": "156",
+        "name": "quilava",
+        "displayName": "Quilava"
+    },
+    {
+        "dexNum": "157",
+        "name": "typhlosion",
+        "displayName": "Typhlosion"
+    },
+    {
+        "dexNum": "158",
+        "name": "totodile",
+        "displayName": "Totodile"
+    },
+    {
+        "dexNum": "159",
+        "name": "croconaw",
+        "displayName": "Croconaw"
+    },
+    {
+        "dexNum": "160",
+        "name": "feraligatr",
+        "displayName": "Feraligatr"
+    },
+    {
+        "dexNum": "161",
+        "name": "sentret",
+        "displayName": "Sentret"
+    },
+    {
+        "dexNum": "162",
+        "name": "furret",
+        "displayName": "Furret"
+    },
+    {
+        "dexNum": "163",
+        "name": "hoothoot",
+        "displayName": "Hoothoot"
+    },
+    {
+        "dexNum": "164",
+        "name": "noctowl",
+        "displayName": "Noctowl"
+    },
+    {
+        "dexNum": "165",
+        "name": "ledyba",
+        "displayName": "Ledyba"
+    },
+    {
+        "dexNum": "166",
+        "name": "ledian",
+        "displayName": "Ledian"
+    },
+    {
+        "dexNum": "167",
+        "name": "spinarak",
+        "displayName": "Spinarak"
+    },
+    {
+        "dexNum": "168",
+        "name": "ariados",
+        "displayName": "Ariados"
+    },
+    {
+        "dexNum": "169",
+        "name": "crobat",
+        "displayName": "Crobat"
+    },
+    {
+        "dexNum": "170",
+        "name": "chinchou",
+        "displayName": "Chinchou"
+    },
+    {
+        "dexNum": "171",
+        "name": "lanturn",
+        "displayName": "Lanturn"
+    },
+    {
+        "dexNum": "172",
+        "name": "pichu",
+        "displayName": "Pichu"
+    },
+    {
+        "dexNum": "173",
+        "name": "cleffa",
+        "displayName": "Cleffa"
+    },
+    {
+        "dexNum": "174",
+        "name": "igglybuff",
+        "displayName": "Igglybuff"
+    },
+    {
+        "dexNum": "175",
+        "name": "togepi",
+        "displayName": "Togepi"
+    },
+    {
+        "dexNum": "176",
+        "name": "togetic",
+        "displayName": "Togetic"
+    },
+    {
+        "dexNum": "177",
+        "name": "natu",
+        "displayName": "Natu"
+    },
+    {
+        "dexNum": "178",
+        "name": "xatu",
+        "displayName": "Xatu"
+    },
+    {
+        "dexNum": "179",
+        "name": "mareep",
+        "displayName": "Mareep"
+    },
+    {
+        "dexNum": "180",
+        "name": "flaaffy",
+        "displayName": "Flaaffy"
+    },
+    {
+        "dexNum": "181",
+        "name": "ampharos",
+        "displayName": "Ampharos"
+    },
+    {
+        "dexNum": "182",
+        "name": "bellossom",
+        "displayName": "Bellossom"
+    },
+    {
+        "dexNum": "183",
+        "name": "marill",
+        "displayName": "Marill"
+    },
+    {
+        "dexNum": "184",
+        "name": "azumarill",
+        "displayName": "Azumarill"
+    },
+    {
+        "dexNum": "185",
+        "name": "sudowoodo",
+        "displayName": "Sudowoodo"
+    },
+    {
+        "dexNum": "186",
+        "name": "politoed",
+        "displayName": "Politoed"
+    },
+    {
+        "dexNum": "187",
+        "name": "hoppip",
+        "displayName": "Hoppip"
+    },
+    {
+        "dexNum": "188",
+        "name": "skiploom",
+        "displayName": "Skiploom"
+    },
+    {
+        "dexNum": "189",
+        "name": "jumpluff",
+        "displayName": "Jumpluff"
+    },
+    {
+        "dexNum": "190",
+        "name": "aipom",
+        "displayName": "Aipom"
+    },
+    {
+        "dexNum": "191",
+        "name": "sunkern",
+        "displayName": "Sunkern"
+    },
+    {
+        "dexNum": "192",
+        "name": "sunflora",
+        "displayName": "Sunflora"
+    },
+    {
+        "dexNum": "193",
+        "name": "yanma",
+        "displayName": "Yanma"
+    },
+    {
+        "dexNum": "194",
+        "name": "wooper",
+        "displayName": "Wooper"
+    },
+    {
+        "dexNum": "195",
+        "name": "quagsire",
+        "displayName": "Quagsire"
+    },
+    {
+        "dexNum": "196",
+        "name": "espeon",
+        "displayName": "Espeon"
+    },
+    {
+        "dexNum": "197",
+        "name": "umbreon",
+        "displayName": "Umbreon"
+    },
+    {
+        "dexNum": "198",
+        "name": "murkrow",
+        "displayName": "Murkrow"
+    },
+    {
+        "dexNum": "199",
+        "name": "slowking",
+        "displayName": "Slowking"
+    },
+    {
+        "dexNum": "200",
+        "name": "misdreavus",
+        "displayName": "Misdreavus"
+    },
+    {
+        "dexNum": "201",
+        "name": "unown",
+        "displayName": "Unown"
+    },
+    {
+        "dexNum": "202",
+        "name": "wobbuffet",
+        "displayName": "Wobbuffet"
+    },
+    {
+        "dexNum": "203",
+        "name": "girafarig",
+        "displayName": "Girafarig"
+    },
+    {
+        "dexNum": "204",
+        "name": "pineco",
+        "displayName": "Pineco"
+    },
+    {
+        "dexNum": "205",
+        "name": "forretress",
+        "displayName": "Forretress"
+    },
+    {
+        "dexNum": "206",
+        "name": "dunsparce",
+        "displayName": "Dunsparce"
+    },
+    {
+        "dexNum": "207",
+        "name": "gligar",
+        "displayName": "Gligar"
+    },
+    {
+        "dexNum": "208",
+        "name": "steelix",
+        "displayName": "Steelix"
+    },
+    {
+        "dexNum": "209",
+        "name": "snubbull",
+        "displayName": "Snubbull"
+    },
+    {
+        "dexNum": "210",
+        "name": "granbull",
+        "displayName": "Granbull"
+    },
+    {
+        "dexNum": "211",
+        "name": "qwilfish",
+        "displayName": "Qwilfish"
+    },
+    {
+        "dexNum": "212",
+        "name": "scizor",
+        "displayName": "Scizor"
+    },
+    {
+        "dexNum": "213",
+        "name": "shuckle",
+        "displayName": "Shuckle"
+    },
+    {
+        "dexNum": "214",
+        "name": "heracross",
+        "displayName": "Heracross"
+    },
+    {
+        "dexNum": "215",
+        "name": "sneasel",
+        "displayName": "Sneasel"
+    },
+    {
+        "dexNum": "216",
+        "name": "teddiursa",
+        "displayName": "Teddiursa"
+    },
+    {
+        "dexNum": "217",
+        "name": "ursaring",
+        "displayName": "Ursaring"
+    },
+    {
+        "dexNum": "218",
+        "name": "slugma",
+        "displayName": "Slugma"
+    },
+    {
+        "dexNum": "219",
+        "name": "magcargo",
+        "displayName": "Magcargo"
+    },
+    {
+        "dexNum": "220",
+        "name": "swinub",
+        "displayName": "Swinub"
+    },
+    {
+        "dexNum": "221",
+        "name": "piloswine",
+        "displayName": "Piloswine"
+    },
+    {
+        "dexNum": "222",
+        "name": "corsola",
+        "displayName": "Corsola"
+    },
+    {
+        "dexNum": "223",
+        "name": "remoraid",
+        "displayName": "Remoraid"
+    },
+    {
+        "dexNum": "224",
+        "name": "octillery",
+        "displayName": "Octillery"
+    },
+    {
+        "dexNum": "225",
+        "name": "delibird",
+        "displayName": "Delibird"
+    },
+    {
+        "dexNum": "226",
+        "name": "mantine",
+        "displayName": "Mantine"
+    },
+    {
+        "dexNum": "227",
+        "name": "skarmory",
+        "displayName": "Skarmory"
+    },
+    {
+        "dexNum": "228",
+        "name": "houndour",
+        "displayName": "Houndour"
+    },
+    {
+        "dexNum": "229",
+        "name": "houndoom",
+        "displayName": "Houndoom"
+    },
+    {
+        "dexNum": "230",
+        "name": "kingdra",
+        "displayName": "Kingdra"
+    },
+    {
+        "dexNum": "231",
+        "name": "phanpy",
+        "displayName": "Phanpy"
+    },
+    {
+        "dexNum": "232",
+        "name": "donphan",
+        "displayName": "Donphan"
+    },
+    {
+        "dexNum": "233",
+        "name": "porygon2",
+        "displayName": "Porygon2"
+    },
+    {
+        "dexNum": "234",
+        "name": "stantler",
+        "displayName": "Stantler"
+    },
+    {
+        "dexNum": "235",
+        "name": "smeargle",
+        "displayName": "Smeargle"
+    },
+    {
+        "dexNum": "236",
+        "name": "tyrogue",
+        "displayName": "Tyrogue"
+    },
+    {
+        "dexNum": "237",
+        "name": "hitmontop",
+        "displayName": "Hitmontop"
+    },
+    {
+        "dexNum": "238",
+        "name": "smoochum",
+        "displayName": "Smoochum"
+    },
+    {
+        "dexNum": "239",
+        "name": "elekid",
+        "displayName": "Elekid"
+    },
+    {
+        "dexNum": "240",
+        "name": "magby",
+        "displayName": "Magby"
+    },
+    {
+        "dexNum": "241",
+        "name": "miltank",
+        "displayName": "Miltank"
+    },
+    {
+        "dexNum": "242",
+        "name": "blissey",
+        "displayName": "Blissey"
+    },
+    {
+        "dexNum": "243",
+        "name": "raikou",
+        "displayName": "Raikou"
+    },
+    {
+        "dexNum": "244",
+        "name": "entei",
+        "displayName": "Entei"
+    },
+    {
+        "dexNum": "245",
+        "name": "suicune",
+        "displayName": "Suicune"
+    },
+    {
+        "dexNum": "246",
+        "name": "larvitar",
+        "displayName": "Larvitar"
+    },
+    {
+        "dexNum": "247",
+        "name": "pupitar",
+        "displayName": "Pupitar"
+    },
+    {
+        "dexNum": "248",
+        "name": "tyranitar",
+        "displayName": "Tyranitar"
+    },
+    {
+        "dexNum": "249",
+        "name": "lugia",
+        "displayName": "Lugia"
+    },
+    {
+        "dexNum": "250",
+        "name": "ho-oh",
+        "displayName": "Ho-Oh"
+    },
+    {
+        "dexNum": "251",
+        "name": "celebi",
+        "displayName": "Celebi"
+    },
+    {
+        "dexNum": "252",
+        "name": "treecko",
+        "displayName": "Treecko"
+    },
+    {
+        "dexNum": "253",
+        "name": "grovyle",
+        "displayName": "Grovyle"
+    },
+    {
+        "dexNum": "254",
+        "name": "sceptile",
+        "displayName": "Sceptile"
+    },
+    {
+        "dexNum": "255",
+        "name": "torchic",
+        "displayName": "Torchic"
+    },
+    {
+        "dexNum": "256",
+        "name": "combusken",
+        "displayName": "Combusken"
+    },
+    {
+        "dexNum": "257",
+        "name": "blaziken",
+        "displayName": "Blaziken"
+    },
+    {
+        "dexNum": "258",
+        "name": "mudkip",
+        "displayName": "Mudkip"
+    },
+    {
+        "dexNum": "259",
+        "name": "marshtomp",
+        "displayName": "Marshtomp"
+    },
+    {
+        "dexNum": "260",
+        "name": "swampert",
+        "displayName": "Swampert"
+    },
+    {
+        "dexNum": "261",
+        "name": "poochyena",
+        "displayName": "Poochyena"
+    },
+    {
+        "dexNum": "262",
+        "name": "mightyena",
+        "displayName": "Mightyena"
+    },
+    {
+        "dexNum": "263",
+        "name": "zigzagoon",
+        "displayName": "Zigzagoon"
+    },
+    {
+        "dexNum": "264",
+        "name": "linoone",
+        "displayName": "Linoone"
+    },
+    {
+        "dexNum": "265",
+        "name": "wurmple",
+        "displayName": "Wurmple"
+    },
+    {
+        "dexNum": "266",
+        "name": "silcoon",
+        "displayName": "Silcoon"
+    },
+    {
+        "dexNum": "267",
+        "name": "beautifly",
+        "displayName": "Beautifly"
+    },
+    {
+        "dexNum": "268",
+        "name": "cascoon",
+        "displayName": "Cascoon"
+    },
+    {
+        "dexNum": "269",
+        "name": "dustox",
+        "displayName": "Dustox"
+    },
+    {
+        "dexNum": "270",
+        "name": "lotad",
+        "displayName": "Lotad"
+    },
+    {
+        "dexNum": "271",
+        "name": "lombre",
+        "displayName": "Lombre"
+    },
+    {
+        "dexNum": "272",
+        "name": "ludicolo",
+        "displayName": "Ludicolo"
+    },
+    {
+        "dexNum": "273",
+        "name": "seedot",
+        "displayName": "Seedot"
+    },
+    {
+        "dexNum": "274",
+        "name": "nuzleaf",
+        "displayName": "Nuzleaf"
+    },
+    {
+        "dexNum": "275",
+        "name": "shiftry",
+        "displayName": "Shiftry"
+    },
+    {
+        "dexNum": "276",
+        "name": "taillow",
+        "displayName": "Taillow"
+    },
+    {
+        "dexNum": "277",
+        "name": "swellow",
+        "displayName": "Swellow"
+    },
+    {
+        "dexNum": "278",
+        "name": "wingull",
+        "displayName": "Wingull"
+    },
+    {
+        "dexNum": "279",
+        "name": "pelipper",
+        "displayName": "Pelipper"
+    },
+    {
+        "dexNum": "280",
+        "name": "ralts",
+        "displayName": "Ralts"
+    },
+    {
+        "dexNum": "281",
+        "name": "kirlia",
+        "displayName": "Kirlia"
+    },
+    {
+        "dexNum": "282",
+        "name": "gardevoir",
+        "displayName": "Gardevoir"
+    },
+    {
+        "dexNum": "283",
+        "name": "surskit",
+        "displayName": "Surskit"
+    },
+    {
+        "dexNum": "284",
+        "name": "masquerain",
+        "displayName": "Masquerain"
+    },
+    {
+        "dexNum": "285",
+        "name": "shroomish",
+        "displayName": "Shroomish"
+    },
+    {
+        "dexNum": "286",
+        "name": "breloom",
+        "displayName": "Breloom"
+    },
+    {
+        "dexNum": "287",
+        "name": "slakoth",
+        "displayName": "Slakoth"
+    },
+    {
+        "dexNum": "288",
+        "name": "vigoroth",
+        "displayName": "Vigoroth"
+    },
+    {
+        "dexNum": "289",
+        "name": "slaking",
+        "displayName": "Slaking"
+    },
+    {
+        "dexNum": "290",
+        "name": "nincada",
+        "displayName": "Nincada"
+    },
+    {
+        "dexNum": "291",
+        "name": "ninjask",
+        "displayName": "Ninjask"
+    },
+    {
+        "dexNum": "292",
+        "name": "shedinja",
+        "displayName": "Shedinja"
+    },
+    {
+        "dexNum": "293",
+        "name": "whismur",
+        "displayName": "Whismur"
+    },
+    {
+        "dexNum": "294",
+        "name": "loudred",
+        "displayName": "Loudred"
+    },
+    {
+        "dexNum": "295",
+        "name": "exploud",
+        "displayName": "Exploud"
+    },
+    {
+        "dexNum": "296",
+        "name": "makuhita",
+        "displayName": "Makuhita"
+    },
+    {
+        "dexNum": "297",
+        "name": "hariyama",
+        "displayName": "Hariyama"
+    },
+    {
+        "dexNum": "298",
+        "name": "azurill",
+        "displayName": "Azurill"
+    },
+    {
+        "dexNum": "299",
+        "name": "nosepass",
+        "displayName": "Nosepass"
+    },
+    {
+        "dexNum": "300",
+        "name": "skitty",
+        "displayName": "Skitty"
+    },
+    {
+        "dexNum": "301",
+        "name": "delcatty",
+        "displayName": "Delcatty"
+    },
+    {
+        "dexNum": "302",
+        "name": "sableye",
+        "displayName": "Sableye"
+    },
+    {
+        "dexNum": "303",
+        "name": "mawile",
+        "displayName": "Mawile"
+    },
+    {
+        "dexNum": "304",
+        "name": "aron",
+        "displayName": "Aron"
+    },
+    {
+        "dexNum": "305",
+        "name": "lairon",
+        "displayName": "Lairon"
+    },
+    {
+        "dexNum": "306",
+        "name": "aggron",
+        "displayName": "Aggron"
+    },
+    {
+        "dexNum": "307",
+        "name": "meditite",
+        "displayName": "Meditite"
+    },
+    {
+        "dexNum": "308",
+        "name": "medicham",
+        "displayName": "Medicham"
+    },
+    {
+        "dexNum": "309",
+        "name": "electrike",
+        "displayName": "Electrike"
+    },
+    {
+        "dexNum": "310",
+        "name": "manectric",
+        "displayName": "Manectric"
+    },
+    {
+        "dexNum": "311",
+        "name": "plusle",
+        "displayName": "Plusle"
+    },
+    {
+        "dexNum": "312",
+        "name": "minun",
+        "displayName": "Minun"
+    },
+    {
+        "dexNum": "313",
+        "name": "volbeat",
+        "displayName": "Volbeat"
+    },
+    {
+        "dexNum": "314",
+        "name": "illumise",
+        "displayName": "Illumise"
+    },
+    {
+        "dexNum": "315",
+        "name": "roselia",
+        "displayName": "Roselia"
+    },
+    {
+        "dexNum": "316",
+        "name": "gulpin",
+        "displayName": "Gulpin"
+    },
+    {
+        "dexNum": "317",
+        "name": "swalot",
+        "displayName": "Swalot"
+    },
+    {
+        "dexNum": "318",
+        "name": "carvanha",
+        "displayName": "Carvanha"
+    },
+    {
+        "dexNum": "319",
+        "name": "sharpedo",
+        "displayName": "Sharpedo"
+    },
+    {
+        "dexNum": "320",
+        "name": "wailmer",
+        "displayName": "Wailmer"
+    },
+    {
+        "dexNum": "321",
+        "name": "wailord",
+        "displayName": "Wailord"
+    },
+    {
+        "dexNum": "322",
+        "name": "numel",
+        "displayName": "Numel"
+    },
+    {
+        "dexNum": "323",
+        "name": "camerupt",
+        "displayName": "Camerupt"
+    },
+    {
+        "dexNum": "324",
+        "name": "torkoal",
+        "displayName": "Torkoal"
+    },
+    {
+        "dexNum": "325",
+        "name": "spoink",
+        "displayName": "Spoink"
+    },
+    {
+        "dexNum": "326",
+        "name": "grumpig",
+        "displayName": "Grumpig"
+    },
+    {
+        "dexNum": "327",
+        "name": "spinda",
+        "displayName": "Spinda"
+    },
+    {
+        "dexNum": "328",
+        "name": "trapinch",
+        "displayName": "Trapinch"
+    },
+    {
+        "dexNum": "329",
+        "name": "vibrava",
+        "displayName": "Vibrava"
+    },
+    {
+        "dexNum": "330",
+        "name": "flygon",
+        "displayName": "Flygon"
+    },
+    {
+        "dexNum": "331",
+        "name": "cacnea",
+        "displayName": "Cacnea"
+    },
+    {
+        "dexNum": "332",
+        "name": "cacturne",
+        "displayName": "Cacturne"
+    },
+    {
+        "dexNum": "333",
+        "name": "swablu",
+        "displayName": "Swablu"
+    },
+    {
+        "dexNum": "334",
+        "name": "altaria",
+        "displayName": "Altaria"
+    },
+    {
+        "dexNum": "335",
+        "name": "zangoose",
+        "displayName": "Zangoose"
+    },
+    {
+        "dexNum": "336",
+        "name": "seviper",
+        "displayName": "Seviper"
+    },
+    {
+        "dexNum": "337",
+        "name": "lunatone",
+        "displayName": "Lunatone"
+    },
+    {
+        "dexNum": "338",
+        "name": "solrock",
+        "displayName": "Solrock"
+    },
+    {
+        "dexNum": "339",
+        "name": "barboach",
+        "displayName": "Barboach"
+    },
+    {
+        "dexNum": "340",
+        "name": "whiscash",
+        "displayName": "Whiscash"
+    },
+    {
+        "dexNum": "341",
+        "name": "corphish",
+        "displayName": "Corphish"
+    },
+    {
+        "dexNum": "342",
+        "name": "crawdaunt",
+        "displayName": "Crawdaunt"
+    },
+    {
+        "dexNum": "343",
+        "name": "baltoy",
+        "displayName": "Baltoy"
+    },
+    {
+        "dexNum": "344",
+        "name": "claydol",
+        "displayName": "Claydol"
+    },
+    {
+        "dexNum": "345",
+        "name": "lileep",
+        "displayName": "Lileep"
+    },
+    {
+        "dexNum": "346",
+        "name": "cradily",
+        "displayName": "Cradily"
+    },
+    {
+        "dexNum": "347",
+        "name": "anorith",
+        "displayName": "Anorith"
+    },
+    {
+        "dexNum": "348",
+        "name": "armaldo",
+        "displayName": "Armaldo"
+    },
+    {
+        "dexNum": "349",
+        "name": "feebas",
+        "displayName": "Feebas"
+    },
+    {
+        "dexNum": "350",
+        "name": "milotic",
+        "displayName": "Milotic"
+    },
+    {
+        "dexNum": "351",
+        "name": "castform",
+        "displayName": "Castform"
+    },
+    {
+        "dexNum": "352",
+        "name": "kecleon",
+        "displayName": "Kecleon"
+    },
+    {
+        "dexNum": "353",
+        "name": "shuppet",
+        "displayName": "Shuppet"
+    },
+    {
+        "dexNum": "354",
+        "name": "banette",
+        "displayName": "Banette"
+    },
+    {
+        "dexNum": "355",
+        "name": "duskull",
+        "displayName": "Duskull"
+    },
+    {
+        "dexNum": "356",
+        "name": "dusclops",
+        "displayName": "Dusclops"
+    },
+    {
+        "dexNum": "357",
+        "name": "tropius",
+        "displayName": "Tropius"
+    },
+    {
+        "dexNum": "358",
+        "name": "chimecho",
+        "displayName": "Chimecho"
+    },
+    {
+        "dexNum": "359",
+        "name": "absol",
+        "displayName": "Absol"
+    },
+    {
+        "dexNum": "360",
+        "name": "wynaut",
+        "displayName": "Wynaut"
+    },
+    {
+        "dexNum": "361",
+        "name": "snorunt",
+        "displayName": "Snorunt"
+    },
+    {
+        "dexNum": "362",
+        "name": "glalie",
+        "displayName": "Glalie"
+    },
+    {
+        "dexNum": "363",
+        "name": "spheal",
+        "displayName": "Spheal"
+    },
+    {
+        "dexNum": "364",
+        "name": "sealeo",
+        "displayName": "Sealeo"
+    },
+    {
+        "dexNum": "365",
+        "name": "walrein",
+        "displayName": "Walrein"
+    },
+    {
+        "dexNum": "366",
+        "name": "clamperl",
+        "displayName": "Clamperl"
+    },
+    {
+        "dexNum": "367",
+        "name": "huntail",
+        "displayName": "Huntail"
+    },
+    {
+        "dexNum": "368",
+        "name": "gorebyss",
+        "displayName": "Gorebyss"
+    },
+    {
+        "dexNum": "369",
+        "name": "relicanth",
+        "displayName": "Relicanth"
+    },
+    {
+        "dexNum": "370",
+        "name": "luvdisc",
+        "displayName": "Luvdisc"
+    },
+    {
+        "dexNum": "371",
+        "name": "bagon",
+        "displayName": "Bagon"
+    },
+    {
+        "dexNum": "372",
+        "name": "shelgon",
+        "displayName": "Shelgon"
+    },
+    {
+        "dexNum": "373",
+        "name": "salamence",
+        "displayName": "Salamence"
+    },
+    {
+        "dexNum": "374",
+        "name": "beldum",
+        "displayName": "Beldum"
+    },
+    {
+        "dexNum": "375",
+        "name": "metang",
+        "displayName": "Metang"
+    },
+    {
+        "dexNum": "376",
+        "name": "metagross",
+        "displayName": "Metagross"
+    },
+    {
+        "dexNum": "377",
+        "name": "regirock",
+        "displayName": "Regirock"
+    },
+    {
+        "dexNum": "378",
+        "name": "regice",
+        "displayName": "Regice"
+    },
+    {
+        "dexNum": "379",
+        "name": "registeel",
+        "displayName": "Registeel"
+    },
+    {
+        "dexNum": "380",
+        "name": "latias",
+        "displayName": "Latias"
+    },
+    {
+        "dexNum": "381",
+        "name": "latios",
+        "displayName": "Latios"
+    },
+    {
+        "dexNum": "382",
+        "name": "kyogre",
+        "displayName": "Kyogre"
+    },
+    {
+        "dexNum": "383",
+        "name": "groudon",
+        "displayName": "Groudon"
+    },
+    {
+        "dexNum": "384",
+        "name": "rayquaza",
+        "displayName": "Rayquaza"
+    },
+    {
+        "dexNum": "385",
+        "name": "jirachi",
+        "displayName": "Jirachi"
+    },
+    {
+        "dexNum": "386",
+        "name": "deoxys",
+        "displayName": "Deoxys"
+    },
+    {
+        "dexNum": "387",
+        "name": "turtwig",
+        "displayName": "Turtwig"
+    },
+    {
+        "dexNum": "388",
+        "name": "grotle",
+        "displayName": "Grotle"
+    },
+    {
+        "dexNum": "389",
+        "name": "torterra",
+        "displayName": "Torterra"
+    },
+    {
+        "dexNum": "390",
+        "name": "chimchar",
+        "displayName": "Chimchar"
+    },
+    {
+        "dexNum": "391",
+        "name": "monferno",
+        "displayName": "Monferno"
+    },
+    {
+        "dexNum": "392",
+        "name": "infernape",
+        "displayName": "Infernape"
+    },
+    {
+        "dexNum": "393",
+        "name": "piplup",
+        "displayName": "Piplup"
+    },
+    {
+        "dexNum": "394",
+        "name": "prinplup",
+        "displayName": "Prinplup"
+    },
+    {
+        "dexNum": "395",
+        "name": "empoleon",
+        "displayName": "Empoleon"
+    },
+    {
+        "dexNum": "396",
+        "name": "starly",
+        "displayName": "Starly"
+    },
+    {
+        "dexNum": "397",
+        "name": "staravia",
+        "displayName": "Staravia"
+    },
+    {
+        "dexNum": "398",
+        "name": "staraptor",
+        "displayName": "Staraptor"
+    },
+    {
+        "dexNum": "399",
+        "name": "bidoof",
+        "displayName": "Bidoof"
+    },
+    {
+        "dexNum": "400",
+        "name": "bibarel",
+        "displayName": "Bibarel"
+    },
+    {
+        "dexNum": "401",
+        "name": "kricketot",
+        "displayName": "Kricketot"
+    },
+    {
+        "dexNum": "402",
+        "name": "kricketune",
+        "displayName": "Kricketune"
+    },
+    {
+        "dexNum": "403",
+        "name": "shinx",
+        "displayName": "Shinx"
+    },
+    {
+        "dexNum": "404",
+        "name": "luxio",
+        "displayName": "Luxio"
+    },
+    {
+        "dexNum": "405",
+        "name": "luxray",
+        "displayName": "Luxray"
+    },
+    {
+        "dexNum": "406",
+        "name": "budew",
+        "displayName": "Budew"
+    },
+    {
+        "dexNum": "407",
+        "name": "roserade",
+        "displayName": "Roserade"
+    },
+    {
+        "dexNum": "408",
+        "name": "cranidos",
+        "displayName": "Cranidos"
+    },
+    {
+        "dexNum": "409",
+        "name": "rampardos",
+        "displayName": "Rampardos"
+    },
+    {
+        "dexNum": "410",
+        "name": "shieldon",
+        "displayName": "Shieldon"
+    },
+    {
+        "dexNum": "411",
+        "name": "bastiodon",
+        "displayName": "Bastiodon"
+    },
+    {
+        "dexNum": "412",
+        "name": "burmy",
+        "displayName": "Burmy"
+    },
+    {
+        "dexNum": "413",
+        "name": "wormadam",
+        "displayName": "Wormadam"
+    },
+    {
+        "dexNum": "414",
+        "name": "mothim",
+        "displayName": "Mothim"
+    },
+    {
+        "dexNum": "415",
+        "name": "combee",
+        "displayName": "Combee"
+    },
+    {
+        "dexNum": "416",
+        "name": "vespiquen",
+        "displayName": "Vespiquen"
+    },
+    {
+        "dexNum": "417",
+        "name": "pachirisu",
+        "displayName": "Pachirisu"
+    },
+    {
+        "dexNum": "418",
+        "name": "buizel",
+        "displayName": "Buizel"
+    },
+    {
+        "dexNum": "419",
+        "name": "floatzel",
+        "displayName": "Floatzel"
+    },
+    {
+        "dexNum": "420",
+        "name": "cherubi",
+        "displayName": "Cherubi"
+    },
+    {
+        "dexNum": "421",
+        "name": "cherrim",
+        "displayName": "Cherrim"
+    },
+    {
+        "dexNum": "422",
+        "name": "shellos",
+        "displayName": "Shellos"
+    },
+    {
+        "dexNum": "423",
+        "name": "gastrodon",
+        "displayName": "Gastrodon"
+    },
+    {
+        "dexNum": "424",
+        "name": "ambipom",
+        "displayName": "Ambipom"
+    },
+    {
+        "dexNum": "425",
+        "name": "drifloon",
+        "displayName": "Drifloon"
+    },
+    {
+        "dexNum": "426",
+        "name": "drifblim",
+        "displayName": "Drifblim"
+    },
+    {
+        "dexNum": "427",
+        "name": "buneary",
+        "displayName": "Buneary"
+    },
+    {
+        "dexNum": "428",
+        "name": "lopunny",
+        "displayName": "Lopunny"
+    },
+    {
+        "dexNum": "429",
+        "name": "mismagius",
+        "displayName": "Mismagius"
+    },
+    {
+        "dexNum": "430",
+        "name": "honchkrow",
+        "displayName": "Honchkrow"
+    },
+    {
+        "dexNum": "431",
+        "name": "glameow",
+        "displayName": "Glameow"
+    },
+    {
+        "dexNum": "432",
+        "name": "purugly",
+        "displayName": "Purugly"
+    },
+    {
+        "dexNum": "433",
+        "name": "chingling",
+        "displayName": "Chingling"
+    },
+    {
+        "dexNum": "434",
+        "name": "stunky",
+        "displayName": "Stunky"
+    },
+    {
+        "dexNum": "435",
+        "name": "skuntank",
+        "displayName": "Skuntank"
+    },
+    {
+        "dexNum": "436",
+        "name": "bronzor",
+        "displayName": "Bronzor"
+    },
+    {
+        "dexNum": "437",
+        "name": "bronzong",
+        "displayName": "Bronzong"
+    },
+    {
+        "dexNum": "438",
+        "name": "bonsly",
+        "displayName": "Bonsly"
+    },
+    {
+        "dexNum": "439",
+        "name": "mime-jr",
+        "displayName": "Mime Jr."
+    },
+    {
+        "dexNum": "440",
+        "name": "happiny",
+        "displayName": "Happiny"
+    },
+    {
+        "dexNum": "441",
+        "name": "chatot",
+        "displayName": "Chatot"
+    },
+    {
+        "dexNum": "442",
+        "name": "spiritomb",
+        "displayName": "Spiritomb"
+    },
+    {
+        "dexNum": "443",
+        "name": "gible",
+        "displayName": "Gible"
+    },
+    {
+        "dexNum": "444",
+        "name": "gabite",
+        "displayName": "Gabite"
+    },
+    {
+        "dexNum": "445",
+        "name": "garchomp",
+        "displayName": "Garchomp"
+    },
+    {
+        "dexNum": "446",
+        "name": "munchlax",
+        "displayName": "Munchlax"
+    },
+    {
+        "dexNum": "447",
+        "name": "riolu",
+        "displayName": "Riolu"
+    },
+    {
+        "dexNum": "448",
+        "name": "lucario",
+        "displayName": "Lucario"
+    },
+    {
+        "dexNum": "449",
+        "name": "hippopotas",
+        "displayName": "Hippopotas"
+    },
+    {
+        "dexNum": "450",
+        "name": "hippowdon",
+        "displayName": "Hippowdon"
+    },
+    {
+        "dexNum": "451",
+        "name": "skorupi",
+        "displayName": "Skorupi"
+    },
+    {
+        "dexNum": "452",
+        "name": "drapion",
+        "displayName": "Drapion"
+    },
+    {
+        "dexNum": "453",
+        "name": "croagunk",
+        "displayName": "Croagunk"
+    },
+    {
+        "dexNum": "454",
+        "name": "toxicroak",
+        "displayName": "Toxicroak"
+    },
+    {
+        "dexNum": "455",
+        "name": "carnivine",
+        "displayName": "Carnivine"
+    },
+    {
+        "dexNum": "456",
+        "name": "finneon",
+        "displayName": "Finneon"
+    },
+    {
+        "dexNum": "457",
+        "name": "lumineon",
+        "displayName": "Lumineon"
+    },
+    {
+        "dexNum": "458",
+        "name": "mantyke",
+        "displayName": "Mantyke"
+    },
+    {
+        "dexNum": "459",
+        "name": "snover",
+        "displayName": "Snover"
+    },
+    {
+        "dexNum": "460",
+        "name": "abomasnow",
+        "displayName": "Abomasnow"
+    },
+    {
+        "dexNum": "461",
+        "name": "weavile",
+        "displayName": "Weavile"
+    },
+    {
+        "dexNum": "462",
+        "name": "magnezone",
+        "displayName": "Magnezone"
+    },
+    {
+        "dexNum": "463",
+        "name": "lickilicky",
+        "displayName": "Lickilicky"
+    },
+    {
+        "dexNum": "464",
+        "name": "rhyperior",
+        "displayName": "Rhyperior"
+    },
+    {
+        "dexNum": "465",
+        "name": "tangrowth",
+        "displayName": "Tangrowth"
+    },
+    {
+        "dexNum": "466",
+        "name": "electivire",
+        "displayName": "Electivire"
+    },
+    {
+        "dexNum": "467",
+        "name": "magmortar",
+        "displayName": "Magmortar"
+    },
+    {
+        "dexNum": "468",
+        "name": "togekiss",
+        "displayName": "Togekiss"
+    },
+    {
+        "dexNum": "469",
+        "name": "yanmega",
+        "displayName": "Yanmega"
+    },
+    {
+        "dexNum": "470",
+        "name": "leafeon",
+        "displayName": "Leafeon"
+    },
+    {
+        "dexNum": "471",
+        "name": "glaceon",
+        "displayName": "Glaceon"
+    },
+    {
+        "dexNum": "472",
+        "name": "gliscor",
+        "displayName": "Gliscor"
+    },
+    {
+        "dexNum": "473",
+        "name": "mamoswine",
+        "displayName": "Mamoswine"
+    },
+    {
+        "dexNum": "474",
+        "name": "porygon-z",
+        "displayName": "Porygon-Z"
+    },
+    {
+        "dexNum": "475",
+        "name": "gallade",
+        "displayName": "Gallade"
+    },
+    {
+        "dexNum": "476",
+        "name": "probopass",
+        "displayName": "Probopass"
+    },
+    {
+        "dexNum": "477",
+        "name": "dusknoir",
+        "displayName": "Dusknoir"
+    },
+    {
+        "dexNum": "478",
+        "name": "froslass",
+        "displayName": "Froslass"
+    },
+    {
+        "dexNum": "479",
+        "name": "rotom",
+        "displayName": "Rotom"
+    },
+    {
+        "dexNum": "480",
+        "name": "uxie",
+        "displayName": "Uxie"
+    },
+    {
+        "dexNum": "481",
+        "name": "mesprit",
+        "displayName": "Mesprit"
+    },
+    {
+        "dexNum": "482",
+        "name": "azelf",
+        "displayName": "Azelf"
+    },
+    {
+        "dexNum": "483",
+        "name": "dialga",
+        "displayName": "Dialga"
+    },
+    {
+        "dexNum": "484",
+        "name": "palkia",
+        "displayName": "Palkia"
+    },
+    {
+        "dexNum": "485",
+        "name": "heatran",
+        "displayName": "Heatran"
+    },
+    {
+        "dexNum": "486",
+        "name": "regigigas",
+        "displayName": "Regigigas"
+    },
+    {
+        "dexNum": "487",
+        "name": "giratina",
+        "displayName": "Giratina"
+    },
+    {
+        "dexNum": "488",
+        "name": "cresselia",
+        "displayName": "Cresselia"
+    },
+    {
+        "dexNum": "489",
+        "name": "phione",
+        "displayName": "Phione"
+    },
+    {
+        "dexNum": "490",
+        "name": "manaphy",
+        "displayName": "Manaphy"
+    },
+    {
+        "dexNum": "491",
+        "name": "darkrai",
+        "displayName": "Darkrai"
+    },
+    {
+        "dexNum": "492",
+        "name": "shaymin",
+        "displayName": "Shaymin"
+    },
+    {
+        "dexNum": "493",
+        "name": "arceus",
+        "displayName": "Arceus"
+    },
+    {
+        "dexNum": "494",
+        "name": "victini",
+        "displayName": "Victini"
+    },
+    {
+        "dexNum": "495",
+        "name": "snivy",
+        "displayName": "Snivy"
+    },
+    {
+        "dexNum": "496",
+        "name": "servine",
+        "displayName": "Servine"
+    },
+    {
+        "dexNum": "497",
+        "name": "serperior",
+        "displayName": "Serperior"
+    },
+    {
+        "dexNum": "498",
+        "name": "tepig",
+        "displayName": "Tepig"
+    },
+    {
+        "dexNum": "499",
+        "name": "pignite",
+        "displayName": "Pignite"
+    },
+    {
+        "dexNum": "500",
+        "name": "emboar",
+        "displayName": "Emboar"
+    },
+    {
+        "dexNum": "501",
+        "name": "oshawott",
+        "displayName": "Oshawott"
+    },
+    {
+        "dexNum": "502",
+        "name": "dewott",
+        "displayName": "Dewott"
+    },
+    {
+        "dexNum": "503",
+        "name": "samurott",
+        "displayName": "Samurott"
+    },
+    {
+        "dexNum": "504",
+        "name": "patrat",
+        "displayName": "Patrat"
+    },
+    {
+        "dexNum": "505",
+        "name": "watchog",
+        "displayName": "Watchog"
+    },
+    {
+        "dexNum": "506",
+        "name": "lillipup",
+        "displayName": "Lillipup"
+    },
+    {
+        "dexNum": "507",
+        "name": "herdier",
+        "displayName": "Herdier"
+    },
+    {
+        "dexNum": "508",
+        "name": "stoutland",
+        "displayName": "Stoutland"
+    },
+    {
+        "dexNum": "509",
+        "name": "purrloin",
+        "displayName": "Purrloin"
+    },
+    {
+        "dexNum": "510",
+        "name": "liepard",
+        "displayName": "Liepard"
+    },
+    {
+        "dexNum": "511",
+        "name": "pansage",
+        "displayName": "Pansage"
+    },
+    {
+        "dexNum": "512",
+        "name": "simisage",
+        "displayName": "Simisage"
+    },
+    {
+        "dexNum": "513",
+        "name": "pansear",
+        "displayName": "Pansear"
+    },
+    {
+        "dexNum": "514",
+        "name": "simisear",
+        "displayName": "Simisear"
+    },
+    {
+        "dexNum": "515",
+        "name": "panpour",
+        "displayName": "Panpour"
+    },
+    {
+        "dexNum": "516",
+        "name": "simipour",
+        "displayName": "Simipour"
+    },
+    {
+        "dexNum": "517",
+        "name": "munna",
+        "displayName": "Munna"
+    },
+    {
+        "dexNum": "518",
+        "name": "musharna",
+        "displayName": "Musharna"
+    },
+    {
+        "dexNum": "519",
+        "name": "pidove",
+        "displayName": "Pidove"
+    },
+    {
+        "dexNum": "520",
+        "name": "tranquill",
+        "displayName": "Tranquill"
+    },
+    {
+        "dexNum": "521",
+        "name": "unfezant",
+        "displayName": "Unfezant"
+    },
+    {
+        "dexNum": "522",
+        "name": "blitzle",
+        "displayName": "Blitzle"
+    },
+    {
+        "dexNum": "523",
+        "name": "zebstrika",
+        "displayName": "Zebstrika"
+    },
+    {
+        "dexNum": "524",
+        "name": "roggenrola",
+        "displayName": "Roggenrola"
+    },
+    {
+        "dexNum": "525",
+        "name": "boldore",
+        "displayName": "Boldore"
+    },
+    {
+        "dexNum": "526",
+        "name": "gigalith",
+        "displayName": "Gigalith"
+    },
+    {
+        "dexNum": "527",
+        "name": "woobat",
+        "displayName": "Woobat"
+    },
+    {
+        "dexNum": "528",
+        "name": "swoobat",
+        "displayName": "Swoobat"
+    },
+    {
+        "dexNum": "529",
+        "name": "drilbur",
+        "displayName": "Drilbur"
+    },
+    {
+        "dexNum": "530",
+        "name": "excadrill",
+        "displayName": "Excadrill"
+    },
+    {
+        "dexNum": "531",
+        "name": "audino",
+        "displayName": "Audino"
+    },
+    {
+        "dexNum": "532",
+        "name": "timburr",
+        "displayName": "Timburr"
+    },
+    {
+        "dexNum": "533",
+        "name": "gurdurr",
+        "displayName": "Gurdurr"
+    },
+    {
+        "dexNum": "534",
+        "name": "conkeldurr",
+        "displayName": "Conkeldurr"
+    },
+    {
+        "dexNum": "535",
+        "name": "tympole",
+        "displayName": "Tympole"
+    },
+    {
+        "dexNum": "536",
+        "name": "palpitoad",
+        "displayName": "Palpitoad"
+    },
+    {
+        "dexNum": "537",
+        "name": "seismitoad",
+        "displayName": "Seismitoad"
+    },
+    {
+        "dexNum": "538",
+        "name": "throh",
+        "displayName": "Throh"
+    },
+    {
+        "dexNum": "539",
+        "name": "sawk",
+        "displayName": "Sawk"
+    },
+    {
+        "dexNum": "540",
+        "name": "sewaddle",
+        "displayName": "Sewaddle"
+    },
+    {
+        "dexNum": "541",
+        "name": "swadloon",
+        "displayName": "Swadloon"
+    },
+    {
+        "dexNum": "542",
+        "name": "leavanny",
+        "displayName": "Leavanny"
+    },
+    {
+        "dexNum": "543",
+        "name": "venipede",
+        "displayName": "Venipede"
+    },
+    {
+        "dexNum": "544",
+        "name": "whirlipede",
+        "displayName": "Whirlipede"
+    },
+    {
+        "dexNum": "545",
+        "name": "scolipede",
+        "displayName": "Scolipede"
+    },
+    {
+        "dexNum": "546",
+        "name": "cottonee",
+        "displayName": "Cottonee"
+    },
+    {
+        "dexNum": "547",
+        "name": "whimsicott",
+        "displayName": "Whimsicott"
+    },
+    {
+        "dexNum": "548",
+        "name": "petilil",
+        "displayName": "Petilil"
+    },
+    {
+        "dexNum": "549",
+        "name": "lilligant",
+        "displayName": "Lilligant"
+    },
+    {
+        "dexNum": "550",
+        "name": "basculin",
+        "displayName": "Basculin"
+    },
+    {
+        "dexNum": "551",
+        "name": "sandile",
+        "displayName": "Sandile"
+    },
+    {
+        "dexNum": "552",
+        "name": "krokorok",
+        "displayName": "Krokorok"
+    },
+    {
+        "dexNum": "553",
+        "name": "krookodile",
+        "displayName": "Krookodile"
+    },
+    {
+        "dexNum": "554",
+        "name": "darumaka",
+        "displayName": "Darumaka"
+    },
+    {
+        "dexNum": "555",
+        "name": "darmanitan",
+        "displayName": "Darmanitan"
+    },
+    {
+        "dexNum": "556",
+        "name": "maractus",
+        "displayName": "Maractus"
+    },
+    {
+        "dexNum": "557",
+        "name": "dwebble",
+        "displayName": "Dwebble"
+    },
+    {
+        "dexNum": "558",
+        "name": "crustle",
+        "displayName": "Crustle"
+    },
+    {
+        "dexNum": "559",
+        "name": "scraggy",
+        "displayName": "Scraggy"
+    },
+    {
+        "dexNum": "560",
+        "name": "scrafty",
+        "displayName": "Scrafty"
+    },
+    {
+        "dexNum": "561",
+        "name": "sigilyph",
+        "displayName": "Sigilyph"
+    },
+    {
+        "dexNum": "562",
+        "name": "yamask",
+        "displayName": "Yamask"
+    },
+    {
+        "dexNum": "563",
+        "name": "cofagrigus",
+        "displayName": "Cofagrigus"
+    },
+    {
+        "dexNum": "564",
+        "name": "tirtouga",
+        "displayName": "Tirtouga"
+    },
+    {
+        "dexNum": "565",
+        "name": "carracosta",
+        "displayName": "Carracosta"
+    },
+    {
+        "dexNum": "566",
+        "name": "archen",
+        "displayName": "Archen"
+    },
+    {
+        "dexNum": "567",
+        "name": "archeops",
+        "displayName": "Archeops"
+    },
+    {
+        "dexNum": "568",
+        "name": "trubbish",
+        "displayName": "Trubbish"
+    },
+    {
+        "dexNum": "569",
+        "name": "garbodor",
+        "displayName": "Garbodor"
+    },
+    {
+        "dexNum": "570",
+        "name": "zorua",
+        "displayName": "Zorua"
+    },
+    {
+        "dexNum": "571",
+        "name": "zoroark",
+        "displayName": "Zoroark"
+    },
+    {
+        "dexNum": "572",
+        "name": "minccino",
+        "displayName": "Minccino"
+    },
+    {
+        "dexNum": "573",
+        "name": "cinccino",
+        "displayName": "Cinccino"
+    },
+    {
+        "dexNum": "574",
+        "name": "gothita",
+        "displayName": "Gothita"
+    },
+    {
+        "dexNum": "575",
+        "name": "gothorita",
+        "displayName": "Gothorita"
+    },
+    {
+        "dexNum": "576",
+        "name": "gothitelle",
+        "displayName": "Gothitelle"
+    },
+    {
+        "dexNum": "577",
+        "name": "solosis",
+        "displayName": "Solosis"
+    },
+    {
+        "dexNum": "578",
+        "name": "duosion",
+        "displayName": "Duosion"
+    },
+    {
+        "dexNum": "579",
+        "name": "reuniclus",
+        "displayName": "Reuniclus"
+    },
+    {
+        "dexNum": "580",
+        "name": "ducklett",
+        "displayName": "Ducklett"
+    },
+    {
+        "dexNum": "581",
+        "name": "swanna",
+        "displayName": "Swanna"
+    },
+    {
+        "dexNum": "582",
+        "name": "vanillite",
+        "displayName": "Vanillite"
+    },
+    {
+        "dexNum": "583",
+        "name": "vanillish",
+        "displayName": "Vanillish"
+    },
+    {
+        "dexNum": "584",
+        "name": "vanilluxe",
+        "displayName": "Vanilluxe"
+    },
+    {
+        "dexNum": "585",
+        "name": "deerling",
+        "displayName": "Deerling"
+    },
+    {
+        "dexNum": "586",
+        "name": "sawsbuck",
+        "displayName": "Sawsbuck"
+    },
+    {
+        "dexNum": "587",
+        "name": "emolga",
+        "displayName": "Emolga"
+    },
+    {
+        "dexNum": "588",
+        "name": "karrablast",
+        "displayName": "Karrablast"
+    },
+    {
+        "dexNum": "589",
+        "name": "escavalier",
+        "displayName": "Escavalier"
+    },
+    {
+        "dexNum": "590",
+        "name": "foongus",
+        "displayName": "Foongus"
+    },
+    {
+        "dexNum": "591",
+        "name": "amoonguss",
+        "displayName": "Amoonguss"
+    },
+    {
+        "dexNum": "592",
+        "name": "frillish",
+        "displayName": "Frillish"
+    },
+    {
+        "dexNum": "593",
+        "name": "jellicent",
+        "displayName": "Jellicent"
+    },
+    {
+        "dexNum": "594",
+        "name": "alomomola",
+        "displayName": "Alomomola"
+    },
+    {
+        "dexNum": "595",
+        "name": "joltik",
+        "displayName": "Joltik"
+    },
+    {
+        "dexNum": "596",
+        "name": "galvantula",
+        "displayName": "Galvantula"
+    },
+    {
+        "dexNum": "597",
+        "name": "ferroseed",
+        "displayName": "Ferroseed"
+    },
+    {
+        "dexNum": "598",
+        "name": "ferrothorn",
+        "displayName": "Ferrothorn"
+    },
+    {
+        "dexNum": "599",
+        "name": "klink",
+        "displayName": "Klink"
+    },
+    {
+        "dexNum": "600",
+        "name": "klang",
+        "displayName": "Klang"
+    },
+    {
+        "dexNum": "601",
+        "name": "klinklang",
+        "displayName": "Klinklang"
+    },
+    {
+        "dexNum": "602",
+        "name": "tynamo",
+        "displayName": "Tynamo"
+    },
+    {
+        "dexNum": "603",
+        "name": "eelektrik",
+        "displayName": "Eelektrik"
+    },
+    {
+        "dexNum": "604",
+        "name": "eelektross",
+        "displayName": "Eelektross"
+    },
+    {
+        "dexNum": "605",
+        "name": "elgyem",
+        "displayName": "Elgyem"
+    },
+    {
+        "dexNum": "606",
+        "name": "beheeyem",
+        "displayName": "Beheeyem"
+    },
+    {
+        "dexNum": "607",
+        "name": "litwick",
+        "displayName": "Litwick"
+    },
+    {
+        "dexNum": "608",
+        "name": "lampent",
+        "displayName": "Lampent"
+    },
+    {
+        "dexNum": "609",
+        "name": "chandelure",
+        "displayName": "Chandelure"
+    },
+    {
+        "dexNum": "610",
+        "name": "axew",
+        "displayName": "Axew"
+    },
+    {
+        "dexNum": "611",
+        "name": "fraxure",
+        "displayName": "Fraxure"
+    },
+    {
+        "dexNum": "612",
+        "name": "haxorus",
+        "displayName": "Haxorus"
+    },
+    {
+        "dexNum": "613",
+        "name": "cubchoo",
+        "displayName": "Cubchoo"
+    },
+    {
+        "dexNum": "614",
+        "name": "beartic",
+        "displayName": "Beartic"
+    },
+    {
+        "dexNum": "615",
+        "name": "cryogonal",
+        "displayName": "Cryogonal"
+    },
+    {
+        "dexNum": "616",
+        "name": "shelmet",
+        "displayName": "Shelmet"
+    },
+    {
+        "dexNum": "617",
+        "name": "accelgor",
+        "displayName": "Accelgor"
+    },
+    {
+        "dexNum": "618",
+        "name": "stunfisk",
+        "displayName": "Stunfisk"
+    },
+    {
+        "dexNum": "619",
+        "name": "mienfoo",
+        "displayName": "Mienfoo"
+    },
+    {
+        "dexNum": "620",
+        "name": "mienshao",
+        "displayName": "Mienshao"
+    },
+    {
+        "dexNum": "621",
+        "name": "druddigon",
+        "displayName": "Druddigon"
+    },
+    {
+        "dexNum": "622",
+        "name": "golett",
+        "displayName": "Golett"
+    },
+    {
+        "dexNum": "623",
+        "name": "golurk",
+        "displayName": "Golurk"
+    },
+    {
+        "dexNum": "624",
+        "name": "pawniard",
+        "displayName": "Pawniard"
+    },
+    {
+        "dexNum": "625",
+        "name": "bisharp",
+        "displayName": "Bisharp"
+    },
+    {
+        "dexNum": "626",
+        "name": "bouffalant",
+        "displayName": "Bouffalant"
+    },
+    {
+        "dexNum": "627",
+        "name": "rufflet",
+        "displayName": "Rufflet"
+    },
+    {
+        "dexNum": "628",
+        "name": "braviary",
+        "displayName": "Braviary"
+    },
+    {
+        "dexNum": "629",
+        "name": "vullaby",
+        "displayName": "Vullaby"
+    },
+    {
+        "dexNum": "630",
+        "name": "mandibuzz",
+        "displayName": "Mandibuzz"
+    },
+    {
+        "dexNum": "631",
+        "name": "heatmor",
+        "displayName": "Heatmor"
+    },
+    {
+        "dexNum": "632",
+        "name": "durant",
+        "displayName": "Durant"
+    },
+    {
+        "dexNum": "633",
+        "name": "deino",
+        "displayName": "Deino"
+    },
+    {
+        "dexNum": "634",
+        "name": "zweilous",
+        "displayName": "Zweilous"
+    },
+    {
+        "dexNum": "635",
+        "name": "hydreigon",
+        "displayName": "Hydreigon"
+    },
+    {
+        "dexNum": "636",
+        "name": "larvesta",
+        "displayName": "Larvesta"
+    },
+    {
+        "dexNum": "637",
+        "name": "volcarona",
+        "displayName": "Volcarona"
+    },
+    {
+        "dexNum": "638",
+        "name": "cobalion",
+        "displayName": "Cobalion"
+    },
+    {
+        "dexNum": "639",
+        "name": "terrakion",
+        "displayName": "Terrakion"
+    },
+    {
+        "dexNum": "640",
+        "name": "virizion",
+        "displayName": "Virizion"
+    },
+    {
+        "dexNum": "641",
+        "name": "tornadus",
+        "displayName": "Tornadus"
+    },
+    {
+        "dexNum": "642",
+        "name": "thundurus",
+        "displayName": "Thundurus"
+    },
+    {
+        "dexNum": "643",
+        "name": "reshiram",
+        "displayName": "Reshiram"
+    },
+    {
+        "dexNum": "644",
+        "name": "zekrom",
+        "displayName": "Zekrom"
+    },
+    {
+        "dexNum": "645",
+        "name": "landorus",
+        "displayName": "Landorus"
+    },
+    {
+        "dexNum": "646",
+        "name": "kyurem",
+        "displayName": "Kyurem"
+    },
+    {
+        "dexNum": "647",
+        "name": "keldeo",
+        "displayName": "Keldeo"
+    },
+    {
+        "dexNum": "648",
+        "name": "meloetta",
+        "displayName": "Meloetta"
+    },
+    {
+        "dexNum": "649",
+        "name": "genesect",
+        "displayName": "Genesect"
+    },
+    {
+        "dexNum": "650",
+        "name": "chespin",
+        "displayName": "Chespin"
+    },
+    {
+        "dexNum": "651",
+        "name": "quilladin",
+        "displayName": "Quilladin"
+    },
+    {
+        "dexNum": "652",
+        "name": "chesnaught",
+        "displayName": "Chesnaught"
+    },
+    {
+        "dexNum": "653",
+        "name": "fennekin",
+        "displayName": "Fennekin"
+    },
+    {
+        "dexNum": "654",
+        "name": "braixen",
+        "displayName": "Braixen"
+    },
+    {
+        "dexNum": "655",
+        "name": "delphox",
+        "displayName": "Delphox"
+    },
+    {
+        "dexNum": "656",
+        "name": "froakie",
+        "displayName": "Froakie"
+    },
+    {
+        "dexNum": "657",
+        "name": "frogadier",
+        "displayName": "Frogadier"
+    },
+    {
+        "dexNum": "658",
+        "name": "greninja",
+        "displayName": "Greninja"
+    },
+    {
+        "dexNum": "659",
+        "name": "bunnelby",
+        "displayName": "Bunnelby"
+    },
+    {
+        "dexNum": "660",
+        "name": "diggersby",
+        "displayName": "Diggersby"
+    },
+    {
+        "dexNum": "661",
+        "name": "fletchling",
+        "displayName": "Fletchling"
+    },
+    {
+        "dexNum": "662",
+        "name": "fletchinder",
+        "displayName": "Fletchinder"
+    },
+    {
+        "dexNum": "663",
+        "name": "talonflame",
+        "displayName": "Talonflame"
+    },
+    {
+        "dexNum": "664",
+        "name": "scatterbug",
+        "displayName": "Scatterbug"
+    },
+    {
+        "dexNum": "665",
+        "name": "spewpa",
+        "displayName": "Spewpa"
+    },
+    {
+        "dexNum": "666",
+        "name": "vivillon",
+        "displayName": "Vivillon"
+    },
+    {
+        "dexNum": "667",
+        "name": "litleo",
+        "displayName": "Litleo"
+    },
+    {
+        "dexNum": "668",
+        "name": "pyroar",
+        "displayName": "Pyroar"
+    },
+    {
+        "dexNum": "669",
+        "name": "flabebe",
+        "displayName": "Flabebe"
+    },
+    {
+        "dexNum": "670",
+        "name": "floette",
+        "displayName": "Floette"
+    },
+    {
+        "dexNum": "671",
+        "name": "florges",
+        "displayName": "Florges"
+    },
+    {
+        "dexNum": "672",
+        "name": "skiddo",
+        "displayName": "Skiddo"
+    },
+    {
+        "dexNum": "673",
+        "name": "gogoat",
+        "displayName": "Gogoat"
+    },
+    {
+        "dexNum": "674",
+        "name": "pancham",
+        "displayName": "Pancham"
+    },
+    {
+        "dexNum": "675",
+        "name": "pangoro",
+        "displayName": "Pangoro"
+    },
+    {
+        "dexNum": "676",
+        "name": "furfrou",
+        "displayName": "Furfrou"
+    },
+    {
+        "dexNum": "677",
+        "name": "espurr",
+        "displayName": "Espurr"
+    },
+    {
+        "dexNum": "678",
+        "name": "meowstic",
+        "displayName": "Meowstic"
+    },
+    {
+        "dexNum": "679",
+        "name": "honedge",
+        "displayName": "Honedge"
+    },
+    {
+        "dexNum": "680",
+        "name": "doublade",
+        "displayName": "Doublade"
+    },
+    {
+        "dexNum": "681",
+        "name": "aegislash",
+        "displayName": "Aegislash"
+    },
+    {
+        "dexNum": "682",
+        "name": "spritzee",
+        "displayName": "Spritzee"
+    },
+    {
+        "dexNum": "683",
+        "name": "aromatisse",
+        "displayName": "Aromatisse"
+    },
+    {
+        "dexNum": "684",
+        "name": "swirlix",
+        "displayName": "Swirlix"
+    },
+    {
+        "dexNum": "685",
+        "name": "slurpuff",
+        "displayName": "Slurpuff"
+    },
+    {
+        "dexNum": "686",
+        "name": "inkay",
+        "displayName": "Inkay"
+    },
+    {
+        "dexNum": "687",
+        "name": "malamar",
+        "displayName": "Malamar"
+    },
+    {
+        "dexNum": "688",
+        "name": "binacle",
+        "displayName": "Binacle"
+    },
+    {
+        "dexNum": "689",
+        "name": "barbaracle",
+        "displayName": "Barbaracle"
+    },
+    {
+        "dexNum": "690",
+        "name": "skrelp",
+        "displayName": "Skrelp"
+    },
+    {
+        "dexNum": "691",
+        "name": "dragalge",
+        "displayName": "Dragalge"
+    },
+    {
+        "dexNum": "692",
+        "name": "clauncher",
+        "displayName": "Clauncher"
+    },
+    {
+        "dexNum": "693",
+        "name": "clawitzer",
+        "displayName": "Clawitzer"
+    },
+    {
+        "dexNum": "694",
+        "name": "helioptile",
+        "displayName": "Helioptile"
+    },
+    {
+        "dexNum": "695",
+        "name": "heliolisk",
+        "displayName": "Heliolisk"
+    },
+    {
+        "dexNum": "696",
+        "name": "tyrunt",
+        "displayName": "Tyrunt"
+    },
+    {
+        "dexNum": "697",
+        "name": "tyrantrum",
+        "displayName": "Tyrantrum"
+    },
+    {
+        "dexNum": "698",
+        "name": "amaura",
+        "displayName": "Amaura"
+    },
+    {
+        "dexNum": "699",
+        "name": "aurorus",
+        "displayName": "Aurorus"
+    },
+    {
+        "dexNum": "700",
+        "name": "sylveon",
+        "displayName": "Sylveon"
+    },
+    {
+        "dexNum": "701",
+        "name": "hawlucha",
+        "displayName": "Hawlucha"
+    },
+    {
+        "dexNum": "702",
+        "name": "dedenne",
+        "displayName": "Dedenne"
+    },
+    {
+        "dexNum": "703",
+        "name": "carbink",
+        "displayName": "Carbink"
+    },
+    {
+        "dexNum": "704",
+        "name": "goomy",
+        "displayName": "Goomy"
+    },
+    {
+        "dexNum": "705",
+        "name": "sliggoo",
+        "displayName": "Sliggoo"
+    },
+    {
+        "dexNum": "706",
+        "name": "goodra",
+        "displayName": "Goodra"
+    },
+    {
+        "dexNum": "707",
+        "name": "klefki",
+        "displayName": "Klefki"
+    },
+    {
+        "dexNum": "708",
+        "name": "phantump",
+        "displayName": "Phantump"
+    },
+    {
+        "dexNum": "709",
+        "name": "trevenant",
+        "displayName": "Trevenant"
+    },
+    {
+        "dexNum": "710",
+        "name": "pumpkaboo",
+        "displayName": "Pumpkaboo"
+    },
+    {
+        "dexNum": "711",
+        "name": "gourgeist",
+        "displayName": "Gourgeist"
+    },
+    {
+        "dexNum": "712",
+        "name": "bergmite",
+        "displayName": "Bergmite"
+    },
+    {
+        "dexNum": "713",
+        "name": "avalugg",
+        "displayName": "Avalugg"
+    },
+    {
+        "dexNum": "714",
+        "name": "noibat",
+        "displayName": "Noibat"
+    },
+    {
+        "dexNum": "715",
+        "name": "noivern",
+        "displayName": "Noivern"
+    },
+    {
+        "dexNum": "716",
+        "name": "xerneas",
+        "displayName": "Xerneas"
+    },
+    {
+        "dexNum": "717",
+        "name": "yveltal",
+        "displayName": "Yveltal"
+    },
+    {
+        "dexNum": "718",
+        "name": "zygarde",
+        "displayName": "Zygarde"
+    },
+    {
+        "dexNum": "719",
+        "name": "diancie",
+        "displayName": "Diancie"
+    },
+    {
+        "dexNum": "720",
+        "name": "hoopa",
+        "displayName": "Hoopa"
+    },
+    {
+        "dexNum": "721",
+        "name": "volcanion",
+        "displayName": "Volcanion"
+    }
+]

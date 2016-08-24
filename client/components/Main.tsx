@@ -1,5 +1,6 @@
 import * as React from "react";
 import { PokemonList } from "./PokemonList";
+import * as fetch from "isomorphic-fetch";
 
 export interface MainState {
   pokemonList?: Array<any>;
@@ -20,25 +21,8 @@ export class Main extends React.Component<{}, MainState> {
     fetch(`/poke`)
     .then(res => res.json())
     .then(res => {
-      // Parse the Pokemon list
-      let pokes: Array<Object> = [];
-
-      res.forEach((poke: any, index: number) => {
-        let dexNum: String = String(index + 1);
-
-        // Add leading zeroes
-        while(dexNum.length < 3) {
-          dexNum = "0" + dexNum;
-        }
-
-        pokes.push({
-          dexNum: dexNum,
-          name: poke
-        });
-      });
-
       this.setState({
-        pokemonList: pokes
+        pokemonList: res
       });
     });
   }
@@ -47,7 +31,7 @@ export class Main extends React.Component<{}, MainState> {
     const {pokemonList} = this.state;
     
     return (
-      <div className="content">
+      <div className="container">
         <h1>Pokemon Hunter</h1>
         <PokemonList pokemonList={pokemonList} />
       </div>
