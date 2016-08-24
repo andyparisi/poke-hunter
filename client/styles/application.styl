@@ -1,3 +1,4 @@
+@require 'mixins.styl'
 @require 'poke_pos.styl'
 @require 'pokesprite.css'
 
@@ -18,16 +19,35 @@ h1
   width: 1000px
   margin: 0 auto
 
+.pokemon-location
+  position: fixed
+  top: 0 
+  left: 0 
+  right: 0
+  bottom: 0
+  background: rgba(0, 0, 0, 0.8)
+  z-index: 99
+
+  .location-content
+    position: absolute
+    top: 80px
+    left: 50%
+    width: 500px
+    margin-left: -250px
+    background: white
+    border-radius: 5px
+
 .pokemon-list
   list-style: none
   margin: 0
   border-left: 1px solid #ccc
   border-top: 1px solid #ccc
   padding: 0
+  clearfix()
 
   .poke-list-item
-    height: 90px
-    width: 90px
+    height: 100px
+    width: 100px
     float: left
     border-bottom: 1px solid #ccc
     border-right: 1px solid #ccc

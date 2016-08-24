@@ -8,6 +8,7 @@ var app = express();
 var compiler = webpack(config);
 app.use('/client', express.static('client'));
 app.use('/node_modules', express.static('node_modules'));
+app.use('/server', express.static('server'));
 app.use(bodyParser.json());
 
 app.use(require('webpack-dev-middleware')(compiler, {
@@ -21,6 +22,14 @@ app.use(require('webpack-hot-middleware')(compiler));
 app.get('/poke', (req, res, next) => {
   var pokemon = require('./server/list');
   res.json(pokemon);
+  next();
+});
+
+// Handle details requests
+app.get('/poke/:num', (req, res, next) => {
+  var num = req.params.num;
+  var data = require(path.join(__dirname, '/server', '/data/' + num + '.json'));
+  res.json(data);
   next();
 });
 

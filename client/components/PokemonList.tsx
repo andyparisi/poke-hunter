@@ -3,6 +3,7 @@ import { PokemonListItem } from "./PokemonListItem";
 
 export interface Props {
   pokemonList: Array<any>;
+  openLocation: Function;
 }
 
 export interface State {
@@ -23,7 +24,7 @@ export class PokemonList extends React.Component<Props, State> {
     let pokeItems: Array<any> = [];
 
     pokemonList.forEach((poke, index) => {
-      pokeItems.push(<PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this)} isSelected={selectedPokes[poke.dexNum] != null} />);
+      pokeItems.push(<PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this)} isSelected={selectedPokes[poke.dexNum] != null} openLocation={this.openLocation.bind(this)} />);
     });
 
     return (
@@ -50,5 +51,9 @@ export class PokemonList extends React.Component<Props, State> {
     });
 
     console.log(selectedPokes);
+  }
+
+  openLocation(poke: any) {
+    this.props.openLocation(poke);
   }
 }

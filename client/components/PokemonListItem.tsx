@@ -4,6 +4,7 @@ export interface Props {
   poke: any;
   selectPoke: Function;
   isSelected: Boolean;
+  openLocation: Function;
 }
 
 export class PokemonListItem extends React.Component<Props, {}> {
@@ -16,7 +17,7 @@ export class PokemonListItem extends React.Component<Props, {}> {
     if(isSelected) itemClass += " is-selected";
 
     return (
-      <li className={itemClass} title={`#${dexNum}: ${displayName}`} onClick={this.selectPoke.bind(this)}>
+      <li className={itemClass} title={`#${dexNum}: ${displayName}`} onClick={this.selectPoke.bind(this)} onDoubleClick={this.openLocation.bind(this)}>
         <span className="num">{dexNum}</span>
         <span className="name">{displayName}</span>
         <span className={`pkspr pkmn-${name}`}>
@@ -28,5 +29,9 @@ export class PokemonListItem extends React.Component<Props, {}> {
 
   selectPoke() {
     this.props.selectPoke(this.props.poke);
+  }
+
+  openLocation() {
+    this.props.openLocation(this.props.poke);
   }
 }
