@@ -10,9 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "@types/es6-promise": "0.0.30",
+    "@types/lodash": "^4.14.33",
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.15.0",
     "react": "^15.3.1",
     "react-dom": "^15.3.1"
   },

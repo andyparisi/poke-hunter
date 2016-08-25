@@ -5,6 +5,7 @@ export interface Props {
   selectPoke: Function;
   isSelected: Boolean;
   openLocation: Function;
+  shiftEngaged: Boolean;
 }
 
 export class PokemonListItem extends React.Component<Props, {}> {
@@ -38,6 +39,12 @@ export class PokemonListItem extends React.Component<Props, {}> {
   }
 
   openLocation() {
-    this.props.openLocation(this.props.poke);
+    const { openLocation, poke, shiftEngaged, selectPoke } = this.props;
+
+    // When shift is engaged, select the Pokemon instead of view location
+    if(shiftEngaged) {
+      return selectPoke(poke);
+    }
+    openLocation(poke);
   }
 }

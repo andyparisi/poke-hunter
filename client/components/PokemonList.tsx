@@ -4,6 +4,7 @@ import { PokemonListItem } from "./PokemonListItem";
 export interface Props {
   pokemonList: Array<any>;
   openLocation: Function;
+  shiftEngaged: Boolean;
 }
 
 export interface State {
@@ -19,12 +20,12 @@ export class PokemonList extends React.Component<Props, State> {
   }
 
   render() {
-    const { pokemonList } = this.props;
+    const { pokemonList, shiftEngaged } = this.props;
     const { selectedPokes } = this.state;
     let pokeItems: Array<any> = [];
 
     pokemonList.forEach((poke, index) => {
-      pokeItems.push(<PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this)} isSelected={selectedPokes[poke.dexNum] != null} openLocation={this.openLocation.bind(this)} />);
+      pokeItems.push(<PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this)} isSelected={selectedPokes[poke.dexNum] != null} openLocation={this.openLocation.bind(this)} shiftEngaged={shiftEngaged} />);
     });
 
     return (
