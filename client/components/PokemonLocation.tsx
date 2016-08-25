@@ -65,7 +65,7 @@ export class PokemonLocation extends React.Component<Props, {}> {
         </tr>
       );
       locationTableItems.push(
-        <tr key={g + "_2"}>
+        <tr key={g + "_2"} className="location">
           <td>{loc}</td>
         </tr>
       );
