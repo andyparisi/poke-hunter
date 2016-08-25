@@ -24,6 +24,7 @@ export class PokemonListFilter extends React.Component<Props, {}> {
   handleChange(e: any) {
     const { value } = e.target;
     e.stopPropagation();
+    e.preventDefault();
     this.props.setFilter(value);
   }
 

@@ -130,6 +130,9 @@ export class Main extends React.Component<{}, State> {
   handleKeyPress(e: KeyboardEvent) {
     let filterRef: any = this.refs["filter"];
     filterRef.focus();
-    this.setFilter(e.key);
+
+    if(e.keyCode != KEYBOARD.ENTER) {
+      this.setFilter(e.key);
+    }
   }
 }
