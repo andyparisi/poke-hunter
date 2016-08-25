@@ -16,9 +16,13 @@ export interface State {
   filterTerm?: String;
 }
 
-export class Main extends React.Component<{}, State> {
-  constructor() {
-    super();
+export interface Props {
+  userData: any;
+}
+
+export class Main extends React.Component<Props, State> {
+  constructor(props: any) {
+    super(props);
 
     // Set the initial state
     this.state = {
@@ -51,6 +55,7 @@ export class Main extends React.Component<{}, State> {
   }
 
   render() {
+    const { pokemon } = JSON.parse(this.props.userData);
     const { pokemonList, pokeLocation, locations, shiftEngaged, filterTerm } = this.state;
     let filteredList: Array<any> = pokemonList;
     
@@ -79,7 +84,7 @@ export class Main extends React.Component<{}, State> {
       <div className="container">
         <h1 className="main-header">Pokemon Hunter</h1>
         <PokemonListFilter ref="filter" pokemonList={pokemonList} setFilter={this.setFilter.bind(this)} />
-        <PokemonList pokemonList={filteredList} openLocation={this.openLocation.bind(this)} shiftEngaged={shiftEngaged} />
+        <PokemonList pokemonList={filteredList} openLocation={this.openLocation.bind(this)} shiftEngaged={shiftEngaged} userPokes={pokemon} />
         {pLoc}
       </div>
      );

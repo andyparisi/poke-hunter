@@ -5,6 +5,7 @@ export interface Props {
   pokemonList: Array<any>;
   openLocation: Function;
   shiftEngaged: Boolean;
+  userPokes: Array<any>;
 }
 
 export interface State {
@@ -15,12 +16,16 @@ export class PokemonList extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
     this.state = {
-      selectedPokes: []
+      selectedPokes: props.userPokes || {}
     };
   }
 
+  componentWillReceiveProps(nextProps: Props) {
+    console.log(nextProps);
+  }
+
   render() {
-    const { pokemonList, shiftEngaged } = this.props;
+    const { pokemonList, shiftEngaged, userPokes } = this.props;
     const { selectedPokes } = this.state;
     let pokeItems: Array<any> = [];
 
@@ -37,21 +42,36 @@ export class PokemonList extends React.Component<Props, State> {
 
   selectPoke(poke: any) {
     let { selectedPokes } = this.state;
+    let { dexNum } = poke;
+    // Track in localStorage (temporary persistence)
+    let storagePokes = JSON.parse(localStorage.getItem('_phPokes')) || {};
+    let pokemon = storagePokes.pokemon || {};
     
     // De-select a tracked Pokemon
-    if(selectedPokes[poke.dexNum] != null) {
-      delete selectedPokes[poke.dexNum];
+    if(selectedPokes[dexNum] != null) {
+      delete selectedPokes[dexNum];
+      if(pokemon[dexNum] != null) {
+        delete pokemon[dexNum];
+      }
     }
+
     // Track the selected Pokemon
     else {
-      selectedPokes[poke.dexNum] = poke;
+      selectedPokes[dexNum] = poke;
+      if(pokemon[dexNum] == null) {
+        pokemon[dexNum] = {};
+      }
     }
 
     this.setState({
       selectedPokes: selectedPokes
     });
 
-    console.log(selectedPokes);
+    // Stringify then put the Pokes back in storage
+    let up: string = JSON.stringify({
+      pokemon: pokemon
+    });
+    localStorage.setItem('_phPokes', up);
   }
 
   openLocation(poke: any) {
