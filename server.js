@@ -25,10 +25,11 @@ app.get('/poke', (req, res, next) => {
   next();
 });
 
-// Handle details requests
+// Get a Poke's location data
 app.get('/poke/:num', (req, res, next) => {
   var num = req.params.num;
   var data = require(path.join(__dirname, '/server', '/data/' + num + '.json'));
+  data.details = require(path.join(__dirname, '/server', '/data/details/' + num + '.json'));
   res.json(data);
   next();
 });

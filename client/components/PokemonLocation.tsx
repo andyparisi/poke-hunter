@@ -1,4 +1,5 @@
 import * as React from "react";
+import { PokemonLocationDetails } from "./PokemonLocationDetails";
 
 export interface Props {
   poke: any;
@@ -35,13 +36,14 @@ export class PokemonLocation extends React.Component<Props, {}> {
     // Get the current Poke's location data
     const curLoc: any = locations[dexNum];
     let locationTableItems: any = [];
+    let locationDetails: any = (curLoc != null) ? <PokemonLocationDetails curLoc={curLoc} /> : null;
 
     for(let g in curLoc) {
       let loc: any = curLoc[g];
       let label:String;
 
       // Skip the `num` prop
-      if(g === 'num') continue;
+      if(g === 'num' || g === 'details') continue;
 
       // Set the header label
       switch(g) {
@@ -81,6 +83,7 @@ export class PokemonLocation extends React.Component<Props, {}> {
                 {locationTableItems}
               </tbody>
             </table>
+            {locationDetails}
           </div>
         </div>
       </div>

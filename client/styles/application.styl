@@ -39,9 +39,10 @@ h1
   .location-content
     position: absolute
     top: 80px
+    height: 500px
     left: 50%
-    width: 500px
-    margin-left: -250px
+    width: 600px
+    margin-left: -300px
     background: white
     border-radius: 5px
     overflow: hidden
@@ -55,9 +56,29 @@ h1
 
     .location-body
       padding: 8px  
+      position: absolute
+      top: 36px
+      left: 0
+      right: 0
+      bottom: 0
+      overflow: auto
 
     .location-table
       width: 100%
+      font-size: 14px
+
+      &.details
+        font-size: 12px
+
+        .headers
+          font-weight: bold
+          text-decoration: underline
+
+        .location td
+          padding: 0 3px
+
+      td
+        padding: 3px
 
       [class*='pokemon-']
         text-align: center
