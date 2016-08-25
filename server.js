@@ -29,7 +29,17 @@ app.get('/poke', (req, res, next) => {
 app.get('/poke/:num', (req, res, next) => {
   var num = req.params.num;
   var data = require(path.join(__dirname, '/server', '/data/' + num + '.json'));
-  data.details = require(path.join(__dirname, '/server', '/data/details/' + num + '.json'));
+  var details = require(path.join(__dirname, '/server', '/data/details/' + num + '.json'));
+
+  // Attach details if there are any to show
+  for(var i in details) {
+    if(i === 'num') continue;
+    if(details[i] != null) {
+      data.details = details;
+      break;
+    }
+  }
+
   res.json(data);
   next();
 });

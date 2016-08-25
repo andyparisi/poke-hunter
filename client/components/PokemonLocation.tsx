@@ -2,14 +2,25 @@ import * as React from "react";
 import { PokemonLocationDetails } from "./PokemonLocationDetails";
 
 export interface Props {
-  poke: any;
-  closeLocation: Function;
-  locations: any;
-  openLocation: Function;
-  setLocation: Function;
+  poke?: any;
+  closeLocation?: Function;
+  locations?: any;
+  openLocation?: Function;
+  setLocation?: Function;
 }
 
-export class PokemonLocation extends React.Component<Props, {}> {
+export interface State {
+  detailsActive?: Boolean;
+}
+
+export class PokemonLocation extends React.Component<Props, State> {
+  constructor(props: any) {
+    super(props);
+    this.state = {
+      detailsActive: false
+    };
+  }
+
   componentWillMount() {
     const { poke, setLocation, locations } = this.props;
 
@@ -30,13 +41,25 @@ export class PokemonLocation extends React.Component<Props, {}> {
     window.removeEventListener('keyup', this.handleKeyUp.bind(this));
   }
 
+  componentDidUpdate(prevProps: Props, prevState: State) {
+    if(prevState.detailsActive) {
+      let body: any = this.refs['body'];
+      body.scrollTop = 0;
+    }
+  }
+
   render() {
     const { poke, locations } = this.props;
+    const { detailsActive } = this.state;
     const { dexNum, displayName } = poke;
+
     // Get the current Poke's location data
     const curLoc: any = locations[dexNum];
     let locationTableItems: any = [];
-    let locationDetails: any = (curLoc != null) ? <PokemonLocationDetails curLoc={curLoc} /> : null;
+    let locationDetails: any = (curLoc != null && curLoc.details != null) ? <PokemonLocationDetails detailsActive={detailsActive} curLoc={curLoc} /> : null;
+    let locationBodyClass: String = (detailsActive) ? "location-body details-active" : "location-body";
+    let showDetailsClass: String = (curLoc != null && curLoc.details != null) ? "show-details" : "show-details is-hidden";
+    let showDetailsText: String = (detailsActive) ? "< Hide Details" : "Show Details >";
 
     for(let g in curLoc) {
       let loc: any = curLoc[g];
@@ -76,8 +99,11 @@ export class PokemonLocation extends React.Component<Props, {}> {
     return (
       <div className="pokemon-location" onClick={this.close.bind(this)}>
         <div className="location-content" onClick={this.handleContentClick.bind(this)}>
-          <header className="location-header">{`${poke.displayName} - Locations`}</header>
-          <div className="location-body">
+          <header className="location-header">
+            {`${poke.displayName} - Locations`}
+            <button className={showDetailsClass} onClick={this.toggleDetailsPane.bind(this)}>{showDetailsText}</button>
+          </header>
+          <div ref="body" className={locationBodyClass}>
             <table className="location-table">
               <tbody>
                 {locationTableItems}
@@ -105,5 +131,11 @@ export class PokemonLocation extends React.Component<Props, {}> {
     if(e.keyCode === 27) {
       this.close();
     }
+  }
+
+  toggleDetailsPane() {
+    this.setState({
+      detailsActive: !this.state.detailsActive
+    });
   }
 }

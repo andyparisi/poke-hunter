@@ -12,8 +12,14 @@ body
   margin: 0
   color: #333
 
-input
+  &.no-scroll
+    overflow: hidden
+
+input, button
   font-family: 'Fira Mono', Helvetica, Arial, sans-serif
+
+  &:focus
+    outline: none
 
 h1
   font-size: 24px
@@ -53,6 +59,23 @@ h1
       border-bottom: 1px solid #ebebeb
       background: #336633
       color: white
+      position: relative
+
+      .show-details
+        position: absolute
+        top: 7px
+        text-align: right
+        right: 5px
+        color: white
+        background: transparent
+        border: none
+        cursor: pointer
+
+        &:hover
+          text-decoration: underline
+
+        &.is-hidden
+          display: none
 
     .location-body
       padding: 8px  
@@ -61,20 +84,47 @@ h1
       left: 0
       right: 0
       bottom: 0
-      overflow: auto
+      overflow: hidden
+
+      &.details-active
+        overflow-y: auto
+
+        .location-table:not(.details)
+          opacity: 0.15
+
+    .details-pane
+      position: absolute
+      top: 8px
+      left: 100%
+      width: 100%
+      background: #f4f4f4
+      border-top-left-radius: 5px
+      border-bottom-left-radius: 5px
+      border: 1px solid #ccc
+      transition: transform 0.3s
+      box-shadow: 1px 1px 3px #999
+
+      &.is-active
+        transform: translateX(-99%) translateZ(0)
+
+      .details-header
+        text-align: center
+        background: #ccc
+        color: #333
+        margin-bottom: 5px
 
     .location-table
       width: 100%
       font-size: 14px
+      width: 100%
 
       &.details
-        font-size: 12px
-
         .headers
           font-weight: bold
           text-decoration: underline
 
         .location td
+          font-size: 12px
           padding: 0 3px
 
       td

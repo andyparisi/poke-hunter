@@ -88,13 +88,17 @@ export class Main extends React.Component<{}, State> {
   openLocation(poke: any) {
     this.setState({
       pokeLocation: poke
-    })
+    });
+    let body = document.body;
+    body.classList.add('no-scroll');
   }
 
   closeLocation() {
     this.setState({
       pokeLocation: null
     });
+    let body = document.body;
+    body.classList.remove('no-scroll');
   }
 
   setLocation(data: any) {

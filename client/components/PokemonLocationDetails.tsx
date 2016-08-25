@@ -2,12 +2,15 @@ import * as React from "react";
 
 export interface Props {
   curLoc: any;
+  detailsActive: Boolean;
 }
 
 export class PokemonLocationDetails extends React.Component<Props, {}> {
   render() {
-    const { details } = this.props.curLoc;
+    const { curLoc, detailsActive } = this.props;
+    const { details } = curLoc;
     let locationTableItems: any = [];
+    let detailsPaneClass: String = (detailsActive) ? "details-pane is-active" : "details-pane";
 
     for(let g in details) {
       let loc: Array<any> = details[g];
@@ -34,7 +37,7 @@ export class PokemonLocationDetails extends React.Component<Props, {}> {
 
       locationTableItems.push(
         <tr key={`game_${g}`} className={`pokemon-${g}`}>
-          <td colSpan="5">{label}</td>
+          <td colSpan="4">{label}</td>
         </tr>
       );
 
@@ -43,32 +46,43 @@ export class PokemonLocationDetails extends React.Component<Props, {}> {
           <td>Location</td>
           <td>Method</td>
           <td>Rarity</td>
-          <td>Min Level</td>
-          <td>Max Level</td>
+          <td>Level</td>
         </tr>
       );
 
       // Loop through that game's locations
       loc.forEach((l, index) => {
-        const { location, maxlevel, minlevel, rarity, method } = l;
+        let { location, maxlevel, minlevel, rarity, method } = l;
+
+        // Normalize rarity
+        rarity = rarity || '--';
+
+        // Normalize level range
+        maxlevel = maxlevel || '?';
+        minlevel = minlevel || '?';
+        let levelRange = `${minlevel} - ${maxlevel}`;
+        levelRange = (minlevel === maxlevel) ? minlevel : levelRange;
+
         locationTableItems.push(
           <tr key={`${index}_${g}`} className="location">
             <td key="1">{location}</td>
             <td key="2">{method}</td>
             <td key="3">{rarity}</td>
-            <td key="4">{minlevel}</td>
-            <td key="5">{maxlevel}</td>
+            <td key="4">{levelRange}</td>
           </tr>
         );
       })
     }
 
     return (
-      <table className="location-table details">
-        <tbody>
-          {locationTableItems}
-        </tbody>
-      </table>
+      <div className={detailsPaneClass}>
+        <header className="details-header">Details</header>
+        <table className="location-table details">
+          <tbody>
+            {locationTableItems}
+          </tbody>
+        </table>
+      </div>
     )
   }
 }
