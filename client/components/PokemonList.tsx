@@ -20,10 +20,6 @@ export class PokemonList extends React.Component<Props, State> {
     };
   }
 
-  componentWillReceiveProps(nextProps: Props) {
-    console.log(nextProps);
-  }
-
   render() {
     const { pokemonList, shiftEngaged, userPokes } = this.props;
     const { selectedPokes } = this.state;
