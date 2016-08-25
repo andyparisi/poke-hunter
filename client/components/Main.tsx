@@ -42,9 +42,11 @@ export class Main extends React.Component<{}, State> {
     // Track when shift is pressed down
     window.addEventListener('keydown', this.toggleShift.bind(this));
     window.addEventListener('keyup', this.toggleShift.bind(this));
+    window.addEventListener('keypress', this.handleKeyPress.bind(this));
   }
 
   componentWillUnmount() {
+    window.removeEventListener('keypress', this.handleKeyPress.bind(this));
     window.removeEventListener('keydown', this.toggleShift.bind(this));
   }
 
@@ -76,7 +78,7 @@ export class Main extends React.Component<{}, State> {
     return (
       <div className="container">
         <h1 className="main-header">Pokemon Hunter</h1>
-        <PokemonListFilter pokemonList={pokemonList} setFilter={this.setFilter.bind(this)} />
+        <PokemonListFilter ref="filter" pokemonList={pokemonList} setFilter={this.setFilter.bind(this)} />
         <PokemonList pokemonList={filteredList} openLocation={this.openLocation.bind(this)} shiftEngaged={shiftEngaged} />
         {pLoc}
       </div>
@@ -119,5 +121,11 @@ export class Main extends React.Component<{}, State> {
     this.setState({
       filterTerm: term
     });
+  }
+
+  handleKeyPress(e: KeyboardEvent) {
+    let filterRef: any = this.refs["filter"];
+    filterRef.focus();
+    this.setFilter(e.key);
   }
 }

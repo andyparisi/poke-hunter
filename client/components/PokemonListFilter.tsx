@@ -23,6 +23,12 @@ export class PokemonListFilter extends React.Component<Props, {}> {
 
   handleChange(e: any) {
     const { value } = e.target;
+    e.stopPropagation();
     this.props.setFilter(value);
+  }
+
+  focus() {
+    let filterRef: any = this.refs["filter"];
+    filterRef.focus();
   }
 }
