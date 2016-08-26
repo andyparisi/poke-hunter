@@ -57,10 +57,12 @@ export class PokemonList extends React.Component<Props, State> {
 
     // Put each gen array in a new list
     pokeItems.forEach((genPokes, index) => {
-      let gen: number = index + 1;
+      const gen: number = index + 1;
       const genCol: number = collected[gen - 1] || 0;
-      const genTarget: number = GENERATIONS[`GEN_${gen}_END`];
-      const genPct: number = (genCol / genTarget) * 100;
+      const genStart: number = GENERATIONS[`GEN_${gen}_START`];
+      const genEnd: number = (genStart === 1) ? GENERATIONS[`GEN_${gen}_END`] + 1 : GENERATIONS[`GEN_${gen}_END`];
+      const genDiff: number = genEnd - genStart;
+      const genPct: number = (genCol / genDiff) * 100;
 
       // Add a gen marker to the beginning of each array
       if(!filterTerm) {
@@ -82,7 +84,7 @@ export class PokemonList extends React.Component<Props, State> {
           <div key={`genPokes-${gen}`} className="gen-marker">
             <header>{`Generation ${gen}`}</header>
             <div className="gen-collected">
-              {`${genCol} / ${genTarget} captured`}
+              {`${genCol} / ${genDiff} captured`}
               <div className="collected-progress" style={{ width: `${genPct}%` }} />
             </div>
             <ul className="gen-games">
