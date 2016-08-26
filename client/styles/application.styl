@@ -33,6 +33,7 @@ h1
   .main-header
     margin: 0
 
+// Lcation overlay
 .pokemon-location
   position: fixed
   top: 0 
@@ -149,6 +150,7 @@ h1
       .pokemon-as td:first-child
         background: #00A2D9
 
+// List view
 .pokemon-list
   list-style: none
   margin: 0
@@ -156,6 +158,23 @@ h1
   border-top: 1px solid #ccc
   padding: 0
   clearfix()
+  position: relative
+  margin-bottom: 15px
+
+  .gen-marker
+    position: absolute
+    top: 0
+    left: 0
+    margin-left: -160px
+    width: 150px
+
+    header
+      font-size: 13px
+      text-align: center
+      height: 25px
+      line-height: 25px
+      background: #999
+      color: white
 
   .poke-list-item
     height: 100px
@@ -216,6 +235,7 @@ h1
       top: 25px
       margin-left: -20px
 
+// List filter
 .pokemon-list-filter
   position: absolute
   top: 4px

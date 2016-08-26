@@ -1,5 +1,6 @@
 import * as React from "react";
 import { PokemonListItem } from "./PokemonListItem";
+
 import GENERATIONS from '../constants/generations';
 
 export interface Props {
@@ -18,7 +19,7 @@ export class PokemonList extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
     this.state = {
-      selectedPokes: props.userPokes || {}
+      selectedPokes: props.userPokes || {},
     };
   }
 
@@ -46,12 +47,24 @@ export class PokemonList extends React.Component<Props, State> {
     });
 
     // Put each gen array in a new list
-    pokeItems.forEach(gen => {
-      genList.push(<ul key={gen} className="pokemon-list">{gen}</ul>);
+    pokeItems.forEach((gen, index) => {
+      // Add a gen marker to the beginning of each array
+      if(!filterTerm) {
+        gen.unshift(
+          <div key={`gen-${index + 1}`} className="gen-marker">
+            <header>{`Generation ${index + 1}`}</header>
+            {/*<span className="gen-collected">14/151 collected</span>*/}
+            {/*<ul className="gen-games">
+              <li className="gen-game">Game name and icon</li>
+            </ul>*/}
+          </div>
+        );
+      }
+      genList.push(<ul key={index + 1} className={`pokemon-list gen-${index + 1}`}>{gen}</ul>);
     });
 
     return (
-      <div>
+      <div className="pokemon-gens">
         {genList}
       </div>
     )
