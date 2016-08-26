@@ -39,12 +39,6 @@ export class Main extends React.Component<Props, State> {
     fetch(`/poke`)
     .then(res => res.json())
     .then(res => {
-      // Find the generations
-      for(let i = 0; i < res.length; i++) {
-        let dn: number = (i === 0) ? 1 : +res[i].dexNum;
-        res[i].gen = this.findGeneration(dn, 1);
-      }
-
       this.setState({
         pokemonList: res
       });

@@ -2,3606 +2,4327 @@
     {
         "dexNum": "001",
         "name": "bulbasaur",
-        "displayName": "Bulbasaur"
+        "displayName": "Bulbasaur",
+        "gen": 1
     },
     {
         "dexNum": "002",
         "name": "ivysaur",
-        "displayName": "Ivysaur"
+        "displayName": "Ivysaur",
+        "gen": 1
     },
     {
         "dexNum": "003",
         "name": "venusaur",
-        "displayName": "Venusaur"
+        "displayName": "Venusaur",
+        "gen": 1
     },
     {
         "dexNum": "004",
         "name": "charmander",
-        "displayName": "Charmander"
+        "displayName": "Charmander",
+        "gen": 1
     },
     {
         "dexNum": "005",
         "name": "charmeleon",
-        "displayName": "Charmeleon"
+        "displayName": "Charmeleon",
+        "gen": 1
     },
     {
         "dexNum": "006",
         "name": "charizard",
-        "displayName": "Charizard"
+        "displayName": "Charizard",
+        "gen": 1
     },
     {
         "dexNum": "007",
         "name": "squirtle",
-        "displayName": "Squirtle"
+        "displayName": "Squirtle",
+        "gen": 1
     },
     {
         "dexNum": "008",
         "name": "wartortle",
-        "displayName": "Wartortle"
+        "displayName": "Wartortle",
+        "gen": 1
     },
     {
         "dexNum": "009",
         "name": "blastoise",
-        "displayName": "Blastoise"
+        "displayName": "Blastoise",
+        "gen": 1
     },
     {
         "dexNum": "010",
         "name": "caterpie",
-        "displayName": "Caterpie"
+        "displayName": "Caterpie",
+        "gen": 1
     },
     {
         "dexNum": "011",
         "name": "metapod",
-        "displayName": "Metapod"
+        "displayName": "Metapod",
+        "gen": 1
     },
     {
         "dexNum": "012",
         "name": "butterfree",
-        "displayName": "Butterfree"
+        "displayName": "Butterfree",
+        "gen": 1
     },
     {
         "dexNum": "013",
         "name": "weedle",
-        "displayName": "Weedle"
+        "displayName": "Weedle",
+        "gen": 1
     },
     {
         "dexNum": "014",
         "name": "kakuna",
-        "displayName": "Kakuna"
+        "displayName": "Kakuna",
+        "gen": 1
     },
     {
         "dexNum": "015",
         "name": "beedrill",
-        "displayName": "Beedrill"
+        "displayName": "Beedrill",
+        "gen": 1
     },
     {
         "dexNum": "016",
         "name": "pidgey",
-        "displayName": "Pidgey"
+        "displayName": "Pidgey",
+        "gen": 1
     },
     {
         "dexNum": "017",
         "name": "pidgeotto",
-        "displayName": "Pidgeotto"
+        "displayName": "Pidgeotto",
+        "gen": 1
     },
     {
         "dexNum": "018",
         "name": "pidgeot",
-        "displayName": "Pidgeot"
+        "displayName": "Pidgeot",
+        "gen": 1
     },
     {
         "dexNum": "019",
         "name": "rattata",
-        "displayName": "Rattata"
+        "displayName": "Rattata",
+        "gen": 1
     },
     {
         "dexNum": "020",
         "name": "raticate",
-        "displayName": "Raticate"
+        "displayName": "Raticate",
+        "gen": 1
     },
     {
         "dexNum": "021",
         "name": "spearow",
-        "displayName": "Spearow"
+        "displayName": "Spearow",
+        "gen": 1
     },
     {
         "dexNum": "022",
         "name": "fearow",
-        "displayName": "Fearow"
+        "displayName": "Fearow",
+        "gen": 1
     },
     {
         "dexNum": "023",
         "name": "ekans",
-        "displayName": "Ekans"
+        "displayName": "Ekans",
+        "gen": 1
     },
     {
         "dexNum": "024",
         "name": "arbok",
-        "displayName": "Arbok"
+        "displayName": "Arbok",
+        "gen": 1
     },
     {
         "dexNum": "025",
         "name": "pikachu",
-        "displayName": "Pikachu"
+        "displayName": "Pikachu",
+        "gen": 1
     },
     {
         "dexNum": "026",
         "name": "raichu",
-        "displayName": "Raichu"
+        "displayName": "Raichu",
+        "gen": 1
     },
     {
         "dexNum": "027",
         "name": "sandshrew",
-        "displayName": "Sandshrew"
+        "displayName": "Sandshrew",
+        "gen": 1
     },
     {
         "dexNum": "028",
         "name": "sandslash",
-        "displayName": "Sandslash"
+        "displayName": "Sandslash",
+        "gen": 1
     },
     {
         "dexNum": "029",
         "name": "nidoran-f",
-        "displayName": "Nidoran ♀"
+        "displayName": "Nidoran ♀",
+        "gen": 1
     },
     {
         "dexNum": "030",
         "name": "nidorina",
-        "displayName": "Nidorina"
+        "displayName": "Nidorina",
+        "gen": 1
     },
     {
         "dexNum": "031",
         "name": "nidoqueen",
-        "displayName": "Nidoqueen"
+        "displayName": "Nidoqueen",
+        "gen": 1
     },
     {
         "dexNum": "032",
         "name": "nidoran-m",
-        "displayName": "Nidoran ♂"
+        "displayName": "Nidoran ♂",
+        "gen": 1
     },
     {
         "dexNum": "033",
         "name": "nidorino",
-        "displayName": "Nidorino"
+        "displayName": "Nidorino",
+        "gen": 1
     },
     {
         "dexNum": "034",
         "name": "nidoking",
-        "displayName": "Nidoking"
+        "displayName": "Nidoking",
+        "gen": 1
     },
     {
         "dexNum": "035",
         "name": "clefairy",
-        "displayName": "Clefairy"
+        "displayName": "Clefairy",
+        "gen": 1
     },
     {
         "dexNum": "036",
         "name": "clefable",
-        "displayName": "Clefable"
+        "displayName": "Clefable",
+        "gen": 1
     },
     {
         "dexNum": "037",
         "name": "vulpix",
-        "displayName": "Vulpix"
+        "displayName": "Vulpix",
+        "gen": 1
     },
     {
         "dexNum": "038",
         "name": "ninetales",
-        "displayName": "Ninetales"
+        "displayName": "Ninetales",
+        "gen": 1
     },
     {
         "dexNum": "039",
         "name": "jigglypuff",
-        "displayName": "Jigglypuff"
+        "displayName": "Jigglypuff",
+        "gen": 1
     },
     {
         "dexNum": "040",
         "name": "wigglytuff",
-        "displayName": "Wigglytuff"
+        "displayName": "Wigglytuff",
+        "gen": 1
     },
     {
         "dexNum": "041",
         "name": "zubat",
-        "displayName": "Zubat"
+        "displayName": "Zubat",
+        "gen": 1
     },
     {
         "dexNum": "042",
         "name": "golbat",
-        "displayName": "Golbat"
+        "displayName": "Golbat",
+        "gen": 1
     },
     {
         "dexNum": "043",
         "name": "oddish",
-        "displayName": "Oddish"
+        "displayName": "Oddish",
+        "gen": 1
     },
     {
         "dexNum": "044",
         "name": "gloom",
-        "displayName": "Gloom"
+        "displayName": "Gloom",
+        "gen": 1
     },
     {
         "dexNum": "045",
         "name": "vileplume",
-        "displayName": "Vileplume"
+        "displayName": "Vileplume",
+        "gen": 1
     },
     {
         "dexNum": "046",
         "name": "paras",
-        "displayName": "Paras"
+        "displayName": "Paras",
+        "gen": 1
     },
     {
         "dexNum": "047",
         "name": "parasect",
-        "displayName": "Parasect"
+        "displayName": "Parasect",
+        "gen": 1
     },
     {
         "dexNum": "048",
         "name": "venonat",
-        "displayName": "Venonat"
+        "displayName": "Venonat",
+        "gen": 1
     },
     {
         "dexNum": "049",
         "name": "venomoth",
-        "displayName": "Venomoth"
+        "displayName": "Venomoth",
+        "gen": 1
     },
     {
         "dexNum": "050",
         "name": "diglett",
-        "displayName": "Diglett"
+        "displayName": "Diglett",
+        "gen": 1
     },
     {
         "dexNum": "051",
         "name": "dugtrio",
-        "displayName": "Dugtrio"
+        "displayName": "Dugtrio",
+        "gen": 1
     },
     {
         "dexNum": "052",
         "name": "meowth",
-        "displayName": "Meowth"
+        "displayName": "Meowth",
+        "gen": 1
     },
     {
         "dexNum": "053",
         "name": "persian",
-        "displayName": "Persian"
+        "displayName": "Persian",
+        "gen": 1
     },
     {
         "dexNum": "054",
         "name": "psyduck",
-        "displayName": "Psyduck"
+        "displayName": "Psyduck",
+        "gen": 1
     },
     {
         "dexNum": "055",
         "name": "golduck",
-        "displayName": "Golduck"
+        "displayName": "Golduck",
+        "gen": 1
     },
     {
         "dexNum": "056",
         "name": "mankey",
-        "displayName": "Mankey"
+        "displayName": "Mankey",
+        "gen": 1
     },
     {
         "dexNum": "057",
         "name": "primeape",
-        "displayName": "Primeape"
+        "displayName": "Primeape",
+        "gen": 1
     },
     {
         "dexNum": "058",
         "name": "growlithe",
-        "displayName": "Growlithe"
+        "displayName": "Growlithe",
+        "gen": 1
     },
     {
         "dexNum": "059",
         "name": "arcanine",
-        "displayName": "Arcanine"
+        "displayName": "Arcanine",
+        "gen": 1
     },
     {
         "dexNum": "060",
         "name": "poliwag",
-        "displayName": "Poliwag"
+        "displayName": "Poliwag",
+        "gen": 1
     },
     {
         "dexNum": "061",
         "name": "poliwhirl",
-        "displayName": "Poliwhirl"
+        "displayName": "Poliwhirl",
+        "gen": 1
     },
     {
         "dexNum": "062",
         "name": "poliwrath",
-        "displayName": "Poliwrath"
+        "displayName": "Poliwrath",
+        "gen": 1
     },
     {
         "dexNum": "063",
         "name": "abra",
-        "displayName": "Abra"
+        "displayName": "Abra",
+        "gen": 1
     },
     {
         "dexNum": "064",
         "name": "kadabra",
-        "displayName": "Kadabra"
+        "displayName": "Kadabra",
+        "gen": 1
     },
     {
         "dexNum": "065",
         "name": "alakazam",
-        "displayName": "Alakazam"
+        "displayName": "Alakazam",
+        "gen": 1
     },
     {
         "dexNum": "066",
         "name": "machop",
-        "displayName": "Machop"
+        "displayName": "Machop",
+        "gen": 1
     },
     {
         "dexNum": "067",
         "name": "machoke",
-        "displayName": "Machoke"
+        "displayName": "Machoke",
+        "gen": 1
     },
     {
         "dexNum": "068",
         "name": "machamp",
-        "displayName": "Machamp"
+        "displayName": "Machamp",
+        "gen": 1
     },
     {
         "dexNum": "069",
         "name": "bellsprout",
-        "displayName": "Bellsprout"
+        "displayName": "Bellsprout",
+        "gen": 1
     },
     {
         "dexNum": "070",
         "name": "weepinbell",
-        "displayName": "Weepinbell"
+        "displayName": "Weepinbell",
+        "gen": 1
     },
     {
         "dexNum": "071",
         "name": "victreebel",
-        "displayName": "Victreebel"
+        "displayName": "Victreebel",
+        "gen": 1
     },
     {
         "dexNum": "072",
         "name": "tentacool",
-        "displayName": "Tentacool"
+        "displayName": "Tentacool",
+        "gen": 1
     },
     {
         "dexNum": "073",
         "name": "tentacruel",
-        "displayName": "Tentacruel"
+        "displayName": "Tentacruel",
+        "gen": 1
     },
     {
         "dexNum": "074",
         "name": "geodude",
-        "displayName": "Geodude"
+        "displayName": "Geodude",
+        "gen": 1
     },
     {
         "dexNum": "075",
         "name": "graveler",
-        "displayName": "Graveler"
+        "displayName": "Graveler",
+        "gen": 1
     },
     {
         "dexNum": "076",
         "name": "golem",
-        "displayName": "Golem"
+        "displayName": "Golem",
+        "gen": 1
     },
     {
         "dexNum": "077",
         "name": "ponyta",
-        "displayName": "Ponyta"
+        "displayName": "Ponyta",
+        "gen": 1
     },
     {
         "dexNum": "078",
         "name": "rapidash",
-        "displayName": "Rapidash"
+        "displayName": "Rapidash",
+        "gen": 1
     },
     {
         "dexNum": "079",
         "name": "slowpoke",
-        "displayName": "Slowpoke"
+        "displayName": "Slowpoke",
+        "gen": 1
     },
     {
         "dexNum": "080",
         "name": "slowbro",
-        "displayName": "Slowbro"
+        "displayName": "Slowbro",
+        "gen": 1
     },
     {
         "dexNum": "081",
         "name": "magnemite",
-        "displayName": "Magnemite"
+        "displayName": "Magnemite",
+        "gen": 1
     },
     {
         "dexNum": "082",
         "name": "magneton",
-        "displayName": "Magneton"
+        "displayName": "Magneton",
+        "gen": 1
     },
     {
         "dexNum": "083",
         "name": "farfetchd",
-        "displayName": "Farfetchd"
+        "displayName": "Farfetchd",
+        "gen": 1
     },
     {
         "dexNum": "084",
         "name": "doduo",
-        "displayName": "Doduo"
+        "displayName": "Doduo",
+        "gen": 1
     },
     {
         "dexNum": "085",
         "name": "dodrio",
-        "displayName": "Dodrio"
+        "displayName": "Dodrio",
+        "gen": 1
     },
     {
         "dexNum": "086",
         "name": "seel",
-        "displayName": "Seel"
+        "displayName": "Seel",
+        "gen": 1
     },
     {
         "dexNum": "087",
         "name": "dewgong",
-        "displayName": "Dewgong"
+        "displayName": "Dewgong",
+        "gen": 1
     },
     {
         "dexNum": "088",
         "name": "grimer",
-        "displayName": "Grimer"
+        "displayName": "Grimer",
+        "gen": 1
     },
     {
         "dexNum": "089",
         "name": "muk",
-        "displayName": "Muk"
+        "displayName": "Muk",
+        "gen": 1
     },
     {
         "dexNum": "090",
         "name": "shellder",
-        "displayName": "Shellder"
+        "displayName": "Shellder",
+        "gen": 1
     },
     {
         "dexNum": "091",
         "name": "cloyster",
-        "displayName": "Cloyster"
+        "displayName": "Cloyster",
+        "gen": 1
     },
     {
         "dexNum": "092",
         "name": "gastly",
-        "displayName": "Gastly"
+        "displayName": "Gastly",
+        "gen": 1
     },
     {
         "dexNum": "093",
         "name": "haunter",
-        "displayName": "Haunter"
+        "displayName": "Haunter",
+        "gen": 1
     },
     {
         "dexNum": "094",
         "name": "gengar",
-        "displayName": "Gengar"
+        "displayName": "Gengar",
+        "gen": 1
     },
     {
         "dexNum": "095",
         "name": "onix",
-        "displayName": "Onix"
+        "displayName": "Onix",
+        "gen": 1
     },
     {
         "dexNum": "096",
         "name": "drowzee",
-        "displayName": "Drowzee"
+        "displayName": "Drowzee",
+        "gen": 1
     },
     {
         "dexNum": "097",
         "name": "hypno",
-        "displayName": "Hypno"
+        "displayName": "Hypno",
+        "gen": 1
     },
     {
         "dexNum": "098",
         "name": "krabby",
-        "displayName": "Krabby"
+        "displayName": "Krabby",
+        "gen": 1
     },
     {
         "dexNum": "099",
         "name": "kingler",
-        "displayName": "Kingler"
+        "displayName": "Kingler",
+        "gen": 1
     },
     {
         "dexNum": "100",
         "name": "voltorb",
-        "displayName": "Voltorb"
+        "displayName": "Voltorb",
+        "gen": 1
     },
     {
         "dexNum": "101",
         "name": "electrode",
-        "displayName": "Electrode"
+        "displayName": "Electrode",
+        "gen": 1
     },
     {
         "dexNum": "102",
         "name": "exeggcute",
-        "displayName": "Exeggcute"
+        "displayName": "Exeggcute",
+        "gen": 1
     },
     {
         "dexNum": "103",
         "name": "exeggutor",
-        "displayName": "Exeggutor"
+        "displayName": "Exeggutor",
+        "gen": 1
     },
     {
         "dexNum": "104",
         "name": "cubone",
-        "displayName": "Cubone"
+        "displayName": "Cubone",
+        "gen": 1
     },
     {
         "dexNum": "105",
         "name": "marowak",
-        "displayName": "Marowak"
+        "displayName": "Marowak",
+        "gen": 1
     },
     {
         "dexNum": "106",
         "name": "hitmonlee",
-        "displayName": "Hitmonlee"
+        "displayName": "Hitmonlee",
+        "gen": 1
     },
     {
         "dexNum": "107",
         "name": "hitmonchan",
-        "displayName": "Hitmonchan"
+        "displayName": "Hitmonchan",
+        "gen": 1
     },
     {
         "dexNum": "108",
         "name": "lickitung",
-        "displayName": "Lickitung"
+        "displayName": "Lickitung",
+        "gen": 1
     },
     {
         "dexNum": "109",
         "name": "koffing",
-        "displayName": "Koffing"
+        "displayName": "Koffing",
+        "gen": 1
     },
     {
         "dexNum": "110",
         "name": "weezing",
-        "displayName": "Weezing"
+        "displayName": "Weezing",
+        "gen": 1
     },
     {
         "dexNum": "111",
         "name": "rhyhorn",
-        "displayName": "Rhyhorn"
+        "displayName": "Rhyhorn",
+        "gen": 1
     },
     {
         "dexNum": "112",
         "name": "rhydon",
-        "displayName": "Rhydon"
+        "displayName": "Rhydon",
+        "gen": 1
     },
     {
         "dexNum": "113",
         "name": "chansey",
-        "displayName": "Chansey"
+        "displayName": "Chansey",
+        "gen": 1
     },
     {
         "dexNum": "114",
         "name": "tangela",
-        "displayName": "Tangela"
+        "displayName": "Tangela",
+        "gen": 1
     },
     {
         "dexNum": "115",
         "name": "kangaskhan",
-        "displayName": "Kangaskhan"
+        "displayName": "Kangaskhan",
+        "gen": 1
     },
     {
         "dexNum": "116",
         "name": "horsea",
-        "displayName": "Horsea"
+        "displayName": "Horsea",
+        "gen": 1
     },
     {
         "dexNum": "117",
         "name": "seadra",
-        "displayName": "Seadra"
+        "displayName": "Seadra",
+        "gen": 1
     },
     {
         "dexNum": "118",
         "name": "goldeen",
-        "displayName": "Goldeen"
+        "displayName": "Goldeen",
+        "gen": 1
     },
     {
         "dexNum": "119",
         "name": "seaking",
-        "displayName": "Seaking"
+        "displayName": "Seaking",
+        "gen": 1
     },
     {
         "dexNum": "120",
         "name": "staryu",
-        "displayName": "Staryu"
+        "displayName": "Staryu",
+        "gen": 1
     },
     {
         "dexNum": "121",
         "name": "starmie",
-        "displayName": "Starmie"
+        "displayName": "Starmie",
+        "gen": 1
     },
     {
         "dexNum": "122",
         "name": "mr-mime",
-        "displayName": "Mr. Mime"
+        "displayName": "Mr. Mime",
+        "gen": 1
     },
     {
         "dexNum": "123",
         "name": "scyther",
-        "displayName": "Scyther"
+        "displayName": "Scyther",
+        "gen": 1
     },
     {
         "dexNum": "124",
         "name": "jynx",
-        "displayName": "Jynx"
+        "displayName": "Jynx",
+        "gen": 1
     },
     {
         "dexNum": "125",
         "name": "electabuzz",
-        "displayName": "Electabuzz"
+        "displayName": "Electabuzz",
+        "gen": 1
     },
     {
         "dexNum": "126",
         "name": "magmar",
-        "displayName": "Magmar"
+        "displayName": "Magmar",
+        "gen": 1
     },
     {
         "dexNum": "127",
         "name": "pinsir",
-        "displayName": "Pinsir"
+        "displayName": "Pinsir",
+        "gen": 1
     },
     {
         "dexNum": "128",
         "name": "tauros",
-        "displayName": "Tauros"
+        "displayName": "Tauros",
+        "gen": 1
     },
     {
         "dexNum": "129",
         "name": "magikarp",
-        "displayName": "Magikarp"
+        "displayName": "Magikarp",
+        "gen": 1
     },
     {
         "dexNum": "130",
         "name": "gyarados",
-        "displayName": "Gyarados"
+        "displayName": "Gyarados",
+        "gen": 1
     },
     {
         "dexNum": "131",
         "name": "lapras",
-        "displayName": "Lapras"
+        "displayName": "Lapras",
+        "gen": 1
     },
     {
         "dexNum": "132",
         "name": "ditto",
-        "displayName": "Ditto"
+        "displayName": "Ditto",
+        "gen": 1
     },
     {
         "dexNum": "133",
         "name": "eevee",
-        "displayName": "Eevee"
+        "displayName": "Eevee",
+        "gen": 1
     },
     {
         "dexNum": "134",
         "name": "vaporeon",
-        "displayName": "Vaporeon"
+        "displayName": "Vaporeon",
+        "gen": 1
     },
     {
         "dexNum": "135",
         "name": "jolteon",
-        "displayName": "Jolteon"
+        "displayName": "Jolteon",
+        "gen": 1
     },
     {
         "dexNum": "136",
         "name": "flareon",
-        "displayName": "Flareon"
+        "displayName": "Flareon",
+        "gen": 1
     },
     {
         "dexNum": "137",
         "name": "porygon",
-        "displayName": "Porygon"
+        "displayName": "Porygon",
+        "gen": 1
     },
     {
         "dexNum": "138",
         "name": "omanyte",
-        "displayName": "Omanyte"
+        "displayName": "Omanyte",
+        "gen": 1
     },
     {
         "dexNum": "139",
         "name": "omastar",
-        "displayName": "Omastar"
+        "displayName": "Omastar",
+        "gen": 1
     },
     {
         "dexNum": "140",
         "name": "kabuto",
-        "displayName": "Kabuto"
+        "displayName": "Kabuto",
+        "gen": 1
     },
     {
         "dexNum": "141",
         "name": "kabutops",
-        "displayName": "Kabutops"
+        "displayName": "Kabutops",
+        "gen": 1
     },
     {
         "dexNum": "142",
         "name": "aerodactyl",
-        "displayName": "Aerodactyl"
+        "displayName": "Aerodactyl",
+        "gen": 1
     },
     {
         "dexNum": "143",
         "name": "snorlax",
-        "displayName": "Snorlax"
+        "displayName": "Snorlax",
+        "gen": 1
     },
     {
         "dexNum": "144",
         "name": "articuno",
-        "displayName": "Articuno"
+        "displayName": "Articuno",
+        "gen": 1
     },
     {
         "dexNum": "145",
         "name": "zapdos",
-        "displayName": "Zapdos"
+        "displayName": "Zapdos",
+        "gen": 1
     },
     {
         "dexNum": "146",
         "name": "moltres",
-        "displayName": "Moltres"
+        "displayName": "Moltres",
+        "gen": 1
     },
     {
         "dexNum": "147",
         "name": "dratini",
-        "displayName": "Dratini"
+        "displayName": "Dratini",
+        "gen": 1
     },
     {
         "dexNum": "148",
         "name": "dragonair",
-        "displayName": "Dragonair"
+        "displayName": "Dragonair",
+        "gen": 1
     },
     {
         "dexNum": "149",
         "name": "dragonite",
-        "displayName": "Dragonite"
+        "displayName": "Dragonite",
+        "gen": 1
     },
     {
         "dexNum": "150",
         "name": "mewtwo",
-        "displayName": "Mewtwo"
+        "displayName": "Mewtwo",
+        "gen": 1
     },
     {
         "dexNum": "151",
         "name": "mew",
-        "displayName": "Mew"
+        "displayName": "Mew",
+        "gen": 1
     },
     {
         "dexNum": "152",
         "name": "chikorita",
-        "displayName": "Chikorita"
+        "displayName": "Chikorita",
+        "gen": 2
     },
     {
         "dexNum": "153",
         "name": "bayleef",
-        "displayName": "Bayleef"
+        "displayName": "Bayleef",
+        "gen": 2
     },
     {
         "dexNum": "154",
         "name": "meganium",
-        "displayName": "Meganium"
+        "displayName": "Meganium",
+        "gen": 2
     },
     {
         "dexNum": "155",
         "name": "cyndaquil",
-        "displayName": "Cyndaquil"
+        "displayName": "Cyndaquil",
+        "gen": 2
     },
     {
         "dexNum": "156",
         "name": "quilava",
-        "displayName": "Quilava"
+        "displayName": "Quilava",
+        "gen": 2
     },
     {
         "dexNum": "157",
         "name": "typhlosion",
-        "displayName": "Typhlosion"
+        "displayName": "Typhlosion",
+        "gen": 2
     },
     {
         "dexNum": "158",
         "name": "totodile",
-        "displayName": "Totodile"
+        "displayName": "Totodile",
+        "gen": 2
     },
     {
         "dexNum": "159",
         "name": "croconaw",
-        "displayName": "Croconaw"
+        "displayName": "Croconaw",
+        "gen": 2
     },
     {
         "dexNum": "160",
         "name": "feraligatr",
-        "displayName": "Feraligatr"
+        "displayName": "Feraligatr",
+        "gen": 2
     },
     {
         "dexNum": "161",
         "name": "sentret",
-        "displayName": "Sentret"
+        "displayName": "Sentret",
+        "gen": 2
     },
     {
         "dexNum": "162",
         "name": "furret",
-        "displayName": "Furret"
+        "displayName": "Furret",
+        "gen": 2
     },
     {
         "dexNum": "163",
         "name": "hoothoot",
-        "displayName": "Hoothoot"
+        "displayName": "Hoothoot",
+        "gen": 2
     },
     {
         "dexNum": "164",
         "name": "noctowl",
-        "displayName": "Noctowl"
+        "displayName": "Noctowl",
+        "gen": 2
     },
     {
         "dexNum": "165",
         "name": "ledyba",
-        "displayName": "Ledyba"
+        "displayName": "Ledyba",
+        "gen": 2
     },
     {
         "dexNum": "166",
         "name": "ledian",
-        "displayName": "Ledian"
+        "displayName": "Ledian",
+        "gen": 2
     },
     {
         "dexNum": "167",
         "name": "spinarak",
-        "displayName": "Spinarak"
+        "displayName": "Spinarak",
+        "gen": 2
     },
     {
         "dexNum": "168",
         "name": "ariados",
-        "displayName": "Ariados"
+        "displayName": "Ariados",
+        "gen": 2
     },
     {
         "dexNum": "169",
         "name": "crobat",
-        "displayName": "Crobat"
+        "displayName": "Crobat",
+        "gen": 2
     },
     {
         "dexNum": "170",
         "name": "chinchou",
-        "displayName": "Chinchou"
+        "displayName": "Chinchou",
+        "gen": 2
     },
     {
         "dexNum": "171",
         "name": "lanturn",
-        "displayName": "Lanturn"
+        "displayName": "Lanturn",
+        "gen": 2
     },
     {
         "dexNum": "172",
         "name": "pichu",
-        "displayName": "Pichu"
+        "displayName": "Pichu",
+        "gen": 2
     },
     {
         "dexNum": "173",
         "name": "cleffa",
-        "displayName": "Cleffa"
+        "displayName": "Cleffa",
+        "gen": 2
     },
     {
         "dexNum": "174",
         "name": "igglybuff",
-        "displayName": "Igglybuff"
+        "displayName": "Igglybuff",
+        "gen": 2
     },
     {
         "dexNum": "175",
         "name": "togepi",
-        "displayName": "Togepi"
+        "displayName": "Togepi",
+        "gen": 2
     },
     {
         "dexNum": "176",
         "name": "togetic",
-        "displayName": "Togetic"
+        "displayName": "Togetic",
+        "gen": 2
     },
     {
         "dexNum": "177",
         "name": "natu",
-        "displayName": "Natu"
+        "displayName": "Natu",
+        "gen": 2
     },
     {
         "dexNum": "178",
         "name": "xatu",
-        "displayName": "Xatu"
+        "displayName": "Xatu",
+        "gen": 2
     },
     {
         "dexNum": "179",
         "name": "mareep",
-        "displayName": "Mareep"
+        "displayName": "Mareep",
+        "gen": 2
     },
     {
         "dexNum": "180",
         "name": "flaaffy",
-        "displayName": "Flaaffy"
+        "displayName": "Flaaffy",
+        "gen": 2
     },
     {
         "dexNum": "181",
         "name": "ampharos",
-        "displayName": "Ampharos"
+        "displayName": "Ampharos",
+        "gen": 2
     },
     {
         "dexNum": "182",
         "name": "bellossom",
-        "displayName": "Bellossom"
+        "displayName": "Bellossom",
+        "gen": 2
     },
     {
         "dexNum": "183",
         "name": "marill",
-        "displayName": "Marill"
+        "displayName": "Marill",
+        "gen": 2
     },
     {
         "dexNum": "184",
         "name": "azumarill",
-        "displayName": "Azumarill"
+        "displayName": "Azumarill",
+        "gen": 2
     },
     {
         "dexNum": "185",
         "name": "sudowoodo",
-        "displayName": "Sudowoodo"
+        "displayName": "Sudowoodo",
+        "gen": 2
     },
     {
         "dexNum": "186",
         "name": "politoed",
-        "displayName": "Politoed"
+        "displayName": "Politoed",
+        "gen": 2
     },
     {
         "dexNum": "187",
         "name": "hoppip",
-        "displayName": "Hoppip"
+        "displayName": "Hoppip",
+        "gen": 2
     },
     {
         "dexNum": "188",
         "name": "skiploom",
-        "displayName": "Skiploom"
+        "displayName": "Skiploom",
+        "gen": 2
     },
     {
         "dexNum": "189",
         "name": "jumpluff",
-        "displayName": "Jumpluff"
+        "displayName": "Jumpluff",
+        "gen": 2
     },
     {
         "dexNum": "190",
         "name": "aipom",
-        "displayName": "Aipom"
+        "displayName": "Aipom",
+        "gen": 2
     },
     {
         "dexNum": "191",
         "name": "sunkern",
-        "displayName": "Sunkern"
+        "displayName": "Sunkern",
+        "gen": 2
     },
     {
         "dexNum": "192",
         "name": "sunflora",
-        "displayName": "Sunflora"
+        "displayName": "Sunflora",
+        "gen": 2
     },
     {
         "dexNum": "193",
         "name": "yanma",
-        "displayName": "Yanma"
+        "displayName": "Yanma",
+        "gen": 2
     },
     {
         "dexNum": "194",
         "name": "wooper",
-        "displayName": "Wooper"
+        "displayName": "Wooper",
+        "gen": 2
     },
     {
         "dexNum": "195",
         "name": "quagsire",
-        "displayName": "Quagsire"
+        "displayName": "Quagsire",
+        "gen": 2
     },
     {
         "dexNum": "196",
         "name": "espeon",
-        "displayName": "Espeon"
+        "displayName": "Espeon",
+        "gen": 2
     },
     {
         "dexNum": "197",
         "name": "umbreon",
-        "displayName": "Umbreon"
+        "displayName": "Umbreon",
+        "gen": 2
     },
     {
         "dexNum": "198",
         "name": "murkrow",
-        "displayName": "Murkrow"
+        "displayName": "Murkrow",
+        "gen": 2
     },
     {
         "dexNum": "199",
         "name": "slowking",
-        "displayName": "Slowking"
+        "displayName": "Slowking",
+        "gen": 2
     },
     {
         "dexNum": "200",
         "name": "misdreavus",
-        "displayName": "Misdreavus"
+        "displayName": "Misdreavus",
+        "gen": 2
     },
     {
         "dexNum": "201",
         "name": "unown",
-        "displayName": "Unown"
+        "displayName": "Unown",
+        "gen": 2
     },
     {
         "dexNum": "202",
         "name": "wobbuffet",
-        "displayName": "Wobbuffet"
+        "displayName": "Wobbuffet",
+        "gen": 2
     },
     {
         "dexNum": "203",
         "name": "girafarig",
-        "displayName": "Girafarig"
+        "displayName": "Girafarig",
+        "gen": 2
     },
     {
         "dexNum": "204",
         "name": "pineco",
-        "displayName": "Pineco"
+        "displayName": "Pineco",
+        "gen": 2
     },
     {
         "dexNum": "205",
         "name": "forretress",
-        "displayName": "Forretress"
+        "displayName": "Forretress",
+        "gen": 2
     },
     {
         "dexNum": "206",
         "name": "dunsparce",
-        "displayName": "Dunsparce"
+        "displayName": "Dunsparce",
+        "gen": 2
     },
     {
         "dexNum": "207",
         "name": "gligar",
-        "displayName": "Gligar"
+        "displayName": "Gligar",
+        "gen": 2
     },
     {
         "dexNum": "208",
         "name": "steelix",
-        "displayName": "Steelix"
+        "displayName": "Steelix",
+        "gen": 2
     },
     {
         "dexNum": "209",
         "name": "snubbull",
-        "displayName": "Snubbull"
+        "displayName": "Snubbull",
+        "gen": 2
     },
     {
         "dexNum": "210",
         "name": "granbull",
-        "displayName": "Granbull"
+        "displayName": "Granbull",
+        "gen": 2
     },
     {
         "dexNum": "211",
         "name": "qwilfish",
-        "displayName": "Qwilfish"
+        "displayName": "Qwilfish",
+        "gen": 2
     },
     {
         "dexNum": "212",
         "name": "scizor",
-        "displayName": "Scizor"
+        "displayName": "Scizor",
+        "gen": 2
     },
     {
         "dexNum": "213",
         "name": "shuckle",
-        "displayName": "Shuckle"
+        "displayName": "Shuckle",
+        "gen": 2
     },
     {
         "dexNum": "214",
         "name": "heracross",
-        "displayName": "Heracross"
+        "displayName": "Heracross",
+        "gen": 2
     },
     {
         "dexNum": "215",
         "name": "sneasel",
-        "displayName": "Sneasel"
+        "displayName": "Sneasel",
+        "gen": 2
     },
     {
         "dexNum": "216",
         "name": "teddiursa",
-        "displayName": "Teddiursa"
+        "displayName": "Teddiursa",
+        "gen": 2
     },
     {
         "dexNum": "217",
         "name": "ursaring",
-        "displayName": "Ursaring"
+        "displayName": "Ursaring",
+        "gen": 2
     },
     {
         "dexNum": "218",
         "name": "slugma",
-        "displayName": "Slugma"
+        "displayName": "Slugma",
+        "gen": 2
     },
     {
         "dexNum": "219",
         "name": "magcargo",
-        "displayName": "Magcargo"
+        "displayName": "Magcargo",
+        "gen": 2
     },
     {
         "dexNum": "220",
         "name": "swinub",
-        "displayName": "Swinub"
+        "displayName": "Swinub",
+        "gen": 2
     },
     {
         "dexNum": "221",
         "name": "piloswine",
-        "displayName": "Piloswine"
+        "displayName": "Piloswine",
+        "gen": 2
     },
     {
         "dexNum": "222",
         "name": "corsola",
-        "displayName": "Corsola"
+        "displayName": "Corsola",
+        "gen": 2
     },
     {
         "dexNum": "223",
         "name": "remoraid",
-        "displayName": "Remoraid"
+        "displayName": "Remoraid",
+        "gen": 2
     },
     {
         "dexNum": "224",
         "name": "octillery",
-        "displayName": "Octillery"
+        "displayName": "Octillery",
+        "gen": 2
     },
     {
         "dexNum": "225",
         "name": "delibird",
-        "displayName": "Delibird"
+        "displayName": "Delibird",
+        "gen": 2
     },
     {
         "dexNum": "226",
         "name": "mantine",
-        "displayName": "Mantine"
+        "displayName": "Mantine",
+        "gen": 2
     },
     {
         "dexNum": "227",
         "name": "skarmory",
-        "displayName": "Skarmory"
+        "displayName": "Skarmory",
+        "gen": 2
     },
     {
         "dexNum": "228",
         "name": "houndour",
-        "displayName": "Houndour"
+        "displayName": "Houndour",
+        "gen": 2
     },
     {
         "dexNum": "229",
         "name": "houndoom",
-        "displayName": "Houndoom"
+        "displayName": "Houndoom",
+        "gen": 2
     },
     {
         "dexNum": "230",
         "name": "kingdra",
-        "displayName": "Kingdra"
+        "displayName": "Kingdra",
+        "gen": 2
     },
     {
         "dexNum": "231",
         "name": "phanpy",
-        "displayName": "Phanpy"
+        "displayName": "Phanpy",
+        "gen": 2
     },
     {
         "dexNum": "232",
         "name": "donphan",
-        "displayName": "Donphan"
+        "displayName": "Donphan",
+        "gen": 2
     },
     {
         "dexNum": "233",
         "name": "porygon2",
-        "displayName": "Porygon2"
+        "displayName": "Porygon2",
+        "gen": 2
     },
     {
         "dexNum": "234",
         "name": "stantler",
-        "displayName": "Stantler"
+        "displayName": "Stantler",
+        "gen": 2
     },
     {
         "dexNum": "235",
         "name": "smeargle",
-        "displayName": "Smeargle"
+        "displayName": "Smeargle",
+        "gen": 2
     },
     {
         "dexNum": "236",
         "name": "tyrogue",
-        "displayName": "Tyrogue"
+        "displayName": "Tyrogue",
+        "gen": 2
     },
     {
         "dexNum": "237",
         "name": "hitmontop",
-        "displayName": "Hitmontop"
+        "displayName": "Hitmontop",
+        "gen": 2
     },
     {
         "dexNum": "238",
         "name": "smoochum",
-        "displayName": "Smoochum"
+        "displayName": "Smoochum",
+        "gen": 2
     },
     {
         "dexNum": "239",
         "name": "elekid",
-        "displayName": "Elekid"
+        "displayName": "Elekid",
+        "gen": 2
     },
     {
         "dexNum": "240",
         "name": "magby",
-        "displayName": "Magby"
+        "displayName": "Magby",
+        "gen": 2
     },
     {
         "dexNum": "241",
         "name": "miltank",
-        "displayName": "Miltank"
+        "displayName": "Miltank",
+        "gen": 2
     },
     {
         "dexNum": "242",
         "name": "blissey",
-        "displayName": "Blissey"
+        "displayName": "Blissey",
+        "gen": 2
     },
     {
         "dexNum": "243",
         "name": "raikou",
-        "displayName": "Raikou"
+        "displayName": "Raikou",
+        "gen": 2
     },
     {
         "dexNum": "244",
         "name": "entei",
-        "displayName": "Entei"
+        "displayName": "Entei",
+        "gen": 2
     },
     {
         "dexNum": "245",
         "name": "suicune",
-        "displayName": "Suicune"
+        "displayName": "Suicune",
+        "gen": 2
     },
     {
         "dexNum": "246",
         "name": "larvitar",
-        "displayName": "Larvitar"
+        "displayName": "Larvitar",
+        "gen": 2
     },
     {
         "dexNum": "247",
         "name": "pupitar",
-        "displayName": "Pupitar"
+        "displayName": "Pupitar",
+        "gen": 2
     },
     {
         "dexNum": "248",
         "name": "tyranitar",
-        "displayName": "Tyranitar"
+        "displayName": "Tyranitar",
+        "gen": 2
     },
     {
         "dexNum": "249",
         "name": "lugia",
-        "displayName": "Lugia"
+        "displayName": "Lugia",
+        "gen": 2
     },
     {
         "dexNum": "250",
         "name": "ho-oh",
-        "displayName": "Ho-Oh"
+        "displayName": "Ho-Oh",
+        "gen": 2
     },
     {
         "dexNum": "251",
         "name": "celebi",
-        "displayName": "Celebi"
+        "displayName": "Celebi",
+        "gen": 2
     },
     {
         "dexNum": "252",
         "name": "treecko",
-        "displayName": "Treecko"
+        "displayName": "Treecko",
+        "gen": 3
     },
     {
         "dexNum": "253",
         "name": "grovyle",
-        "displayName": "Grovyle"
+        "displayName": "Grovyle",
+        "gen": 3
     },
     {
         "dexNum": "254",
         "name": "sceptile",
-        "displayName": "Sceptile"
+        "displayName": "Sceptile",
+        "gen": 3
     },
     {
         "dexNum": "255",
         "name": "torchic",
-        "displayName": "Torchic"
+        "displayName": "Torchic",
+        "gen": 3
     },
     {
         "dexNum": "256",
         "name": "combusken",
-        "displayName": "Combusken"
+        "displayName": "Combusken",
+        "gen": 3
     },
     {
         "dexNum": "257",
         "name": "blaziken",
-        "displayName": "Blaziken"
+        "displayName": "Blaziken",
+        "gen": 3
     },
     {
         "dexNum": "258",
         "name": "mudkip",
-        "displayName": "Mudkip"
+        "displayName": "Mudkip",
+        "gen": 3
     },
     {
         "dexNum": "259",
         "name": "marshtomp",
-        "displayName": "Marshtomp"
+        "displayName": "Marshtomp",
+        "gen": 3
     },
     {
         "dexNum": "260",
         "name": "swampert",
-        "displayName": "Swampert"
+        "displayName": "Swampert",
+        "gen": 3
     },
     {
         "dexNum": "261",
         "name": "poochyena",
-        "displayName": "Poochyena"
+        "displayName": "Poochyena",
+        "gen": 3
     },
     {
         "dexNum": "262",
         "name": "mightyena",
-        "displayName": "Mightyena"
+        "displayName": "Mightyena",
+        "gen": 3
     },
     {
         "dexNum": "263",
         "name": "zigzagoon",
-        "displayName": "Zigzagoon"
+        "displayName": "Zigzagoon",
+        "gen": 3
     },
     {
         "dexNum": "264",
         "name": "linoone",
-        "displayName": "Linoone"
+        "displayName": "Linoone",
+        "gen": 3
     },
     {
         "dexNum": "265",
         "name": "wurmple",
-        "displayName": "Wurmple"
+        "displayName": "Wurmple",
+        "gen": 3
     },
     {
         "dexNum": "266",
         "name": "silcoon",
-        "displayName": "Silcoon"
+        "displayName": "Silcoon",
+        "gen": 3
     },
     {
         "dexNum": "267",
         "name": "beautifly",
-        "displayName": "Beautifly"
+        "displayName": "Beautifly",
+        "gen": 3
     },
     {
         "dexNum": "268",
         "name": "cascoon",
-        "displayName": "Cascoon"
+        "displayName": "Cascoon",
+        "gen": 3
     },
     {
         "dexNum": "269",
         "name": "dustox",
-        "displayName": "Dustox"
+        "displayName": "Dustox",
+        "gen": 3
     },
     {
         "dexNum": "270",
         "name": "lotad",
-        "displayName": "Lotad"
+        "displayName": "Lotad",
+        "gen": 3
     },
     {
         "dexNum": "271",
         "name": "lombre",
-        "displayName": "Lombre"
+        "displayName": "Lombre",
+        "gen": 3
     },
     {
         "dexNum": "272",
         "name": "ludicolo",
-        "displayName": "Ludicolo"
+        "displayName": "Ludicolo",
+        "gen": 3
     },
     {
         "dexNum": "273",
         "name": "seedot",
-        "displayName": "Seedot"
+        "displayName": "Seedot",
+        "gen": 3
     },
     {
         "dexNum": "274",
         "name": "nuzleaf",
-        "displayName": "Nuzleaf"
+        "displayName": "Nuzleaf",
+        "gen": 3
     },
     {
         "dexNum": "275",
         "name": "shiftry",
-        "displayName": "Shiftry"
+        "displayName": "Shiftry",
+        "gen": 3
     },
     {
         "dexNum": "276",
         "name": "taillow",
-        "displayName": "Taillow"
+        "displayName": "Taillow",
+        "gen": 3
     },
     {
         "dexNum": "277",
         "name": "swellow",
-        "displayName": "Swellow"
+        "displayName": "Swellow",
+        "gen": 3
     },
     {
         "dexNum": "278",
         "name": "wingull",
-        "displayName": "Wingull"
+        "displayName": "Wingull",
+        "gen": 3
     },
     {
         "dexNum": "279",
         "name": "pelipper",
-        "displayName": "Pelipper"
+        "displayName": "Pelipper",
+        "gen": 3
     },
     {
         "dexNum": "280",
         "name": "ralts",
-        "displayName": "Ralts"
+        "displayName": "Ralts",
+        "gen": 3
     },
     {
         "dexNum": "281",
         "name": "kirlia",
-        "displayName": "Kirlia"
+        "displayName": "Kirlia",
+        "gen": 3
     },
     {
         "dexNum": "282",
         "name": "gardevoir",
-        "displayName": "Gardevoir"
+        "displayName": "Gardevoir",
+        "gen": 3
     },
     {
         "dexNum": "283",
         "name": "surskit",
-        "displayName": "Surskit"
+        "displayName": "Surskit",
+        "gen": 3
     },
     {
         "dexNum": "284",
         "name": "masquerain",
-        "displayName": "Masquerain"
+        "displayName": "Masquerain",
+        "gen": 3
     },
     {
         "dexNum": "285",
         "name": "shroomish",
-        "displayName": "Shroomish"
+        "displayName": "Shroomish",
+        "gen": 3
     },
     {
         "dexNum": "286",
         "name": "breloom",
-        "displayName": "Breloom"
+        "displayName": "Breloom",
+        "gen": 3
     },
     {
         "dexNum": "287",
         "name": "slakoth",
-        "displayName": "Slakoth"
+        "displayName": "Slakoth",
+        "gen": 3
     },
     {
         "dexNum": "288",
         "name": "vigoroth",
-        "displayName": "Vigoroth"
+        "displayName": "Vigoroth",
+        "gen": 3
     },
     {
         "dexNum": "289",
         "name": "slaking",
-        "displayName": "Slaking"
+        "displayName": "Slaking",
+        "gen": 3
     },
     {
         "dexNum": "290",
         "name": "nincada",
-        "displayName": "Nincada"
+        "displayName": "Nincada",
+        "gen": 3
     },
     {
         "dexNum": "291",
         "name": "ninjask",
-        "displayName": "Ninjask"
+        "displayName": "Ninjask",
+        "gen": 3
     },
     {
         "dexNum": "292",
         "name": "shedinja",
-        "displayName": "Shedinja"
+        "displayName": "Shedinja",
+        "gen": 3
     },
     {
         "dexNum": "293",
         "name": "whismur",
-        "displayName": "Whismur"
+        "displayName": "Whismur",
+        "gen": 3
     },
     {
         "dexNum": "294",
         "name": "loudred",
-        "displayName": "Loudred"
+        "displayName": "Loudred",
+        "gen": 3
     },
     {
         "dexNum": "295",
         "name": "exploud",
-        "displayName": "Exploud"
+        "displayName": "Exploud",
+        "gen": 3
     },
     {
         "dexNum": "296",
         "name": "makuhita",
-        "displayName": "Makuhita"
+        "displayName": "Makuhita",
+        "gen": 3
     },
     {
         "dexNum": "297",
         "name": "hariyama",
-        "displayName": "Hariyama"
+        "displayName": "Hariyama",
+        "gen": 3
     },
     {
         "dexNum": "298",
         "name": "azurill",
-        "displayName": "Azurill"
+        "displayName": "Azurill",
+        "gen": 3
     },
     {
         "dexNum": "299",
         "name": "nosepass",
-        "displayName": "Nosepass"
+        "displayName": "Nosepass",
+        "gen": 3
     },
     {
         "dexNum": "300",
         "name": "skitty",
-        "displayName": "Skitty"
+        "displayName": "Skitty",
+        "gen": 3
     },
     {
         "dexNum": "301",
         "name": "delcatty",
-        "displayName": "Delcatty"
+        "displayName": "Delcatty",
+        "gen": 3
     },
     {
         "dexNum": "302",
         "name": "sableye",
-        "displayName": "Sableye"
+        "displayName": "Sableye",
+        "gen": 3
     },
     {
         "dexNum": "303",
         "name": "mawile",
-        "displayName": "Mawile"
+        "displayName": "Mawile",
+        "gen": 3
     },
     {
         "dexNum": "304",
         "name": "aron",
-        "displayName": "Aron"
+        "displayName": "Aron",
+        "gen": 3
     },
     {
         "dexNum": "305",
         "name": "lairon",
-        "displayName": "Lairon"
+        "displayName": "Lairon",
+        "gen": 3
     },
     {
         "dexNum": "306",
         "name": "aggron",
-        "displayName": "Aggron"
+        "displayName": "Aggron",
+        "gen": 3
     },
     {
         "dexNum": "307",
         "name": "meditite",
-        "displayName": "Meditite"
+        "displayName": "Meditite",
+        "gen": 3
     },
     {
         "dexNum": "308",
         "name": "medicham",
-        "displayName": "Medicham"
+        "displayName": "Medicham",
+        "gen": 3
     },
     {
         "dexNum": "309",
         "name": "electrike",
-        "displayName": "Electrike"
+        "displayName": "Electrike",
+        "gen": 3
     },
     {
         "dexNum": "310",
         "name": "manectric",
-        "displayName": "Manectric"
+        "displayName": "Manectric",
+        "gen": 3
     },
     {
         "dexNum": "311",
         "name": "plusle",
-        "displayName": "Plusle"
+        "displayName": "Plusle",
+        "gen": 3
     },
     {
         "dexNum": "312",
         "name": "minun",
-        "displayName": "Minun"
+        "displayName": "Minun",
+        "gen": 3
     },
     {
         "dexNum": "313",
         "name": "volbeat",
-        "displayName": "Volbeat"
+        "displayName": "Volbeat",
+        "gen": 3
     },
     {
         "dexNum": "314",
         "name": "illumise",
-        "displayName": "Illumise"
+        "displayName": "Illumise",
+        "gen": 3
     },
     {
         "dexNum": "315",
         "name": "roselia",
-        "displayName": "Roselia"
+        "displayName": "Roselia",
+        "gen": 3
     },
     {
         "dexNum": "316",
         "name": "gulpin",
-        "displayName": "Gulpin"
+        "displayName": "Gulpin",
+        "gen": 3
     },
     {
         "dexNum": "317",
         "name": "swalot",
-        "displayName": "Swalot"
+        "displayName": "Swalot",
+        "gen": 3
     },
     {
         "dexNum": "318",
         "name": "carvanha",
-        "displayName": "Carvanha"
+        "displayName": "Carvanha",
+        "gen": 3
     },
     {
         "dexNum": "319",
         "name": "sharpedo",
-        "displayName": "Sharpedo"
+        "displayName": "Sharpedo",
+        "gen": 3
     },
     {
         "dexNum": "320",
         "name": "wailmer",
-        "displayName": "Wailmer"
+        "displayName": "Wailmer",
+        "gen": 3
     },
     {
         "dexNum": "321",
         "name": "wailord",
-        "displayName": "Wailord"
+        "displayName": "Wailord",
+        "gen": 3
     },
     {
         "dexNum": "322",
         "name": "numel",
-        "displayName": "Numel"
+        "displayName": "Numel",
+        "gen": 3
     },
     {
         "dexNum": "323",
         "name": "camerupt",
-        "displayName": "Camerupt"
+        "displayName": "Camerupt",
+        "gen": 3
     },
     {
         "dexNum": "324",
         "name": "torkoal",
-        "displayName": "Torkoal"
+        "displayName": "Torkoal",
+        "gen": 3
     },
     {
         "dexNum": "325",
         "name": "spoink",
-        "displayName": "Spoink"
+        "displayName": "Spoink",
+        "gen": 3
     },
     {
         "dexNum": "326",
         "name": "grumpig",
-        "displayName": "Grumpig"
+        "displayName": "Grumpig",
+        "gen": 3
     },
     {
         "dexNum": "327",
         "name": "spinda",
-        "displayName": "Spinda"
+        "displayName": "Spinda",
+        "gen": 3
     },
     {
         "dexNum": "328",
         "name": "trapinch",
-        "displayName": "Trapinch"
+        "displayName": "Trapinch",
+        "gen": 3
     },
     {
         "dexNum": "329",
         "name": "vibrava",
-        "displayName": "Vibrava"
+        "displayName": "Vibrava",
+        "gen": 3
     },
     {
         "dexNum": "330",
         "name": "flygon",
-        "displayName": "Flygon"
+        "displayName": "Flygon",
+        "gen": 3
     },
     {
         "dexNum": "331",
         "name": "cacnea",
-        "displayName": "Cacnea"
+        "displayName": "Cacnea",
+        "gen": 3
     },
     {
         "dexNum": "332",
         "name": "cacturne",
-        "displayName": "Cacturne"
+        "displayName": "Cacturne",
+        "gen": 3
     },
     {
         "dexNum": "333",
         "name": "swablu",
-        "displayName": "Swablu"
+        "displayName": "Swablu",
+        "gen": 3
     },
     {
         "dexNum": "334",
         "name": "altaria",
-        "displayName": "Altaria"
+        "displayName": "Altaria",
+        "gen": 3
     },
     {
         "dexNum": "335",
         "name": "zangoose",
-        "displayName": "Zangoose"
+        "displayName": "Zangoose",
+        "gen": 3
     },
     {
         "dexNum": "336",
         "name": "seviper",
-        "displayName": "Seviper"
+        "displayName": "Seviper",
+        "gen": 3
     },
     {
         "dexNum": "337",
         "name": "lunatone",
-        "displayName": "Lunatone"
+        "displayName": "Lunatone",
+        "gen": 3
     },
     {
         "dexNum": "338",
         "name": "solrock",
-        "displayName": "Solrock"
+        "displayName": "Solrock",
+        "gen": 3
     },
     {
         "dexNum": "339",
         "name": "barboach",
-        "displayName": "Barboach"
+        "displayName": "Barboach",
+        "gen": 3
     },
     {
         "dexNum": "340",
         "name": "whiscash",
-        "displayName": "Whiscash"
+        "displayName": "Whiscash",
+        "gen": 3
     },
     {
         "dexNum": "341",
         "name": "corphish",
-        "displayName": "Corphish"
+        "displayName": "Corphish",
+        "gen": 3
     },
     {
         "dexNum": "342",
         "name": "crawdaunt",
-        "displayName": "Crawdaunt"
+        "displayName": "Crawdaunt",
+        "gen": 3
     },
     {
         "dexNum": "343",
         "name": "baltoy",
-        "displayName": "Baltoy"
+        "displayName": "Baltoy",
+        "gen": 3
     },
     {
         "dexNum": "344",
         "name": "claydol",
-        "displayName": "Claydol"
+        "displayName": "Claydol",
+        "gen": 3
     },
     {
         "dexNum": "345",
         "name": "lileep",
-        "displayName": "Lileep"
+        "displayName": "Lileep",
+        "gen": 3
     },
     {
         "dexNum": "346",
         "name": "cradily",
-        "displayName": "Cradily"
+        "displayName": "Cradily",
+        "gen": 3
     },
     {
         "dexNum": "347",
         "name": "anorith",
-        "displayName": "Anorith"
+        "displayName": "Anorith",
+        "gen": 3
     },
     {
         "dexNum": "348",
         "name": "armaldo",
-        "displayName": "Armaldo"
+        "displayName": "Armaldo",
+        "gen": 3
     },
     {
         "dexNum": "349",
         "name": "feebas",
-        "displayName": "Feebas"
+        "displayName": "Feebas",
+        "gen": 3
     },
     {
         "dexNum": "350",
         "name": "milotic",
-        "displayName": "Milotic"
+        "displayName": "Milotic",
+        "gen": 3
     },
     {
         "dexNum": "351",
         "name": "castform",
-        "displayName": "Castform"
+        "displayName": "Castform",
+        "gen": 3
     },
     {
         "dexNum": "352",
         "name": "kecleon",
-        "displayName": "Kecleon"
+        "displayName": "Kecleon",
+        "gen": 3
     },
     {
         "dexNum": "353",
         "name": "shuppet",
-        "displayName": "Shuppet"
+        "displayName": "Shuppet",
+        "gen": 3
     },
     {
         "dexNum": "354",
         "name": "banette",
-        "displayName": "Banette"
+        "displayName": "Banette",
+        "gen": 3
     },
     {
         "dexNum": "355",
         "name": "duskull",
-        "displayName": "Duskull"
+        "displayName": "Duskull",
+        "gen": 3
     },
     {
         "dexNum": "356",
         "name": "dusclops",
-        "displayName": "Dusclops"
+        "displayName": "Dusclops",
+        "gen": 3
     },
     {
         "dexNum": "357",
         "name": "tropius",
-        "displayName": "Tropius"
+        "displayName": "Tropius",
+        "gen": 3
     },
     {
         "dexNum": "358",
         "name": "chimecho",
-        "displayName": "Chimecho"
+        "displayName": "Chimecho",
+        "gen": 3
     },
     {
         "dexNum": "359",
         "name": "absol",
-        "displayName": "Absol"
+        "displayName": "Absol",
+        "gen": 3
     },
     {
         "dexNum": "360",
         "name": "wynaut",
-        "displayName": "Wynaut"
+        "displayName": "Wynaut",
+        "gen": 3
     },
     {
         "dexNum": "361",
         "name": "snorunt",
-        "displayName": "Snorunt"
+        "displayName": "Snorunt",
+        "gen": 3
     },
     {
         "dexNum": "362",
         "name": "glalie",
-        "displayName": "Glalie"
+        "displayName": "Glalie",
+        "gen": 3
     },
     {
         "dexNum": "363",
         "name": "spheal",
-        "displayName": "Spheal"
+        "displayName": "Spheal",
+        "gen": 3
     },
     {
         "dexNum": "364",
         "name": "sealeo",
-        "displayName": "Sealeo"
+        "displayName": "Sealeo",
+        "gen": 3
     },
     {
         "dexNum": "365",
         "name": "walrein",
-        "displayName": "Walrein"
+        "displayName": "Walrein",
+        "gen": 3
     },
     {
         "dexNum": "366",
         "name": "clamperl",
-        "displayName": "Clamperl"
+        "displayName": "Clamperl",
+        "gen": 3
     },
     {
         "dexNum": "367",
         "name": "huntail",
-        "displayName": "Huntail"
+        "displayName": "Huntail",
+        "gen": 3
     },
     {
         "dexNum": "368",
         "name": "gorebyss",
-        "displayName": "Gorebyss"
+        "displayName": "Gorebyss",
+        "gen": 3
     },
     {
         "dexNum": "369",
         "name": "relicanth",
-        "displayName": "Relicanth"
+        "displayName": "Relicanth",
+        "gen": 3
     },
     {
         "dexNum": "370",
         "name": "luvdisc",
-        "displayName": "Luvdisc"
+        "displayName": "Luvdisc",
+        "gen": 3
     },
     {
         "dexNum": "371",
         "name": "bagon",
-        "displayName": "Bagon"
+        "displayName": "Bagon",
+        "gen": 3
     },
     {
         "dexNum": "372",
         "name": "shelgon",
-        "displayName": "Shelgon"
+        "displayName": "Shelgon",
+        "gen": 3
     },
     {
         "dexNum": "373",
         "name": "salamence",
-        "displayName": "Salamence"
+        "displayName": "Salamence",
+        "gen": 3
     },
     {
         "dexNum": "374",
         "name": "beldum",
-        "displayName": "Beldum"
+        "displayName": "Beldum",
+        "gen": 3
     },
     {
         "dexNum": "375",
         "name": "metang",
-        "displayName": "Metang"
+        "displayName": "Metang",
+        "gen": 3
     },
     {
         "dexNum": "376",
         "name": "metagross",
-        "displayName": "Metagross"
+        "displayName": "Metagross",
+        "gen": 3
     },
     {
         "dexNum": "377",
         "name": "regirock",
-        "displayName": "Regirock"
+        "displayName": "Regirock",
+        "gen": 3
     },
     {
         "dexNum": "378",
         "name": "regice",
-        "displayName": "Regice"
+        "displayName": "Regice",
+        "gen": 3
     },
     {
         "dexNum": "379",
         "name": "registeel",
-        "displayName": "Registeel"
+        "displayName": "Registeel",
+        "gen": 3
     },
     {
         "dexNum": "380",
         "name": "latias",
-        "displayName": "Latias"
+        "displayName": "Latias",
+        "gen": 3
     },
     {
         "dexNum": "381",
         "name": "latios",
-        "displayName": "Latios"
+        "displayName": "Latios",
+        "gen": 3
     },
     {
         "dexNum": "382",
         "name": "kyogre",
-        "displayName": "Kyogre"
+        "displayName": "Kyogre",
+        "gen": 3
     },
     {
         "dexNum": "383",
         "name": "groudon",
-        "displayName": "Groudon"
+        "displayName": "Groudon",
+        "gen": 3
     },
     {
         "dexNum": "384",
         "name": "rayquaza",
-        "displayName": "Rayquaza"
+        "displayName": "Rayquaza",
+        "gen": 3
     },
     {
         "dexNum": "385",
         "name": "jirachi",
-        "displayName": "Jirachi"
+        "displayName": "Jirachi",
+        "gen": 3
     },
     {
         "dexNum": "386",
         "name": "deoxys",
-        "displayName": "Deoxys"
+        "displayName": "Deoxys",
+        "gen": 3
     },
     {
         "dexNum": "387",
         "name": "turtwig",
-        "displayName": "Turtwig"
+        "displayName": "Turtwig",
+        "gen": 4
     },
     {
         "dexNum": "388",
         "name": "grotle",
-        "displayName": "Grotle"
+        "displayName": "Grotle",
+        "gen": 4
     },
     {
         "dexNum": "389",
         "name": "torterra",
-        "displayName": "Torterra"
+        "displayName": "Torterra",
+        "gen": 4
     },
     {
         "dexNum": "390",
         "name": "chimchar",
-        "displayName": "Chimchar"
+        "displayName": "Chimchar",
+        "gen": 4
     },
     {
         "dexNum": "391",
         "name": "monferno",
-        "displayName": "Monferno"
+        "displayName": "Monferno",
+        "gen": 4
     },
     {
         "dexNum": "392",
         "name": "infernape",
-        "displayName": "Infernape"
+        "displayName": "Infernape",
+        "gen": 4
     },
     {
         "dexNum": "393",
         "name": "piplup",
-        "displayName": "Piplup"
+        "displayName": "Piplup",
+        "gen": 4
     },
     {
         "dexNum": "394",
         "name": "prinplup",
-        "displayName": "Prinplup"
+        "displayName": "Prinplup",
+        "gen": 4
     },
     {
         "dexNum": "395",
         "name": "empoleon",
-        "displayName": "Empoleon"
+        "displayName": "Empoleon",
+        "gen": 4
     },
     {
         "dexNum": "396",
         "name": "starly",
-        "displayName": "Starly"
+        "displayName": "Starly",
+        "gen": 4
     },
     {
         "dexNum": "397",
         "name": "staravia",
-        "displayName": "Staravia"
+        "displayName": "Staravia",
+        "gen": 4
     },
     {
         "dexNum": "398",
         "name": "staraptor",
-        "displayName": "Staraptor"
+        "displayName": "Staraptor",
+        "gen": 4
     },
     {
         "dexNum": "399",
         "name": "bidoof",
-        "displayName": "Bidoof"
+        "displayName": "Bidoof",
+        "gen": 4
     },
     {
         "dexNum": "400",
         "name": "bibarel",
-        "displayName": "Bibarel"
+        "displayName": "Bibarel",
+        "gen": 4
     },
     {
         "dexNum": "401",
         "name": "kricketot",
-        "displayName": "Kricketot"
+        "displayName": "Kricketot",
+        "gen": 4
     },
     {
         "dexNum": "402",
         "name": "kricketune",
-        "displayName": "Kricketune"
+        "displayName": "Kricketune",
+        "gen": 4
     },
     {
         "dexNum": "403",
         "name": "shinx",
-        "displayName": "Shinx"
+        "displayName": "Shinx",
+        "gen": 4
     },
     {
         "dexNum": "404",
         "name": "luxio",
-        "displayName": "Luxio"
+        "displayName": "Luxio",
+        "gen": 4
     },
     {
         "dexNum": "405",
         "name": "luxray",
-        "displayName": "Luxray"
+        "displayName": "Luxray",
+        "gen": 4
     },
     {
         "dexNum": "406",
         "name": "budew",
-        "displayName": "Budew"
+        "displayName": "Budew",
+        "gen": 4
     },
     {
         "dexNum": "407",
         "name": "roserade",
-        "displayName": "Roserade"
+        "displayName": "Roserade",
+        "gen": 4
     },
     {
         "dexNum": "408",
         "name": "cranidos",
-        "displayName": "Cranidos"
+        "displayName": "Cranidos",
+        "gen": 4
     },
     {
         "dexNum": "409",
         "name": "rampardos",
-        "displayName": "Rampardos"
+        "displayName": "Rampardos",
+        "gen": 4
     },
     {
         "dexNum": "410",
         "name": "shieldon",
-        "displayName": "Shieldon"
+        "displayName": "Shieldon",
+        "gen": 4
     },
     {
         "dexNum": "411",
         "name": "bastiodon",
-        "displayName": "Bastiodon"
+        "displayName": "Bastiodon",
+        "gen": 4
     },
     {
         "dexNum": "412",
         "name": "burmy",
-        "displayName": "Burmy"
+        "displayName": "Burmy",
+        "gen": 4
     },
     {
         "dexNum": "413",
         "name": "wormadam",
-        "displayName": "Wormadam"
+        "displayName": "Wormadam",
+        "gen": 4
     },
     {
         "dexNum": "414",
         "name": "mothim",
-        "displayName": "Mothim"
+        "displayName": "Mothim",
+        "gen": 4
     },
     {
         "dexNum": "415",
         "name": "combee",
-        "displayName": "Combee"
+        "displayName": "Combee",
+        "gen": 4
     },
     {
         "dexNum": "416",
         "name": "vespiquen",
-        "displayName": "Vespiquen"
+        "displayName": "Vespiquen",
+        "gen": 4
     },
     {
         "dexNum": "417",
         "name": "pachirisu",
-        "displayName": "Pachirisu"
+        "displayName": "Pachirisu",
+        "gen": 4
     },
     {
         "dexNum": "418",
         "name": "buizel",
-        "displayName": "Buizel"
+        "displayName": "Buizel",
+        "gen": 4
     },
     {
         "dexNum": "419",
         "name": "floatzel",
-        "displayName": "Floatzel"
+        "displayName": "Floatzel",
+        "gen": 4
     },
     {
         "dexNum": "420",
         "name": "cherubi",
-        "displayName": "Cherubi"
+        "displayName": "Cherubi",
+        "gen": 4
     },
     {
         "dexNum": "421",
         "name": "cherrim",
-        "displayName": "Cherrim"
+        "displayName": "Cherrim",
+        "gen": 4
     },
     {
         "dexNum": "422",
         "name": "shellos",
-        "displayName": "Shellos"
+        "displayName": "Shellos",
+        "gen": 4
     },
     {
         "dexNum": "423",
         "name": "gastrodon",
-        "displayName": "Gastrodon"
+        "displayName": "Gastrodon",
+        "gen": 4
     },
     {
         "dexNum": "424",
         "name": "ambipom",
-        "displayName": "Ambipom"
+        "displayName": "Ambipom",
+        "gen": 4
     },
     {
         "dexNum": "425",
         "name": "drifloon",
-        "displayName": "Drifloon"
+        "displayName": "Drifloon",
+        "gen": 4
     },
     {
         "dexNum": "426",
         "name": "drifblim",
-        "displayName": "Drifblim"
+        "displayName": "Drifblim",
+        "gen": 4
     },
     {
         "dexNum": "427",
         "name": "buneary",
-        "displayName": "Buneary"
+        "displayName": "Buneary",
+        "gen": 4
     },
     {
         "dexNum": "428",
         "name": "lopunny",
-        "displayName": "Lopunny"
+        "displayName": "Lopunny",
+        "gen": 4
     },
     {
         "dexNum": "429",
         "name": "mismagius",
-        "displayName": "Mismagius"
+        "displayName": "Mismagius",
+        "gen": 4
     },
     {
         "dexNum": "430",
         "name": "honchkrow",
-        "displayName": "Honchkrow"
+        "displayName": "Honchkrow",
+        "gen": 4
     },
     {
         "dexNum": "431",
         "name": "glameow",
-        "displayName": "Glameow"
+        "displayName": "Glameow",
+        "gen": 4
     },
     {
         "dexNum": "432",
         "name": "purugly",
-        "displayName": "Purugly"
+        "displayName": "Purugly",
+        "gen": 4
     },
     {
         "dexNum": "433",
         "name": "chingling",
-        "displayName": "Chingling"
+        "displayName": "Chingling",
+        "gen": 4
     },
     {
         "dexNum": "434",
         "name": "stunky",
-        "displayName": "Stunky"
+        "displayName": "Stunky",
+        "gen": 4
     },
     {
         "dexNum": "435",
         "name": "skuntank",
-        "displayName": "Skuntank"
+        "displayName": "Skuntank",
+        "gen": 4
     },
     {
         "dexNum": "436",
         "name": "bronzor",
-        "displayName": "Bronzor"
+        "displayName": "Bronzor",
+        "gen": 4
     },
     {
         "dexNum": "437",
         "name": "bronzong",
-        "displayName": "Bronzong"
+        "displayName": "Bronzong",
+        "gen": 4
     },
     {
         "dexNum": "438",
         "name": "bonsly",
-        "displayName": "Bonsly"
+        "displayName": "Bonsly",
+        "gen": 4
     },
     {
         "dexNum": "439",
         "name": "mime-jr",
-        "displayName": "Mime Jr."
+        "displayName": "Mime Jr.",
+        "gen": 4
     },
     {
         "dexNum": "440",
         "name": "happiny",
-        "displayName": "Happiny"
+        "displayName": "Happiny",
+        "gen": 4
     },
     {
         "dexNum": "441",
         "name": "chatot",
-        "displayName": "Chatot"
+        "displayName": "Chatot",
+        "gen": 4
     },
     {
         "dexNum": "442",
         "name": "spiritomb",
-        "displayName": "Spiritomb"
+        "displayName": "Spiritomb",
+        "gen": 4
     },
     {
         "dexNum": "443",
         "name": "gible",
-        "displayName": "Gible"
+        "displayName": "Gible",
+        "gen": 4
     },
     {
         "dexNum": "444",
         "name": "gabite",
-        "displayName": "Gabite"
+        "displayName": "Gabite",
+        "gen": 4
     },
     {
         "dexNum": "445",
         "name": "garchomp",
-        "displayName": "Garchomp"
+        "displayName": "Garchomp",
+        "gen": 4
     },
     {
         "dexNum": "446",
         "name": "munchlax",
-        "displayName": "Munchlax"
+        "displayName": "Munchlax",
+        "gen": 4
     },
     {
         "dexNum": "447",
         "name": "riolu",
-        "displayName": "Riolu"
+        "displayName": "Riolu",
+        "gen": 4
     },
     {
         "dexNum": "448",
         "name": "lucario",
-        "displayName": "Lucario"
+        "displayName": "Lucario",
+        "gen": 4
     },
     {
         "dexNum": "449",
         "name": "hippopotas",
-        "displayName": "Hippopotas"
+        "displayName": "Hippopotas",
+        "gen": 4
     },
     {
         "dexNum": "450",
         "name": "hippowdon",
-        "displayName": "Hippowdon"
+        "displayName": "Hippowdon",
+        "gen": 4
     },
     {
         "dexNum": "451",
         "name": "skorupi",
-        "displayName": "Skorupi"
+        "displayName": "Skorupi",
+        "gen": 4
     },
     {
         "dexNum": "452",
         "name": "drapion",
-        "displayName": "Drapion"
+        "displayName": "Drapion",
+        "gen": 4
     },
     {
         "dexNum": "453",
         "name": "croagunk",
-        "displayName": "Croagunk"
+        "displayName": "Croagunk",
+        "gen": 4
     },
     {
         "dexNum": "454",
         "name": "toxicroak",
-        "displayName": "Toxicroak"
+        "displayName": "Toxicroak",
+        "gen": 4
     },
     {
         "dexNum": "455",
         "name": "carnivine",
-        "displayName": "Carnivine"
+        "displayName": "Carnivine",
+        "gen": 4
     },
     {
         "dexNum": "456",
         "name": "finneon",
-        "displayName": "Finneon"
+        "displayName": "Finneon",
+        "gen": 4
     },
     {
         "dexNum": "457",
         "name": "lumineon",
-        "displayName": "Lumineon"
+        "displayName": "Lumineon",
+        "gen": 4
     },
     {
         "dexNum": "458",
         "name": "mantyke",
-        "displayName": "Mantyke"
+        "displayName": "Mantyke",
+        "gen": 4
     },
     {
         "dexNum": "459",
         "name": "snover",
-        "displayName": "Snover"
+        "displayName": "Snover",
+        "gen": 4
     },
     {
         "dexNum": "460",
         "name": "abomasnow",
-        "displayName": "Abomasnow"
+        "displayName": "Abomasnow",
+        "gen": 4
     },
     {
         "dexNum": "461",
         "name": "weavile",
-        "displayName": "Weavile"
+        "displayName": "Weavile",
+        "gen": 4
     },
     {
         "dexNum": "462",
         "name": "magnezone",
-        "displayName": "Magnezone"
+        "displayName": "Magnezone",
+        "gen": 4
     },
     {
         "dexNum": "463",
         "name": "lickilicky",
-        "displayName": "Lickilicky"
+        "displayName": "Lickilicky",
+        "gen": 4
     },
     {
         "dexNum": "464",
         "name": "rhyperior",
-        "displayName": "Rhyperior"
+        "displayName": "Rhyperior",
+        "gen": 4
     },
     {
         "dexNum": "465",
         "name": "tangrowth",
-        "displayName": "Tangrowth"
+        "displayName": "Tangrowth",
+        "gen": 4
     },
     {
         "dexNum": "466",
         "name": "electivire",
-        "displayName": "Electivire"
+        "displayName": "Electivire",
+        "gen": 4
     },
     {
         "dexNum": "467",
         "name": "magmortar",
-        "displayName": "Magmortar"
+        "displayName": "Magmortar",
+        "gen": 4
     },
     {
         "dexNum": "468",
         "name": "togekiss",
-        "displayName": "Togekiss"
+        "displayName": "Togekiss",
+        "gen": 4
     },
     {
         "dexNum": "469",
         "name": "yanmega",
-        "displayName": "Yanmega"
+        "displayName": "Yanmega",
+        "gen": 4
     },
     {
         "dexNum": "470",
         "name": "leafeon",
-        "displayName": "Leafeon"
+        "displayName": "Leafeon",
+        "gen": 4
     },
     {
         "dexNum": "471",
         "name": "glaceon",
-        "displayName": "Glaceon"
+        "displayName": "Glaceon",
+        "gen": 4
     },
     {
         "dexNum": "472",
         "name": "gliscor",
-        "displayName": "Gliscor"
+        "displayName": "Gliscor",
+        "gen": 4
     },
     {
         "dexNum": "473",
         "name": "mamoswine",
-        "displayName": "Mamoswine"
+        "displayName": "Mamoswine",
+        "gen": 4
     },
     {
         "dexNum": "474",
         "name": "porygon-z",
-        "displayName": "Porygon-Z"
+        "displayName": "Porygon-Z",
+        "gen": 4
     },
     {
         "dexNum": "475",
         "name": "gallade",
-        "displayName": "Gallade"
+        "displayName": "Gallade",
+        "gen": 4
     },
     {
         "dexNum": "476",
         "name": "probopass",
-        "displayName": "Probopass"
+        "displayName": "Probopass",
+        "gen": 4
     },
     {
         "dexNum": "477",
         "name": "dusknoir",
-        "displayName": "Dusknoir"
+        "displayName": "Dusknoir",
+        "gen": 4
     },
     {
         "dexNum": "478",
         "name": "froslass",
-        "displayName": "Froslass"
+        "displayName": "Froslass",
+        "gen": 4
     },
     {
         "dexNum": "479",
         "name": "rotom",
-        "displayName": "Rotom"
+        "displayName": "Rotom",
+        "gen": 4
     },
     {
         "dexNum": "480",
         "name": "uxie",
-        "displayName": "Uxie"
+        "displayName": "Uxie",
+        "gen": 4
     },
     {
         "dexNum": "481",
         "name": "mesprit",
-        "displayName": "Mesprit"
+        "displayName": "Mesprit",
+        "gen": 4
     },
     {
         "dexNum": "482",
         "name": "azelf",
-        "displayName": "Azelf"
+        "displayName": "Azelf",
+        "gen": 4
     },
     {
         "dexNum": "483",
         "name": "dialga",
-        "displayName": "Dialga"
+        "displayName": "Dialga",
+        "gen": 4
     },
     {
         "dexNum": "484",
         "name": "palkia",
-        "displayName": "Palkia"
+        "displayName": "Palkia",
+        "gen": 4
     },
     {
         "dexNum": "485",
         "name": "heatran",
-        "displayName": "Heatran"
+        "displayName": "Heatran",
+        "gen": 4
     },
     {
         "dexNum": "486",
         "name": "regigigas",
-        "displayName": "Regigigas"
+        "displayName": "Regigigas",
+        "gen": 4
     },
     {
         "dexNum": "487",
         "name": "giratina",
-        "displayName": "Giratina"
+        "displayName": "Giratina",
+        "gen": 4
     },
     {
         "dexNum": "488",
         "name": "cresselia",
-        "displayName": "Cresselia"
+        "displayName": "Cresselia",
+        "gen": 4
     },
     {
         "dexNum": "489",
         "name": "phione",
-        "displayName": "Phione"
+        "displayName": "Phione",
+        "gen": 4
     },
     {
         "dexNum": "490",
         "name": "manaphy",
-        "displayName": "Manaphy"
+        "displayName": "Manaphy",
+        "gen": 4
     },
     {
         "dexNum": "491",
         "name": "darkrai",
-        "displayName": "Darkrai"
+        "displayName": "Darkrai",
+        "gen": 4
     },
     {
         "dexNum": "492",
         "name": "shaymin",
-        "displayName": "Shaymin"
+        "displayName": "Shaymin",
+        "gen": 4
     },
     {
         "dexNum": "493",
         "name": "arceus",
-        "displayName": "Arceus"
+        "displayName": "Arceus",
+        "gen": 4
     },
     {
         "dexNum": "494",
         "name": "victini",
-        "displayName": "Victini"
+        "displayName": "Victini",
+        "gen": 5
     },
     {
         "dexNum": "495",
         "name": "snivy",
-        "displayName": "Snivy"
+        "displayName": "Snivy",
+        "gen": 5
     },
     {
         "dexNum": "496",
         "name": "servine",
-        "displayName": "Servine"
+        "displayName": "Servine",
+        "gen": 5
     },
     {
         "dexNum": "497",
         "name": "serperior",
-        "displayName": "Serperior"
+        "displayName": "Serperior",
+        "gen": 5
     },
     {
         "dexNum": "498",
         "name": "tepig",
-        "displayName": "Tepig"
+        "displayName": "Tepig",
+        "gen": 5
     },
     {
         "dexNum": "499",
         "name": "pignite",
-        "displayName": "Pignite"
+        "displayName": "Pignite",
+        "gen": 5
     },
     {
         "dexNum": "500",
         "name": "emboar",
-        "displayName": "Emboar"
+        "displayName": "Emboar",
+        "gen": 5
     },
     {
         "dexNum": "501",
         "name": "oshawott",
-        "displayName": "Oshawott"
+        "displayName": "Oshawott",
+        "gen": 5
     },
     {
         "dexNum": "502",
         "name": "dewott",
-        "displayName": "Dewott"
+        "displayName": "Dewott",
+        "gen": 5
     },
     {
         "dexNum": "503",
         "name": "samurott",
-        "displayName": "Samurott"
+        "displayName": "Samurott",
+        "gen": 5
     },
     {
         "dexNum": "504",
         "name": "patrat",
-        "displayName": "Patrat"
+        "displayName": "Patrat",
+        "gen": 5
     },
     {
         "dexNum": "505",
         "name": "watchog",
-        "displayName": "Watchog"
+        "displayName": "Watchog",
+        "gen": 5
     },
     {
         "dexNum": "506",
         "name": "lillipup",
-        "displayName": "Lillipup"
+        "displayName": "Lillipup",
+        "gen": 5
     },
     {
         "dexNum": "507",
         "name": "herdier",
-        "displayName": "Herdier"
+        "displayName": "Herdier",
+        "gen": 5
     },
     {
         "dexNum": "508",
         "name": "stoutland",
-        "displayName": "Stoutland"
+        "displayName": "Stoutland",
+        "gen": 5
     },
     {
         "dexNum": "509",
         "name": "purrloin",
-        "displayName": "Purrloin"
+        "displayName": "Purrloin",
+        "gen": 5
     },
     {
         "dexNum": "510",
         "name": "liepard",
-        "displayName": "Liepard"
+        "displayName": "Liepard",
+        "gen": 5
     },
     {
         "dexNum": "511",
         "name": "pansage",
-        "displayName": "Pansage"
+        "displayName": "Pansage",
+        "gen": 5
     },
     {
         "dexNum": "512",
         "name": "simisage",
-        "displayName": "Simisage"
+        "displayName": "Simisage",
+        "gen": 5
     },
     {
         "dexNum": "513",
         "name": "pansear",
-        "displayName": "Pansear"
+        "displayName": "Pansear",
+        "gen": 5
     },
     {
         "dexNum": "514",
         "name": "simisear",
-        "displayName": "Simisear"
+        "displayName": "Simisear",
+        "gen": 5
     },
     {
         "dexNum": "515",
         "name": "panpour",
-        "displayName": "Panpour"
+        "displayName": "Panpour",
+        "gen": 5
     },
     {
         "dexNum": "516",
         "name": "simipour",
-        "displayName": "Simipour"
+        "displayName": "Simipour",
+        "gen": 5
     },
     {
         "dexNum": "517",
         "name": "munna",
-        "displayName": "Munna"
+        "displayName": "Munna",
+        "gen": 5
     },
     {
         "dexNum": "518",
         "name": "musharna",
-        "displayName": "Musharna"
+        "displayName": "Musharna",
+        "gen": 5
     },
     {
         "dexNum": "519",
         "name": "pidove",
-        "displayName": "Pidove"
+        "displayName": "Pidove",
+        "gen": 5
     },
     {
         "dexNum": "520",
         "name": "tranquill",
-        "displayName": "Tranquill"
+        "displayName": "Tranquill",
+        "gen": 5
     },
     {
         "dexNum": "521",
         "name": "unfezant",
-        "displayName": "Unfezant"
+        "displayName": "Unfezant",
+        "gen": 5
     },
     {
         "dexNum": "522",
         "name": "blitzle",
-        "displayName": "Blitzle"
+        "displayName": "Blitzle",
+        "gen": 5
     },
     {
         "dexNum": "523",
         "name": "zebstrika",
-        "displayName": "Zebstrika"
+        "displayName": "Zebstrika",
+        "gen": 5
     },
     {
         "dexNum": "524",
         "name": "roggenrola",
-        "displayName": "Roggenrola"
+        "displayName": "Roggenrola",
+        "gen": 5
     },
     {
         "dexNum": "525",
         "name": "boldore",
-        "displayName": "Boldore"
+        "displayName": "Boldore",
+        "gen": 5
     },
     {
         "dexNum": "526",
         "name": "gigalith",
-        "displayName": "Gigalith"
+        "displayName": "Gigalith",
+        "gen": 5
     },
     {
         "dexNum": "527",
         "name": "woobat",
-        "displayName": "Woobat"
+        "displayName": "Woobat",
+        "gen": 5
     },
     {
         "dexNum": "528",
         "name": "swoobat",
-        "displayName": "Swoobat"
+        "displayName": "Swoobat",
+        "gen": 5
     },
     {
         "dexNum": "529",
         "name": "drilbur",
-        "displayName": "Drilbur"
+        "displayName": "Drilbur",
+        "gen": 5
     },
     {
         "dexNum": "530",
         "name": "excadrill",
-        "displayName": "Excadrill"
+        "displayName": "Excadrill",
+        "gen": 5
     },
     {
         "dexNum": "531",
         "name": "audino",
-        "displayName": "Audino"
+        "displayName": "Audino",
+        "gen": 5
     },
     {
         "dexNum": "532",
         "name": "timburr",
-        "displayName": "Timburr"
+        "displayName": "Timburr",
+        "gen": 5
     },
     {
         "dexNum": "533",
         "name": "gurdurr",
-        "displayName": "Gurdurr"
+        "displayName": "Gurdurr",
+        "gen": 5
     },
     {
         "dexNum": "534",
         "name": "conkeldurr",
-        "displayName": "Conkeldurr"
+        "displayName": "Conkeldurr",
+        "gen": 5
     },
     {
         "dexNum": "535",
         "name": "tympole",
-        "displayName": "Tympole"
+        "displayName": "Tympole",
+        "gen": 5
     },
     {
         "dexNum": "536",
         "name": "palpitoad",
-        "displayName": "Palpitoad"
+        "displayName": "Palpitoad",
+        "gen": 5
     },
     {
         "dexNum": "537",
         "name": "seismitoad",
-        "displayName": "Seismitoad"
+        "displayName": "Seismitoad",
+        "gen": 5
     },
     {
         "dexNum": "538",
         "name": "throh",
-        "displayName": "Throh"
+        "displayName": "Throh",
+        "gen": 5
     },
     {
         "dexNum": "539",
         "name": "sawk",
-        "displayName": "Sawk"
+        "displayName": "Sawk",
+        "gen": 5
     },
     {
         "dexNum": "540",
         "name": "sewaddle",
-        "displayName": "Sewaddle"
+        "displayName": "Sewaddle",
+        "gen": 5
     },
     {
         "dexNum": "541",
         "name": "swadloon",
-        "displayName": "Swadloon"
+        "displayName": "Swadloon",
+        "gen": 5
     },
     {
         "dexNum": "542",
         "name": "leavanny",
-        "displayName": "Leavanny"
+        "displayName": "Leavanny",
+        "gen": 5
     },
     {
         "dexNum": "543",
         "name": "venipede",
-        "displayName": "Venipede"
+        "displayName": "Venipede",
+        "gen": 5
     },
     {
         "dexNum": "544",
         "name": "whirlipede",
-        "displayName": "Whirlipede"
+        "displayName": "Whirlipede",
+        "gen": 5
     },
     {
         "dexNum": "545",
         "name": "scolipede",
-        "displayName": "Scolipede"
+        "displayName": "Scolipede",
+        "gen": 5
     },
     {
         "dexNum": "546",
         "name": "cottonee",
-        "displayName": "Cottonee"
+        "displayName": "Cottonee",
+        "gen": 5
     },
     {
         "dexNum": "547",
         "name": "whimsicott",
-        "displayName": "Whimsicott"
+        "displayName": "Whimsicott",
+        "gen": 5
     },
     {
         "dexNum": "548",
         "name": "petilil",
-        "displayName": "Petilil"
+        "displayName": "Petilil",
+        "gen": 5
     },
     {
         "dexNum": "549",
         "name": "lilligant",
-        "displayName": "Lilligant"
+        "displayName": "Lilligant",
+        "gen": 5
     },
     {
         "dexNum": "550",
         "name": "basculin",
-        "displayName": "Basculin"
+        "displayName": "Basculin",
+        "gen": 5
     },
     {
         "dexNum": "551",
         "name": "sandile",
-        "displayName": "Sandile"
+        "displayName": "Sandile",
+        "gen": 5
     },
     {
         "dexNum": "552",
         "name": "krokorok",
-        "displayName": "Krokorok"
+        "displayName": "Krokorok",
+        "gen": 5
     },
     {
         "dexNum": "553",
         "name": "krookodile",
-        "displayName": "Krookodile"
+        "displayName": "Krookodile",
+        "gen": 5
     },
     {
         "dexNum": "554",
         "name": "darumaka",
-        "displayName": "Darumaka"
+        "displayName": "Darumaka",
+        "gen": 5
     },
     {
         "dexNum": "555",
         "name": "darmanitan",
-        "displayName": "Darmanitan"
+        "displayName": "Darmanitan",
+        "gen": 5
     },
     {
         "dexNum": "556",
         "name": "maractus",
-        "displayName": "Maractus"
+        "displayName": "Maractus",
+        "gen": 5
     },
     {
         "dexNum": "557",
         "name": "dwebble",
-        "displayName": "Dwebble"
+        "displayName": "Dwebble",
+        "gen": 5
     },
     {
         "dexNum": "558",
         "name": "crustle",
-        "displayName": "Crustle"
+        "displayName": "Crustle",
+        "gen": 5
     },
     {
         "dexNum": "559",
         "name": "scraggy",
-        "displayName": "Scraggy"
+        "displayName": "Scraggy",
+        "gen": 5
     },
     {
         "dexNum": "560",
         "name": "scrafty",
-        "displayName": "Scrafty"
+        "displayName": "Scrafty",
+        "gen": 5
     },
     {
         "dexNum": "561",
         "name": "sigilyph",
-        "displayName": "Sigilyph"
+        "displayName": "Sigilyph",
+        "gen": 5
     },
     {
         "dexNum": "562",
         "name": "yamask",
-        "displayName": "Yamask"
+        "displayName": "Yamask",
+        "gen": 5
     },
     {
         "dexNum": "563",
         "name": "cofagrigus",
-        "displayName": "Cofagrigus"
+        "displayName": "Cofagrigus",
+        "gen": 5
     },
     {
         "dexNum": "564",
         "name": "tirtouga",
-        "displayName": "Tirtouga"
+        "displayName": "Tirtouga",
+        "gen": 5
     },
     {
         "dexNum": "565",
         "name": "carracosta",
-        "displayName": "Carracosta"
+        "displayName": "Carracosta",
+        "gen": 5
     },
     {
         "dexNum": "566",
         "name": "archen",
-        "displayName": "Archen"
+        "displayName": "Archen",
+        "gen": 5
     },
     {
         "dexNum": "567",
         "name": "archeops",
-        "displayName": "Archeops"
+        "displayName": "Archeops",
+        "gen": 5
     },
     {
         "dexNum": "568",
         "name": "trubbish",
-        "displayName": "Trubbish"
+        "displayName": "Trubbish",
+        "gen": 5
     },
     {
         "dexNum": "569",
         "name": "garbodor",
-        "displayName": "Garbodor"
+        "displayName": "Garbodor",
+        "gen": 5
     },
     {
         "dexNum": "570",
         "name": "zorua",
-        "displayName": "Zorua"
+        "displayName": "Zorua",
+        "gen": 5
     },
     {
         "dexNum": "571",
         "name": "zoroark",
-        "displayName": "Zoroark"
+        "displayName": "Zoroark",
+        "gen": 5
     },
     {
         "dexNum": "572",
         "name": "minccino",
-        "displayName": "Minccino"
+        "displayName": "Minccino",
+        "gen": 5
     },
     {
         "dexNum": "573",
         "name": "cinccino",
-        "displayName": "Cinccino"
+        "displayName": "Cinccino",
+        "gen": 5
     },
     {
         "dexNum": "574",
         "name": "gothita",
-        "displayName": "Gothita"
+        "displayName": "Gothita",
+        "gen": 5
     },
     {
         "dexNum": "575",
         "name": "gothorita",
-        "displayName": "Gothorita"
+        "displayName": "Gothorita",
+        "gen": 5
     },
     {
         "dexNum": "576",
         "name": "gothitelle",
-        "displayName": "Gothitelle"
+        "displayName": "Gothitelle",
+        "gen": 5
     },
     {
         "dexNum": "577",
         "name": "solosis",
-        "displayName": "Solosis"
+        "displayName": "Solosis",
+        "gen": 5
     },
     {
         "dexNum": "578",
         "name": "duosion",
-        "displayName": "Duosion"
+        "displayName": "Duosion",
+        "gen": 5
     },
     {
         "dexNum": "579",
         "name": "reuniclus",
-        "displayName": "Reuniclus"
+        "displayName": "Reuniclus",
+        "gen": 5
     },
     {
         "dexNum": "580",
         "name": "ducklett",
-        "displayName": "Ducklett"
+        "displayName": "Ducklett",
+        "gen": 5
     },
     {
         "dexNum": "581",
         "name": "swanna",
-        "displayName": "Swanna"
+        "displayName": "Swanna",
+        "gen": 5
     },
     {
         "dexNum": "582",
         "name": "vanillite",
-        "displayName": "Vanillite"
+        "displayName": "Vanillite",
+        "gen": 5
     },
     {
         "dexNum": "583",
         "name": "vanillish",
-        "displayName": "Vanillish"
+        "displayName": "Vanillish",
+        "gen": 5
     },
     {
         "dexNum": "584",
         "name": "vanilluxe",
-        "displayName": "Vanilluxe"
+        "displayName": "Vanilluxe",
+        "gen": 5
     },
     {
         "dexNum": "585",
         "name": "deerling",
-        "displayName": "Deerling"
+        "displayName": "Deerling",
+        "gen": 5
     },
     {
         "dexNum": "586",
         "name": "sawsbuck",
-        "displayName": "Sawsbuck"
+        "displayName": "Sawsbuck",
+        "gen": 5
     },
     {
         "dexNum": "587",
         "name": "emolga",
-        "displayName": "Emolga"
+        "displayName": "Emolga",
+        "gen": 5
     },
     {
         "dexNum": "588",
         "name": "karrablast",
-        "displayName": "Karrablast"
+        "displayName": "Karrablast",
+        "gen": 5
     },
     {
         "dexNum": "589",
         "name": "escavalier",
-        "displayName": "Escavalier"
+        "displayName": "Escavalier",
+        "gen": 5
     },
     {
         "dexNum": "590",
         "name": "foongus",
-        "displayName": "Foongus"
+        "displayName": "Foongus",
+        "gen": 5
     },
     {
         "dexNum": "591",
         "name": "amoonguss",
-        "displayName": "Amoonguss"
+        "displayName": "Amoonguss",
+        "gen": 5
     },
     {
         "dexNum": "592",
         "name": "frillish",
-        "displayName": "Frillish"
+        "displayName": "Frillish",
+        "gen": 5
     },
     {
         "dexNum": "593",
         "name": "jellicent",
-        "displayName": "Jellicent"
+        "displayName": "Jellicent",
+        "gen": 5
     },
     {
         "dexNum": "594",
         "name": "alomomola",
-        "displayName": "Alomomola"
+        "displayName": "Alomomola",
+        "gen": 5
     },
     {
         "dexNum": "595",
         "name": "joltik",
-        "displayName": "Joltik"
+        "displayName": "Joltik",
+        "gen": 5
     },
     {
         "dexNum": "596",
         "name": "galvantula",
-        "displayName": "Galvantula"
+        "displayName": "Galvantula",
+        "gen": 5
     },
     {
         "dexNum": "597",
         "name": "ferroseed",
-        "displayName": "Ferroseed"
+        "displayName": "Ferroseed",
+        "gen": 5
     },
     {
         "dexNum": "598",
         "name": "ferrothorn",
-        "displayName": "Ferrothorn"
+        "displayName": "Ferrothorn",
+        "gen": 5
     },
     {
         "dexNum": "599",
         "name": "klink",
-        "displayName": "Klink"
+        "displayName": "Klink",
+        "gen": 5
     },
     {
         "dexNum": "600",
         "name": "klang",
-        "displayName": "Klang"
+        "displayName": "Klang",
+        "gen": 5
     },
     {
         "dexNum": "601",
         "name": "klinklang",
-        "displayName": "Klinklang"
+        "displayName": "Klinklang",
+        "gen": 5
     },
     {
         "dexNum": "602",
         "name": "tynamo",
-        "displayName": "Tynamo"
+        "displayName": "Tynamo",
+        "gen": 5
     },
     {
         "dexNum": "603",
         "name": "eelektrik",
-        "displayName": "Eelektrik"
+        "displayName": "Eelektrik",
+        "gen": 5
     },
     {
         "dexNum": "604",
         "name": "eelektross",
-        "displayName": "Eelektross"
+        "displayName": "Eelektross",
+        "gen": 5
     },
     {
         "dexNum": "605",
         "name": "elgyem",
-        "displayName": "Elgyem"
+        "displayName": "Elgyem",
+        "gen": 5
     },
     {
         "dexNum": "606",
         "name": "beheeyem",
-        "displayName": "Beheeyem"
+        "displayName": "Beheeyem",
+        "gen": 5
     },
     {
         "dexNum": "607",
         "name": "litwick",
-        "displayName": "Litwick"
+        "displayName": "Litwick",
+        "gen": 5
     },
     {
         "dexNum": "608",
         "name": "lampent",
-        "displayName": "Lampent"
+        "displayName": "Lampent",
+        "gen": 5
     },
     {
         "dexNum": "609",
         "name": "chandelure",
-        "displayName": "Chandelure"
+        "displayName": "Chandelure",
+        "gen": 5
     },
     {
         "dexNum": "610",
         "name": "axew",
-        "displayName": "Axew"
+        "displayName": "Axew",
+        "gen": 5
     },
     {
         "dexNum": "611",
         "name": "fraxure",
-        "displayName": "Fraxure"
+        "displayName": "Fraxure",
+        "gen": 5
     },
     {
         "dexNum": "612",
         "name": "haxorus",
-        "displayName": "Haxorus"
+        "displayName": "Haxorus",
+        "gen": 5
     },
     {
         "dexNum": "613",
         "name": "cubchoo",
-        "displayName": "Cubchoo"
+        "displayName": "Cubchoo",
+        "gen": 5
     },
     {
         "dexNum": "614",
         "name": "beartic",
-        "displayName": "Beartic"
+        "displayName": "Beartic",
+        "gen": 5
     },
     {
         "dexNum": "615",
         "name": "cryogonal",
-        "displayName": "Cryogonal"
+        "displayName": "Cryogonal",
+        "gen": 5
     },
     {
         "dexNum": "616",
         "name": "shelmet",
-        "displayName": "Shelmet"
+        "displayName": "Shelmet",
+        "gen": 5
     },
     {
         "dexNum": "617",
         "name": "accelgor",
-        "displayName": "Accelgor"
+        "displayName": "Accelgor",
+        "gen": 5
     },
     {
         "dexNum": "618",
         "name": "stunfisk",
-        "displayName": "Stunfisk"
+        "displayName": "Stunfisk",
+        "gen": 5
     },
     {
         "dexNum": "619",
         "name": "mienfoo",
-        "displayName": "Mienfoo"
+        "displayName": "Mienfoo",
+        "gen": 5
     },
     {
         "dexNum": "620",
         "name": "mienshao",
-        "displayName": "Mienshao"
+        "displayName": "Mienshao",
+        "gen": 5
     },
     {
         "dexNum": "621",
         "name": "druddigon",
-        "displayName": "Druddigon"
+        "displayName": "Druddigon",
+        "gen": 5
     },
     {
         "dexNum": "622",
         "name": "golett",
-        "displayName": "Golett"
+        "displayName": "Golett",
+        "gen": 5
     },
     {
         "dexNum": "623",
         "name": "golurk",
-        "displayName": "Golurk"
+        "displayName": "Golurk",
+        "gen": 5
     },
     {
         "dexNum": "624",
         "name": "pawniard",
-        "displayName": "Pawniard"
+        "displayName": "Pawniard",
+        "gen": 5
     },
     {
         "dexNum": "625",
         "name": "bisharp",
-        "displayName": "Bisharp"
+        "displayName": "Bisharp",
+        "gen": 5
     },
     {
         "dexNum": "626",
         "name": "bouffalant",
-        "displayName": "Bouffalant"
+        "displayName": "Bouffalant",
+        "gen": 5
     },
     {
         "dexNum": "627",
         "name": "rufflet",
-        "displayName": "Rufflet"
+        "displayName": "Rufflet",
+        "gen": 5
     },
     {
         "dexNum": "628",
         "name": "braviary",
-        "displayName": "Braviary"
+        "displayName": "Braviary",
+        "gen": 5
     },
     {
         "dexNum": "629",
         "name": "vullaby",
-        "displayName": "Vullaby"
+        "displayName": "Vullaby",
+        "gen": 5
     },
     {
         "dexNum": "630",
         "name": "mandibuzz",
-        "displayName": "Mandibuzz"
+        "displayName": "Mandibuzz",
+        "gen": 5
     },
     {
         "dexNum": "631",
         "name": "heatmor",
-        "displayName": "Heatmor"
+        "displayName": "Heatmor",
+        "gen": 5
     },
     {
         "dexNum": "632",
         "name": "durant",
-        "displayName": "Durant"
+        "displayName": "Durant",
+        "gen": 5
     },
     {
         "dexNum": "633",
         "name": "deino",
-        "displayName": "Deino"
+        "displayName": "Deino",
+        "gen": 5
     },
     {
         "dexNum": "634",
         "name": "zweilous",
-        "displayName": "Zweilous"
+        "displayName": "Zweilous",
+        "gen": 5
     },
     {
         "dexNum": "635",
         "name": "hydreigon",
-        "displayName": "Hydreigon"
+        "displayName": "Hydreigon",
+        "gen": 5
     },
     {
         "dexNum": "636",
         "name": "larvesta",
-        "displayName": "Larvesta"
+        "displayName": "Larvesta",
+        "gen": 5
     },
     {
         "dexNum": "637",
         "name": "volcarona",
-        "displayName": "Volcarona"
+        "displayName": "Volcarona",
+        "gen": 5
     },
     {
         "dexNum": "638",
         "name": "cobalion",
-        "displayName": "Cobalion"
+        "displayName": "Cobalion",
+        "gen": 5
     },
     {
         "dexNum": "639",
         "name": "terrakion",
-        "displayName": "Terrakion"
+        "displayName": "Terrakion",
+        "gen": 5
     },
     {
         "dexNum": "640",
         "name": "virizion",
-        "displayName": "Virizion"
+        "displayName": "Virizion",
+        "gen": 5
     },
     {
         "dexNum": "641",
         "name": "tornadus",
-        "displayName": "Tornadus"
+        "displayName": "Tornadus",
+        "gen": 5
     },
     {
         "dexNum": "642",
         "name": "thundurus",
-        "displayName": "Thundurus"
+        "displayName": "Thundurus",
+        "gen": 5
     },
     {
         "dexNum": "643",
         "name": "reshiram",
-        "displayName": "Reshiram"
+        "displayName": "Reshiram",
+        "gen": 5
     },
     {
         "dexNum": "644",
         "name": "zekrom",
-        "displayName": "Zekrom"
+        "displayName": "Zekrom",
+        "gen": 5
     },
     {
         "dexNum": "645",
         "name": "landorus",
-        "displayName": "Landorus"
+        "displayName": "Landorus",
+        "gen": 5
     },
     {
         "dexNum": "646",
         "name": "kyurem",
-        "displayName": "Kyurem"
+        "displayName": "Kyurem",
+        "gen": 5
     },
     {
         "dexNum": "647",
         "name": "keldeo",
-        "displayName": "Keldeo"
+        "displayName": "Keldeo",
+        "gen": 5
     },
     {
         "dexNum": "648",
         "name": "meloetta",
-        "displayName": "Meloetta"
+        "displayName": "Meloetta",
+        "gen": 5
     },
     {
         "dexNum": "649",
         "name": "genesect",
-        "displayName": "Genesect"
+        "displayName": "Genesect",
+        "gen": 5
     },
     {
         "dexNum": "650",
         "name": "chespin",
-        "displayName": "Chespin"
+        "displayName": "Chespin",
+        "gen": 6
     },
     {
         "dexNum": "651",
         "name": "quilladin",
-        "displayName": "Quilladin"
+        "displayName": "Quilladin",
+        "gen": 6
     },
     {
         "dexNum": "652",
         "name": "chesnaught",
-        "displayName": "Chesnaught"
+        "displayName": "Chesnaught",
+        "gen": 6
     },
     {
         "dexNum": "653",
         "name": "fennekin",
-        "displayName": "Fennekin"
+        "displayName": "Fennekin",
+        "gen": 6
     },
     {
         "dexNum": "654",
         "name": "braixen",
-        "displayName": "Braixen"
+        "displayName": "Braixen",
+        "gen": 6
     },
     {
         "dexNum": "655",
         "name": "delphox",
-        "displayName": "Delphox"
+        "displayName": "Delphox",
+        "gen": 6
     },
     {
         "dexNum": "656",
         "name": "froakie",
-        "displayName": "Froakie"
+        "displayName": "Froakie",
+        "gen": 6
     },
     {
         "dexNum": "657",
         "name": "frogadier",
-        "displayName": "Frogadier"
+        "displayName": "Frogadier",
+        "gen": 6
     },
     {
         "dexNum": "658",
         "name": "greninja",
-        "displayName": "Greninja"
+        "displayName": "Greninja",
+        "gen": 6
     },
     {
         "dexNum": "659",
         "name": "bunnelby",
-        "displayName": "Bunnelby"
+        "displayName": "Bunnelby",
+        "gen": 6
     },
     {
         "dexNum": "660",
         "name": "diggersby",
-        "displayName": "Diggersby"
+        "displayName": "Diggersby",
+        "gen": 6
     },
     {
         "dexNum": "661",
         "name": "fletchling",
-        "displayName": "Fletchling"
+        "displayName": "Fletchling",
+        "gen": 6
     },
     {
         "dexNum": "662",
         "name": "fletchinder",
-        "displayName": "Fletchinder"
+        "displayName": "Fletchinder",
+        "gen": 6
     },
     {
         "dexNum": "663",
         "name": "talonflame",
-        "displayName": "Talonflame"
+        "displayName": "Talonflame",
+        "gen": 6
     },
     {
         "dexNum": "664",
         "name": "scatterbug",
-        "displayName": "Scatterbug"
+        "displayName": "Scatterbug",
+        "gen": 6
     },
     {
         "dexNum": "665",
         "name": "spewpa",
-        "displayName": "Spewpa"
+        "displayName": "Spewpa",
+        "gen": 6
     },
     {
         "dexNum": "666",
         "name": "vivillon",
-        "displayName": "Vivillon"
+        "displayName": "Vivillon",
+        "gen": 6
     },
     {
         "dexNum": "667",
         "name": "litleo",
-        "displayName": "Litleo"
+        "displayName": "Litleo",
+        "gen": 6
     },
     {
         "dexNum": "668",
         "name": "pyroar",
-        "displayName": "Pyroar"
+        "displayName": "Pyroar",
+        "gen": 6
     },
     {
         "dexNum": "669",
         "name": "flabebe",
-        "displayName": "Flabebe"
+        "displayName": "Flabebe",
+        "gen": 6
     },
     {
         "dexNum": "670",
         "name": "floette",
-        "displayName": "Floette"
+        "displayName": "Floette",
+        "gen": 6
     },
     {
         "dexNum": "671",
         "name": "florges",
-        "displayName": "Florges"
+        "displayName": "Florges",
+        "gen": 6
     },
     {
         "dexNum": "672",
         "name": "skiddo",
-        "displayName": "Skiddo"
+        "displayName": "Skiddo",
+        "gen": 6
     },
     {
         "dexNum": "673",
         "name": "gogoat",
-        "displayName": "Gogoat"
+        "displayName": "Gogoat",
+        "gen": 6
     },
     {
         "dexNum": "674",
         "name": "pancham",
-        "displayName": "Pancham"
+        "displayName": "Pancham",
+        "gen": 6
     },
     {
         "dexNum": "675",
         "name": "pangoro",
-        "displayName": "Pangoro"
+        "displayName": "Pangoro",
+        "gen": 6
     },
     {
         "dexNum": "676",
         "name": "furfrou",
-        "displayName": "Furfrou"
+        "displayName": "Furfrou",
+        "gen": 6
     },
     {
         "dexNum": "677",
         "name": "espurr",
-        "displayName": "Espurr"
+        "displayName": "Espurr",
+        "gen": 6
     },
     {
         "dexNum": "678",
         "name": "meowstic",
-        "displayName": "Meowstic"
+        "displayName": "Meowstic",
+        "gen": 6
     },
     {
         "dexNum": "679",
         "name": "honedge",
-        "displayName": "Honedge"
+        "displayName": "Honedge",
+        "gen": 6
     },
     {
         "dexNum": "680",
         "name": "doublade",
-        "displayName": "Doublade"
+        "displayName": "Doublade",
+        "gen": 6
     },
     {
         "dexNum": "681",
         "name": "aegislash",
-        "displayName": "Aegislash"
+        "displayName": "Aegislash",
+        "gen": 6
     },
     {
         "dexNum": "682",
         "name": "spritzee",
-        "displayName": "Spritzee"
+        "displayName": "Spritzee",
+        "gen": 6
     },
     {
         "dexNum": "683",
         "name": "aromatisse",
-        "displayName": "Aromatisse"
+        "displayName": "Aromatisse",
+        "gen": 6
     },
     {
         "dexNum": "684",
         "name": "swirlix",
-        "displayName": "Swirlix"
+        "displayName": "Swirlix",
+        "gen": 6
     },
     {
         "dexNum": "685",
         "name": "slurpuff",
-        "displayName": "Slurpuff"
+        "displayName": "Slurpuff",
+        "gen": 6
     },
     {
         "dexNum": "686",
         "name": "inkay",
-        "displayName": "Inkay"
+        "displayName": "Inkay",
+        "gen": 6
     },
     {
         "dexNum": "687",
         "name": "malamar",
-        "displayName": "Malamar"
+        "displayName": "Malamar",
+        "gen": 6
     },
     {
         "dexNum": "688",
         "name": "binacle",
-        "displayName": "Binacle"
+        "displayName": "Binacle",
+        "gen": 6
     },
     {
         "dexNum": "689",
         "name": "barbaracle",
-        "displayName": "Barbaracle"
+        "displayName": "Barbaracle",
+        "gen": 6
     },
     {
         "dexNum": "690",
         "name": "skrelp",
-        "displayName": "Skrelp"
+        "displayName": "Skrelp",
+        "gen": 6
     },
     {
         "dexNum": "691",
         "name": "dragalge",
-        "displayName": "Dragalge"
+        "displayName": "Dragalge",
+        "gen": 6
     },
     {
         "dexNum": "692",
         "name": "clauncher",
-        "displayName": "Clauncher"
+        "displayName": "Clauncher",
+        "gen": 6
     },
     {
         "dexNum": "693",
         "name": "clawitzer",
-        "displayName": "Clawitzer"
+        "displayName": "Clawitzer",
+        "gen": 6
     },
     {
         "dexNum": "694",
         "name": "helioptile",
-        "displayName": "Helioptile"
+        "displayName": "Helioptile",
+        "gen": 6
     },
     {
         "dexNum": "695",
         "name": "heliolisk",
-        "displayName": "Heliolisk"
+        "displayName": "Heliolisk",
+        "gen": 6
     },
     {
         "dexNum": "696",
         "name": "tyrunt",
-        "displayName": "Tyrunt"
+        "displayName": "Tyrunt",
+        "gen": 6
     },
     {
         "dexNum": "697",
         "name": "tyrantrum",
-        "displayName": "Tyrantrum"
+        "displayName": "Tyrantrum",
+        "gen": 6
     },
     {
         "dexNum": "698",
         "name": "amaura",
-        "displayName": "Amaura"
+        "displayName": "Amaura",
+        "gen": 6
     },
     {
         "dexNum": "699",
         "name": "aurorus",
-        "displayName": "Aurorus"
+        "displayName": "Aurorus",
+        "gen": 6
     },
     {
         "dexNum": "700",
         "name": "sylveon",
-        "displayName": "Sylveon"
+        "displayName": "Sylveon",
+        "gen": 6
     },
     {
         "dexNum": "701",
         "name": "hawlucha",
-        "displayName": "Hawlucha"
+        "displayName": "Hawlucha",
+        "gen": 6
     },
     {
         "dexNum": "702",
         "name": "dedenne",
-        "displayName": "Dedenne"
+        "displayName": "Dedenne",
+        "gen": 6
     },
     {
         "dexNum": "703",
         "name": "carbink",
-        "displayName": "Carbink"
+        "displayName": "Carbink",
+        "gen": 6
     },
     {
         "dexNum": "704",
         "name": "goomy",
-        "displayName": "Goomy"
+        "displayName": "Goomy",
+        "gen": 6
     },
     {
         "dexNum": "705",
         "name": "sliggoo",
-        "displayName": "Sliggoo"
+        "displayName": "Sliggoo",
+        "gen": 6
     },
     {
         "dexNum": "706",
         "name": "goodra",
-        "displayName": "Goodra"
+        "displayName": "Goodra",
+        "gen": 6
     },
     {
         "dexNum": "707",
         "name": "klefki",
-        "displayName": "Klefki"
+        "displayName": "Klefki",
+        "gen": 6
     },
     {
         "dexNum": "708",
         "name": "phantump",
-        "displayName": "Phantump"
+        "displayName": "Phantump",
+        "gen": 6
     },
     {
         "dexNum": "709",
         "name": "trevenant",
-        "displayName": "Trevenant"
+        "displayName": "Trevenant",
+        "gen": 6
     },
     {
         "dexNum": "710",
         "name": "pumpkaboo",
-        "displayName": "Pumpkaboo"
+        "displayName": "Pumpkaboo",
+        "gen": 6
     },
     {
         "dexNum": "711",
         "name": "gourgeist",
-        "displayName": "Gourgeist"
+        "displayName": "Gourgeist",
+        "gen": 6
     },
     {
         "dexNum": "712",
         "name": "bergmite",
-        "displayName": "Bergmite"
+        "displayName": "Bergmite",
+        "gen": 6
     },
     {
         "dexNum": "713",
         "name": "avalugg",
-        "displayName": "Avalugg"
+        "displayName": "Avalugg",
+        "gen": 6
     },
     {
         "dexNum": "714",
         "name": "noibat",
-        "displayName": "Noibat"
+        "displayName": "Noibat",
+        "gen": 6
     },
     {
         "dexNum": "715",
         "name": "noivern",
-        "displayName": "Noivern"
+        "displayName": "Noivern",
+        "gen": 6
     },
     {
         "dexNum": "716",
         "name": "xerneas",
-        "displayName": "Xerneas"
+        "displayName": "Xerneas",
+        "gen": 6
     },
     {
         "dexNum": "717",
         "name": "yveltal",
-        "displayName": "Yveltal"
+        "displayName": "Yveltal",
+        "gen": 6
     },
     {
         "dexNum": "718",
         "name": "zygarde",
-        "displayName": "Zygarde"
+        "displayName": "Zygarde",
+        "gen": 6
     },
     {
         "dexNum": "719",
         "name": "diancie",
-        "displayName": "Diancie"
+        "displayName": "Diancie",
+        "gen": 6
     },
     {
         "dexNum": "720",
         "name": "hoopa",
-        "displayName": "Hoopa"
+        "displayName": "Hoopa",
+        "gen": 6
     },
     {
         "dexNum": "721",
         "name": "volcanion",
-        "displayName": "Volcanion"
+        "displayName": "Volcanion",
+        "gen": 6
     }
 ]
