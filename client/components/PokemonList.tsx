@@ -47,20 +47,34 @@ export class PokemonList extends React.Component<Props, State> {
     });
 
     // Put each gen array in a new list
-    pokeItems.forEach((gen, index) => {
+    pokeItems.forEach((genPokes, index) => {
       // Add a gen marker to the beginning of each array
       if(!filterTerm) {
-        gen.unshift(
-          <div key={`gen-${index + 1}`} className="gen-marker">
+        let genGames: any = [];
+        const gg: Array<any> = GENERATIONS[`GEN_${index + 1}`];
+
+        gg.forEach(game => {
+          genGames.push(
+            <li className="gen-game" style={{
+              backgroundColor: game.color,
+              color: game.textColor
+            }}>
+              {game.name}
+            </li>
+          );
+        });
+
+        genPokes.unshift(
+          <div key={`genPokes-${index + 1}`} className="gen-marker">
             <header>{`Generation ${index + 1}`}</header>
             {/*<span className="gen-collected">14/151 collected</span>*/}
-            {/*<ul className="gen-games">
-              <li className="gen-game">Game name and icon</li>
-            </ul>*/}
+            <ul className="gen-games">
+              {genGames}
+            </ul>
           </div>
         );
       }
-      genList.push(<ul key={index + 1} className={`pokemon-list gen-${index + 1}`}>{gen}</ul>);
+      genList.push(<ul key={index + 1} className={`pokemon-list gen-${index + 1}`}>{genPokes}</ul>);
     });
 
     return (
