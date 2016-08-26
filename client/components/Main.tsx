@@ -6,7 +6,8 @@ import { PokemonList } from "./PokemonList";
 import { PokemonLocation } from "./PokemonLocation";
 import { PokemonListFilter } from "./PokemonListFilter";
 
-import KEYBOARD from "../keyboard";
+import KEYBOARD from "../constants/keyboard";
+import GENERATIONS from '../constants/generations';
 
 export interface State {
   pokemonList?: Array<any>;
@@ -38,6 +39,12 @@ export class Main extends React.Component<Props, State> {
     fetch(`/poke`)
     .then(res => res.json())
     .then(res => {
+      // Find the generations
+      for(let i = 0; i < res.length; i++) {
+        let dn: number = (i === 0) ? 1 : +res[i].dexNum;
+        res[i].gen = this.findGeneration(dn, 1);
+      }
+
       this.setState({
         pokemonList: res
       });
@@ -84,10 +91,20 @@ export class Main extends React.Component<Props, State> {
       <div className="container">
         <h1 className="main-header">Pokemon Hunter</h1>
         <PokemonListFilter ref="filter" pokemonList={pokemonList} setFilter={this.setFilter.bind(this)} />
-        <PokemonList pokemonList={filteredList} openLocation={this.openLocation.bind(this)} shiftEngaged={shiftEngaged} userPokes={pokemon} />
+        <PokemonList filterTerm={filterTerm} pokemonList={filteredList} openLocation={this.openLocation.bind(this)} shiftEngaged={shiftEngaged} userPokes={pokemon} />
         {pLoc}
       </div>
      );
+  }
+
+  findGeneration(num: number, gen: number): number {
+    const start = GENERATIONS[`GEN_${gen}_START`];
+    const end = GENERATIONS[`GEN_${gen}_END`];
+
+    if (num >= start && num <= end) {
+      return gen;
+    }
+    return this.findGeneration(num, gen + 1);
   }
 
   openLocation(poke: any) {

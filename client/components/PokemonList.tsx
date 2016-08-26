@@ -1,11 +1,13 @@
 import * as React from "react";
 import { PokemonListItem } from "./PokemonListItem";
+import GENERATIONS from '../constants/generations';
 
 export interface Props {
   pokemonList: Array<any>;
   openLocation: Function;
   shiftEngaged: Boolean;
   userPokes: Array<any>;
+  filterTerm: String;
 }
 
 export interface State {
@@ -21,18 +23,37 @@ export class PokemonList extends React.Component<Props, State> {
   }
 
   render() {
-    const { pokemonList, shiftEngaged, userPokes } = this.props;
+    const { pokemonList, shiftEngaged, userPokes, filterTerm } = this.props;
     const { selectedPokes } = this.state;
-    let pokeItems: Array<any> = [];
+    let pokeItems: Array<Array<any>> = [[]];
+    let genList: Array<any> = [];
 
     pokemonList.forEach((poke, index) => {
-      pokeItems.push(<PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this)} isSelected={selectedPokes[poke.dexNum] != null} openLocation={this.openLocation.bind(this)} shiftEngaged={shiftEngaged} />);
+      const { gen } = poke;
+
+      if(pokeItems[gen - 1] == null && !filterTerm) {
+        pokeItems[gen - 1] = [];
+      }
+
+      let item: any = <PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this) } isSelected={selectedPokes[poke.dexNum] != null} openLocation={this.openLocation.bind(this) } shiftEngaged={shiftEngaged} />;
+
+      if (filterTerm) {
+        pokeItems[0].push(item)
+      }
+      else {
+        pokeItems[gen - 1].push(item);
+      }
+    });
+
+    // Put each gen array in a new list
+    pokeItems.forEach(gen => {
+      genList.push(<ul key={gen} className="pokemon-list">{gen}</ul>);
     });
 
     return (
-      <ul className="pokemon-list">
-        {pokeItems}
-      </ul>
+      <div>
+        {genList}
+      </div>
     )
   }
 

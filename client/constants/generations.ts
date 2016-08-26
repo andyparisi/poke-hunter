@@ -1,0 +1,17 @@
+const GENERATIONS: any = {
+  GEN_COUNT: 6,
+  GEN_1_START: 1,
+  GEN_1_END: 151,
+  GEN_2_START: 152,
+  GEN_2_END: 251,
+  GEN_3_START: 252,
+  GEN_3_END: 386,
+  GEN_4_START: 387,
+  GEN_4_END: 493,
+  GEN_5_START: 494,
+  GEN_5_END: 649,
+  GEN_6_START: 650,
+  GEN_6_END: 721
+};
+
+export default GENERATIONS;

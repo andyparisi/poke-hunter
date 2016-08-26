@@ -1,5 +1,6 @@
 import * as React from "react";
 import { PokemonLocationDetails } from "./PokemonLocationDetails";
+import KEYBOARD from "../constants/Keyboard";
 
 export interface Props {
   poke?: any;
@@ -128,7 +129,7 @@ export class PokemonLocation extends React.Component<Props, State> {
     e.stopPropagation();
 
     // Handle escape key to close
-    if(e.keyCode === 27) {
+    if(e.keyCode === KEYBOARD.ESCAPE) {
       this.close();
     }
   }
