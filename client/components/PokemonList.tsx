@@ -29,6 +29,7 @@ export class PokemonList extends React.Component<Props, State> {
     let pokeItems: Array<Array<any>> = [[]];
     let genList: Array<any> = [];
     let collected: Array<number> = [];
+    let totalCollected: number = 0;
 
     pokemonList.forEach((poke, index) => {
       const { gen, dexNum } = poke;
@@ -39,6 +40,7 @@ export class PokemonList extends React.Component<Props, State> {
           collected[gen - 1] = 0;
         }
         collected[gen - 1]++;
+        totalCollected++;
       }
 
       if(pokeItems[gen - 1] == null && !filterTerm) {
@@ -95,11 +97,10 @@ export class PokemonList extends React.Component<Props, State> {
       }
       genList.push(<ul key={gen} className={`pokemon-list gen-${gen}`}>{genPokes}</ul>);
     });
-
-    console.log(collected)
     
     return (
       <div className="pokemon-gens">
+        <div className="total-captured">{`${totalCollected} / ${GENERATIONS.GEN_6_END} captured`}</div>
         {genList}
       </div>
     )
