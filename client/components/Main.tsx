@@ -147,7 +147,7 @@ export class Main extends React.Component<Props, State> {
     let filterRef: any = this.refs["filter"];
     filterRef.focus();
 
-    if(e.keyCode != KEYBOARD.ENTER) {
+    if(e.keyCode != KEYBOARD.ENTER && e.keyCode != KEYBOARD.SHIFT) {
       this.setFilter(e.key);
     }
   }

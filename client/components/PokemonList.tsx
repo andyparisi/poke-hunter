@@ -28,15 +28,24 @@ export class PokemonList extends React.Component<Props, State> {
     const { selectedPokes } = this.state;
     let pokeItems: Array<Array<any>> = [[]];
     let genList: Array<any> = [];
+    let collected: Array<number> = [];
 
     pokemonList.forEach((poke, index) => {
-      const { gen } = poke;
+      const { gen, dexNum } = poke;
+      let dn: number = +dexNum;
+      // Track if the user has collected this one
+      if(selectedPokes[dexNum] != null) {
+        if(collected[gen - 1] == null) {
+          collected[gen - 1] = 0;
+        }
+        collected[gen - 1]++;
+      }
 
       if(pokeItems[gen - 1] == null && !filterTerm) {
         pokeItems[gen - 1] = [];
       }
 
-      let item: any = <PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this) } isSelected={selectedPokes[poke.dexNum] != null} openLocation={this.openLocation.bind(this) } shiftEngaged={shiftEngaged} />;
+      let item: any = <PokemonListItem key={index} poke={poke} selectPoke={this.selectPoke.bind(this)} isSelected={selectedPokes[poke.dexNum] != null} openLocation={this.openLocation.bind(this) } shiftEngaged={shiftEngaged} />;
 
       if (filterTerm) {
         pokeItems[0].push(item)
@@ -48,14 +57,19 @@ export class PokemonList extends React.Component<Props, State> {
 
     // Put each gen array in a new list
     pokeItems.forEach((genPokes, index) => {
+      let gen: number = index + 1;
+      const genCol: number = collected[gen - 1] || 0;
+      const genTarget: number = GENERATIONS[`GEN_${gen}_END`];
+      const genPct: number = (genCol / genTarget) * 100;
+
       // Add a gen marker to the beginning of each array
       if(!filterTerm) {
         let genGames: any = [];
-        const gg: Array<any> = GENERATIONS[`GEN_${index + 1}`];
+        const gg: Array<any> = GENERATIONS[`GEN_${gen}`];
 
         gg.forEach(game => {
           genGames.push(
-            <li className="gen-game" style={{
+            <li key={game.name} className="gen-game" style={{
               backgroundColor: game.color,
               color: game.textColor
             }}>
@@ -65,18 +79,23 @@ export class PokemonList extends React.Component<Props, State> {
         });
 
         genPokes.unshift(
-          <div key={`genPokes-${index + 1}`} className="gen-marker">
-            <header>{`Generation ${index + 1}`}</header>
-            {/*<span className="gen-collected">14/151 collected</span>*/}
+          <div key={`genPokes-${gen}`} className="gen-marker">
+            <header>{`Generation ${gen}`}</header>
+            <div className="gen-collected">
+              {`${genCol} / ${genTarget} captured`}
+              <div className="collected-progress" style={{ width: `${genPct}%` }} />
+            </div>
             <ul className="gen-games">
               {genGames}
             </ul>
           </div>
         );
       }
-      genList.push(<ul key={index + 1} className={`pokemon-list gen-${index + 1}`}>{genPokes}</ul>);
+      genList.push(<ul key={gen} className={`pokemon-list gen-${gen}`}>{genPokes}</ul>);
     });
 
+    console.log(collected)
+    
     return (
       <div className="pokemon-gens">
         {genList}
