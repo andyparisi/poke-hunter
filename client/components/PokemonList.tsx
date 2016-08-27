@@ -94,13 +94,14 @@ export class PokemonList extends React.Component<Props, State> {
             </ul>
           </div>
         );
+
       }
       genList.push(<ul key={gen} className={`pokemon-list gen-${gen}`}>{genPokes}</ul>);
     });
     
     return (
       <div className="pokemon-gens">
-        <div className="total-captured">{`${totalCollected} / ${GENERATIONS.GEN_6_END} captured`}</div>
+        <div className="total-captured">{`${totalCollected} / ${pokemonList.length} captured`}</div>
         {genList}
       </div>
     )

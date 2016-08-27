@@ -15,6 +15,7 @@ export interface State {
   locations?: any;
   shiftEngaged?: Boolean;
   filterTerm?: String;
+  itemsList?: Array<any>;
 }
 
 export interface Props {
@@ -31,6 +32,7 @@ export class Main extends React.Component<Props, State> {
       pokeLocation: null,
       locations: {},
       shiftEngaged: false,
+      itemsList: []
     };
   }
 
@@ -41,6 +43,15 @@ export class Main extends React.Component<Props, State> {
     .then(res => {
       this.setState({
         pokemonList: res
+      });
+    });
+
+    // Fetch the list of evo items
+    fetch('/items')
+    .then(res => res.json())
+    .then(res => {
+      this.setState({
+        itemsList: res
       });
     });
 
@@ -57,7 +68,7 @@ export class Main extends React.Component<Props, State> {
 
   render() {
     const { pokemon } = JSON.parse(this.props.userData);
-    const { pokemonList, pokeLocation, locations, shiftEngaged, filterTerm } = this.state;
+    const { pokemonList, pokeLocation, locations, shiftEngaged, filterTerm, itemsList } = this.state;
     let filteredList: Array<any> = pokemonList;
     
     // Apply a filter term
@@ -79,7 +90,8 @@ export class Main extends React.Component<Props, State> {
                                       locations={locations} 
                                       closeLocation={this.closeLocation.bind(this)} 
                                       openLocation={this.openLocation.bind(this)} 
-                                      setLocation={this.setLocation.bind(this)} /> : null;
+                                      setLocation={this.setLocation.bind(this)}
+                                      itemsList={itemsList} /> : null;
 
     return (
       <div className="container">

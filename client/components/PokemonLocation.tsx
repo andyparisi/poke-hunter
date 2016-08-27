@@ -1,5 +1,7 @@
 import * as React from "react";
 import { PokemonLocationDetails } from "./PokemonLocationDetails";
+import { PokemonEvolveFamily } from "./PokemonEvolveFamily";
+
 import KEYBOARD from "../constants/Keyboard";
 
 export interface Props {
@@ -8,6 +10,7 @@ export interface Props {
   locations?: any;
   openLocation?: Function;
   setLocation?: Function;
+  itemsList?: Array<any>;
 }
 
 export interface State {
@@ -50,7 +53,7 @@ export class PokemonLocation extends React.Component<Props, State> {
   }
 
   render() {
-    const { poke, locations } = this.props;
+    const { poke, locations, itemsList } = this.props;
     const { detailsActive } = this.state;
     const { dexNum, displayName } = poke;
 
@@ -105,6 +108,7 @@ export class PokemonLocation extends React.Component<Props, State> {
             <button className={showDetailsClass} onClick={this.toggleDetailsPane.bind(this)}>{showDetailsText}</button>
           </header>
           <div ref="body" className={locationBodyClass}>
+            <PokemonEvolveFamily poke={poke} itemsList={itemsList} />
             <table className="location-table">
               <tbody>
                 {locationTableItems}

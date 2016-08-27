@@ -44,6 +44,13 @@ app.get('/poke/:num', (req, res, next) => {
   next();
 });
 
+// Get evo items
+app.get('/items', (req, res, next) => {
+  var items = require('./server/evo-items');
+  res.json(items);
+  next();
+});
+
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '/client', 'index.html'));
 });

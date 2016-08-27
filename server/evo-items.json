@@ -1,0 +1,132 @@
+[
+  { 
+    "name": "dawn-stone", 
+    "displayName": "Dawn Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye."
+  },
+  { 
+    "name": "deep-sea-scale", 
+    "displayName": "Deep Sea Scale",
+    "description": "An item to be held by Clamperl. This scale shines with a faint pink and raises the holder's Sp. Def stat."
+  },
+  { 
+    "name": "deep-sea-tooth", 
+    "displayName": "Deep Sea Tooth",
+    "description": "An item to be held by Clamperl. This fang gleams a sharp silver and raises the holder's Sp. Atk stat."
+  },
+  { 
+    "name": "dragon-scale", 
+    "displayName": "Dragon Scale",
+    "description": "A very tough and inflexible scale. Dragon-type Pokémon may be holding this item when caught."
+  },
+  { 
+    "name": "dubious-disc", 
+    "displayName": "Dubious Disc",
+    "description": "A transparent device overflowing with dubious data. Its producer is unknown."
+  },
+  { 
+    "name": "dusk-stone", 
+    "displayName": "Dusk Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It holds shadows as dark as can be."
+  },
+  { 
+    "name": "electirizer", 
+    "displayName": "Electirizer",
+    "description": "A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon."
+  },
+  { 
+    "name": "fire-stone", 
+    "displayName": "Fire Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart."
+  },
+  { 
+    "name": "kings-rock",
+    "displayName": "King's Rock",
+    "description": "An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch." 
+  },
+  { 
+    "name": "leaf-stone", 
+    "displayName": "Leaf Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern."
+  },
+  { 
+    "name": "magmarizer", 
+    "displayName": "Magmarizer",
+    "description": "A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon."
+  },
+  { 
+    "name": "metal-coat", 
+    "displayName": "Metal Coat",
+    "description": "An item to be held by a Pokémon. It is a special metallic film that can boost the power of Steel-type moves."
+  },
+  { 
+    "name": "moon-stone", 
+    "displayName": "Moon Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky."
+  },
+  { 
+    "name": "oval-stone", 
+    "displayName": "Oval Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It's as round as a Pokémon Egg."
+  },
+  { 
+    "name": "prism-scale", 
+    "displayName": "Prism Scale",
+    "description": "A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors."
+  },
+  { 
+    "name": "protector", 
+    "displayName": "Protector",
+    "description": "A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon."
+  },
+  { 
+    "name": "razor-claw", 
+    "displayName": "Razor Claw",
+    "description": "An item to be held by a Pokémon. This sharply hooked claw increases the holder's critical-hit ratio."
+  },
+  { 
+    "name": "razor-fang", 
+    "displayName": "Razor Fang",
+    "description": "An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch."
+  },
+  { 
+    "name": "reaper-cloth", 
+    "displayName": "Reaper Cloth",
+    "description": "A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon."
+  },
+  { 
+    "name": "sachet",
+    "displayName": "Sachet",
+    "description": "A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it's loved by a certain Pokémon." 
+  },
+  { 
+    "name": "shiny-stone", 
+    "displayName": "Shiny Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light."
+  },
+  { 
+    "name": "sun-stone", 
+    "displayName": "Sun Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun."
+  },
+  { 
+    "name": "thunder-stone", 
+    "displayName": "Thunderstone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern."
+  },
+  { 
+    "name": "up-grade", 
+    "displayName": "Up-Grade",
+    "description": "A transparent device somehow filled with all sorts of data. It was produced by Silph Co."
+  },
+  { 
+    "name": "water-stone", 
+    "displayName": "Water Stone",
+    "description": "A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water."
+  },
+  { 
+    "name": "whipped-dream",
+    "displayName": "Whipped Dream",
+    "description": "A soft and sweet treatmade of fluffy, puffy, whipped and whirled cream. It's loved by a certain Pokémon"
+  }
+]
