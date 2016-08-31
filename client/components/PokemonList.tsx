@@ -62,8 +62,8 @@ export class PokemonList extends React.Component<Props, State> {
       const gen: number = index + 1;
       const genCol: number = collected[gen - 1] || 0;
       const genStart: number = GENERATIONS[`GEN_${gen}_START`];
-      const genEnd: number = (genStart === 1) ? GENERATIONS[`GEN_${gen}_END`] + 1 : GENERATIONS[`GEN_${gen}_END`];
-      const genDiff: number = genEnd - genStart;
+      const genEnd: number = GENERATIONS[`GEN_${gen}_END`];
+      const genDiff: number = genEnd - genStart + 1;
       const genPct: number = (genCol / genDiff) * 100;
 
       // Add a gen marker to the beginning of each array
