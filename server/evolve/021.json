@@ -1,0 +1,31 @@
+{
+  "num": "020",
+  "family": [
+    {
+      "num": "020",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "021",
+      "level": 20,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    }
+  ]
+}

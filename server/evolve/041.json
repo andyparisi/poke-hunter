@@ -1,0 +1,41 @@
+{
+  "num": "041",
+  "family": [
+    {
+      "num": "041",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "042",
+      "level": 22,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "169",
+      "level": null,
+      "trade": null,
+      "happiness": ">= 220",
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    }
+  ]
+}

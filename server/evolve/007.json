@@ -1,0 +1,44 @@
+{
+  "num": "007",
+  "family": [
+    {
+      "num": "007",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "008",
+      "level": 16,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "009",
+      "level": 36,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    }
+  ]
+}

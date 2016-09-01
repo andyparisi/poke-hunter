@@ -1,0 +1,41 @@
+{
+  "num": "039",
+  "family": [
+    {
+      "num": "174",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "039",
+      "level": null,
+      "trade": null,
+      "happiness": ">= 220",
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "040",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem":"moon-stone",
+      "other": null
+    }
+  ]
+}

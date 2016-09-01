@@ -1,0 +1,55 @@
+{
+  "num": "043",
+  "family": [
+    {
+      "num": "043",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "044",
+      "level": 21,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    [
+      {
+        "num": "045",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": null,
+        "trainedInArea": null,
+        "unique": null,
+        "useItem": "leaf-stone",
+        "other": null
+      },
+      {
+        "num": "045",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": null,
+        "trainedInArea": null,
+        "unique": null,
+        "useItem": "sun-stone",
+        "other": null
+      }
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "num": "037",
+  "family": [
+    {
+      "num": "037",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem": null,
+      "other": null
+    },
+    {
+      "num": "038",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": null,
+      "trainedInArea": null,
+      "unique": null,
+      "useItem":"fire-stone",
+      "other": null
+    }
+  ]
+}
