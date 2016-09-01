@@ -15,7 +15,7 @@ export interface State {
   locations?: any;
   shiftEngaged?: Boolean;
   filterTerm?: String;
-  itemsList?: Array<any>;
+  itemsList?: any;
 }
 
 export interface Props {
@@ -32,7 +32,7 @@ export class Main extends React.Component<Props, State> {
       pokeLocation: null,
       locations: {},
       shiftEngaged: false,
-      itemsList: []
+      itemsList: {}
     };
   }
 
@@ -50,8 +50,9 @@ export class Main extends React.Component<Props, State> {
     fetch('/items')
     .then(res => res.json())
     .then(res => {
+      // Store in state keyed by name
       this.setState({
-        itemsList: res
+        itemsList: _.keyBy(res, 'name')
       });
     });
 

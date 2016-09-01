@@ -1,8 +1,8 @@
 {
-  "num": "020",
+  "num": "021",
   "family": [
     {
-      "num": "020",
+      "num": "021",
       "level": null,
       "trade": null,
       "happiness": null,
@@ -15,7 +15,7 @@
       "other": []
     },
     {
-      "num": "021",
+      "num": "022",
       "level": 20,
       "trade": null,
       "happiness": null,

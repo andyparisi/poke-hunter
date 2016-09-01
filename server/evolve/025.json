@@ -16,7 +16,7 @@
     },
     {
       "num": "025",
-      "level": 7,
+      "level": null,
       "trade": null,
       "happiness": ">= 220",
       "holdItem": null,

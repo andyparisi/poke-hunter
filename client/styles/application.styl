@@ -95,6 +95,7 @@ h1
 
     .details-pane
       position: absolute
+      z-index: 15
       top: 8px
       left: 100%
       width: 100%
@@ -354,8 +355,42 @@ h1
     display: table-cell
     vertical-align: middle
     text-align: center
+    clearfix()
+
+    .requirements
+      float: left
+      width: 100px
+      font-size: 10px
+      line-height: 12px
+      min-height: 30px
+      position: relative
+      padding: 3px
+
+      &:after
+        content: '>'
+        display: block
+        position: absolute
+        top: 50%
+        left: 50%
+        width: 50px
+        margin-left: -25px
+        height: 16px
+        margin-top: -8px
+        background: #faeb41
+        z-index: 0
+
+      .req
+        position: relative
+        z-index: 1
+        padding: 1px
+        border-radius: 4px
+        color: #666
+        border: 1px solid #ccc
+        background: #ebebeb
 
     .member
+      display: inline-block
+
       .name
         display: inline-block
         font-size: 10px

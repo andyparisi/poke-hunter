@@ -10,7 +10,7 @@ export interface Props {
   locations?: any;
   openLocation?: Function;
   setLocation?: Function;
-  itemsList?: Array<any>;
+  itemsList?: any;
   pokemonList: Array<any>;
 }
 
