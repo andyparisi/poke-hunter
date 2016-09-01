@@ -1,24 +1,13 @@
 {
-  "num": "129",
+  "num": "132",
   "family": [
     {
-      "num": "129",
+      "num": "132",
       "level": null,
       "trade": null,
       "happiness": null,
       "holdItem": null,
-      "knowMove": [],
-      "levelInArea": [],
-      "unique": null,
-      "useItem": null,
-      "other": []
-    },
-    {
-      "num": "130",
-      "level": 20,
-      "trade": null,
-      "happiness": null,
-      "holdItem": null,
+      "friendship": null,
       "knowMove": [],
       "levelInArea": [],
       "unique": null,

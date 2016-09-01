@@ -105,6 +105,7 @@ h1
       border: 1px solid #ccc
       transition: transform 0.3s
       box-shadow: 1px 1px 3px #999
+      transform: translateX(100%) translateZ(0)
 
       &.is-active
         transform: translateX(-99%) translateZ(0)
@@ -366,8 +367,14 @@ h1
       position: relative
       padding: 3px
 
+      &.trade:after
+        content: 'Trade'
+      
+      &.level:after
+        content: 'Level up'
+
       &:after
-        content: '>'
+        content: ''
         display: block
         position: absolute
         top: 50%
@@ -383,10 +390,10 @@ h1
         position: relative
         z-index: 1
         padding: 1px
-        border-radius: 4px
         color: #666
-        border: 1px solid #ccc
-        background: #ebebeb
+        // border: 1px solid #ccc
+        // border-radius: 4px
+        // background: #ebebeb
 
     .member
       display: inline-block

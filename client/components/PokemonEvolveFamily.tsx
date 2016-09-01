@@ -122,10 +122,9 @@ export class PokemonEvolveFamily extends React.Component<Props, {}> {
 
       // Level
       if(level) {
-        let levelString: string = `Reach level ${level}`;
         reqs.push(
-          <div key={num + level} className="req level" title={levelString}>
-            {levelString}
+          <div key={num + level} className="req level" title={`Reach level ${level}`}>
+            {`Level ${level}`}
           </div>
         );
       }
@@ -140,8 +139,17 @@ export class PokemonEvolveFamily extends React.Component<Props, {}> {
         );
       }
 
+      let reqString: string = "requirements";
+      if(trade) {
+        reqString += " trade";
+      }
+      if(level) {
+        reqString += " level";
+      }
+
+
       reqsItems.push(
-        <div key={num} className="requirements">
+        <div key={num} className={reqString}>
           {reqs}
         </div>
       );
