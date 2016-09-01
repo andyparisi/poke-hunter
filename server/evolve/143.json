@@ -1,0 +1,29 @@
+{
+  "num": "143",
+  "family": [
+    {
+      "num": "446",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "143",
+      "level": null,
+      "trade": null,
+      "happiness": ">= 220",
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

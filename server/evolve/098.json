@@ -1,0 +1,29 @@
+{
+  "num": "098",
+  "family": [
+    {
+      "num": "098",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "099",
+      "level": 28,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

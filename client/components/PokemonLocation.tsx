@@ -14,28 +14,45 @@ export interface Props {
 }
 
 export interface State {
-  detailsActive?: Boolean;
+  detailsActive?: boolean;
+  family?: any;
+  loading?: boolean;
 }
 
 export class PokemonLocation extends React.Component<Props, State> {
   constructor(props: any) {
     super(props);
     this.state = {
-      detailsActive: false
+      detailsActive: false,
+      family: {},
+      loading: true
     };
   }
 
   componentWillMount() {
+    const { loading } = this.state;
     const { poke, setLocation, locations } = this.props;
+    const { dexNum, family } = poke;
 
-    // Fetch it if we don't have it already
-    if(locations[poke.dexNum] == null) {
-      fetch(`/poke/${poke.dexNum}`)
-      .then(res => res.json())
-      .then(res => {
-        setLocation(res);
-      });
-    }
+    // Location and family data
+    fetch(`/poke/${dexNum}`)
+    .then(res => res.json())
+    .then(res => {
+      setLocation(res);
+    })
+    // Fetch the evolution family data
+    .then(() => {
+      if(family) {
+        fetch(`/family/${family}`)
+        .then(fam => fam.json())
+        .then(fam => {
+          this.setState({
+            family: fam,
+            loading: false
+          });
+        });
+      }
+    });
 
     // Set key event handlers
     window.addEventListener('keyup', this.handleKeyUp.bind(this));
@@ -54,7 +71,7 @@ export class PokemonLocation extends React.Component<Props, State> {
 
   render() {
     const { poke, locations, itemsList } = this.props;
-    const { detailsActive } = this.state;
+    const { detailsActive, loading } = this.state;
     const { dexNum, displayName } = poke;
 
     // Get the current Poke's location data
@@ -64,6 +81,7 @@ export class PokemonLocation extends React.Component<Props, State> {
     let locationBodyClass: String = (detailsActive) ? "location-body details-active" : "location-body";
     let showDetailsClass: String = (curLoc != null && curLoc.details != null) ? "show-details" : "show-details is-hidden";
     let showDetailsText: String = (detailsActive) ? "< Hide Details" : "Show Details >";
+    let loadingItem = (loading) ? <div className="loading">Loading...</div> : null;
 
     for(let g in curLoc) {
       let loc: any = curLoc[g];
@@ -116,6 +134,7 @@ export class PokemonLocation extends React.Component<Props, State> {
             </table>
             {locationDetails}
           </div>
+          {loadingItem}
         </div>
       </div>
     )

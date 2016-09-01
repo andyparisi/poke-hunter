@@ -1,0 +1,18 @@
+{
+  "num": "145",
+  "family": [
+    {
+      "num": "145",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "num": "063",
+  "family": [
+    {
+      "num": "063",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "064",
+      "level": 16,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "065",
+      "level": null,
+      "trade": true,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

@@ -3,907 +3,1058 @@
         "dexNum": "001",
         "name": "bulbasaur",
         "displayName": "Bulbasaur",
-        "gen": 1
+        "gen": 1,
+        "family": "001"
     },
     {
         "dexNum": "002",
         "name": "ivysaur",
         "displayName": "Ivysaur",
-        "gen": 1
+        "gen": 1,
+        "family": "001"        
     },
     {
         "dexNum": "003",
         "name": "venusaur",
         "displayName": "Venusaur",
-        "gen": 1
+        "gen": 1,
+        "family": "001"
     },
     {
         "dexNum": "004",
         "name": "charmander",
         "displayName": "Charmander",
-        "gen": 1
+        "gen": 1,
+        "family": "004"
     },
     {
         "dexNum": "005",
         "name": "charmeleon",
         "displayName": "Charmeleon",
-        "gen": 1
+        "gen": 1,
+        "family": "004"
     },
     {
         "dexNum": "006",
         "name": "charizard",
         "displayName": "Charizard",
-        "gen": 1
+        "gen": 1,
+        "family": "004"
     },
     {
         "dexNum": "007",
         "name": "squirtle",
         "displayName": "Squirtle",
-        "gen": 1
+        "gen": 1,
+        "family": "007"
     },
     {
         "dexNum": "008",
         "name": "wartortle",
         "displayName": "Wartortle",
-        "gen": 1
+        "gen": 1,
+        "family": "007"
     },
     {
         "dexNum": "009",
         "name": "blastoise",
         "displayName": "Blastoise",
-        "gen": 1
+        "gen": 1,
+        "family": "007"
     },
     {
         "dexNum": "010",
         "name": "caterpie",
         "displayName": "Caterpie",
-        "gen": 1
+        "gen": 1,
+        "family": "010"
     },
     {
         "dexNum": "011",
         "name": "metapod",
         "displayName": "Metapod",
-        "gen": 1
+        "gen": 1,
+        "family": "010"
     },
     {
         "dexNum": "012",
         "name": "butterfree",
         "displayName": "Butterfree",
-        "gen": 1
+        "gen": 1,
+        "family": "010"
     },
     {
         "dexNum": "013",
         "name": "weedle",
         "displayName": "Weedle",
-        "gen": 1
+        "gen": 1,
+        "family": "013"
     },
     {
         "dexNum": "014",
         "name": "kakuna",
         "displayName": "Kakuna",
-        "gen": 1
+        "gen": 1,
+        "family": "013"
     },
     {
         "dexNum": "015",
         "name": "beedrill",
         "displayName": "Beedrill",
-        "gen": 1
+        "gen": 1,
+        "family": "013"
     },
     {
         "dexNum": "016",
         "name": "pidgey",
         "displayName": "Pidgey",
-        "gen": 1
+        "gen": 1,
+        "family": "016"
     },
     {
         "dexNum": "017",
         "name": "pidgeotto",
         "displayName": "Pidgeotto",
-        "gen": 1
+        "gen": 1,
+        "family": "016"
     },
     {
         "dexNum": "018",
         "name": "pidgeot",
         "displayName": "Pidgeot",
-        "gen": 1
+        "gen": 1,
+        "family": "016"
     },
     {
         "dexNum": "019",
         "name": "rattata",
         "displayName": "Rattata",
-        "gen": 1
+        "gen": 1,
+        "family": "019"
     },
     {
         "dexNum": "020",
         "name": "raticate",
         "displayName": "Raticate",
-        "gen": 1
+        "gen": 1,
+        "family": "019"
     },
     {
         "dexNum": "021",
         "name": "spearow",
         "displayName": "Spearow",
-        "gen": 1
+        "gen": 1,
+        "family": "021"
     },
     {
         "dexNum": "022",
         "name": "fearow",
         "displayName": "Fearow",
-        "gen": 1
+        "gen": 1,
+        "family": "021"
     },
     {
         "dexNum": "023",
         "name": "ekans",
         "displayName": "Ekans",
-        "gen": 1
+        "gen": 1,
+        "family": "023"
     },
     {
         "dexNum": "024",
         "name": "arbok",
         "displayName": "Arbok",
-        "gen": 1
+        "gen": 1,
+        "family": "023"
     },
     {
         "dexNum": "025",
         "name": "pikachu",
         "displayName": "Pikachu",
-        "gen": 1
+        "gen": 1,
+        "family": "025"
     },
     {
         "dexNum": "026",
         "name": "raichu",
         "displayName": "Raichu",
-        "gen": 1
+        "gen": 1,
+        "family": "025"
     },
     {
         "dexNum": "027",
         "name": "sandshrew",
         "displayName": "Sandshrew",
-        "gen": 1
+        "gen": 1,
+        "family": "027"
     },
     {
         "dexNum": "028",
         "name": "sandslash",
         "displayName": "Sandslash",
-        "gen": 1
+        "gen": 1,
+        "family": "027"
     },
     {
         "dexNum": "029",
         "name": "nidoran-f",
         "displayName": "Nidoran ♀",
-        "gen": 1
+        "gen": 1,
+        "family": "029"
     },
     {
         "dexNum": "030",
         "name": "nidorina",
         "displayName": "Nidorina",
-        "gen": 1
+        "gen": 1,
+        "family": "029"
     },
     {
         "dexNum": "031",
         "name": "nidoqueen",
         "displayName": "Nidoqueen",
-        "gen": 1
+        "gen": 1,
+        "family": "029"
     },
     {
         "dexNum": "032",
         "name": "nidoran-m",
         "displayName": "Nidoran ♂",
-        "gen": 1
+        "gen": 1,
+        "family": "032"
     },
     {
         "dexNum": "033",
         "name": "nidorino",
         "displayName": "Nidorino",
-        "gen": 1
+        "gen": 1,
+        "family": "032"
     },
     {
         "dexNum": "034",
         "name": "nidoking",
         "displayName": "Nidoking",
-        "gen": 1
+        "gen": 1,
+        "family": "032"
     },
     {
         "dexNum": "035",
         "name": "clefairy",
         "displayName": "Clefairy",
-        "gen": 1
+        "gen": 1,
+        "family": "035"
     },
     {
         "dexNum": "036",
         "name": "clefable",
         "displayName": "Clefable",
-        "gen": 1
+        "gen": 1,
+        "family": "035"
     },
     {
         "dexNum": "037",
         "name": "vulpix",
         "displayName": "Vulpix",
-        "gen": 1
+        "gen": 1,
+        "family": "037"
     },
     {
         "dexNum": "038",
         "name": "ninetales",
         "displayName": "Ninetales",
-        "gen": 1
+        "gen": 1,
+        "family": "037"
     },
     {
         "dexNum": "039",
         "name": "jigglypuff",
         "displayName": "Jigglypuff",
-        "gen": 1
+        "gen": 1,
+        "family": "039"
     },
     {
         "dexNum": "040",
         "name": "wigglytuff",
         "displayName": "Wigglytuff",
-        "gen": 1
+        "gen": 1,
+        "family": "039"
     },
     {
         "dexNum": "041",
         "name": "zubat",
         "displayName": "Zubat",
-        "gen": 1
+        "gen": 1,
+        "family": "041"
     },
     {
         "dexNum": "042",
         "name": "golbat",
         "displayName": "Golbat",
-        "gen": 1
+        "gen": 1,
+        "family": "041"
     },
     {
         "dexNum": "043",
         "name": "oddish",
         "displayName": "Oddish",
-        "gen": 1
+        "gen": 1,
+        "family": "043"
     },
     {
         "dexNum": "044",
         "name": "gloom",
         "displayName": "Gloom",
-        "gen": 1
+        "gen": 1,
+        "family": "043"
     },
     {
         "dexNum": "045",
         "name": "vileplume",
         "displayName": "Vileplume",
-        "gen": 1
+        "gen": 1,
+        "family": "043"
     },
     {
         "dexNum": "046",
         "name": "paras",
         "displayName": "Paras",
-        "gen": 1
+        "gen": 1,
+        "family": "046"
     },
     {
         "dexNum": "047",
         "name": "parasect",
         "displayName": "Parasect",
-        "gen": 1
+        "gen": 1,
+        "family": "046"
     },
     {
         "dexNum": "048",
         "name": "venonat",
         "displayName": "Venonat",
-        "gen": 1
+        "gen": 1,
+        "family": "048"
     },
     {
         "dexNum": "049",
         "name": "venomoth",
         "displayName": "Venomoth",
-        "gen": 1
+        "gen": 1,
+        "family": "048"
     },
     {
         "dexNum": "050",
         "name": "diglett",
         "displayName": "Diglett",
-        "gen": 1
+        "gen": 1,
+        "family": "050"
     },
     {
         "dexNum": "051",
         "name": "dugtrio",
         "displayName": "Dugtrio",
-        "gen": 1
+        "gen": 1,
+        "family": "050"
     },
     {
         "dexNum": "052",
         "name": "meowth",
         "displayName": "Meowth",
-        "gen": 1
+        "gen": 1,
+        "family": "052"
     },
     {
         "dexNum": "053",
         "name": "persian",
         "displayName": "Persian",
-        "gen": 1
+        "gen": 1,
+        "family": "052"
     },
     {
         "dexNum": "054",
         "name": "psyduck",
         "displayName": "Psyduck",
-        "gen": 1
+        "gen": 1,
+        "family": "054"
     },
     {
         "dexNum": "055",
         "name": "golduck",
         "displayName": "Golduck",
-        "gen": 1
+        "gen": 1,
+        "family": "054"
     },
     {
         "dexNum": "056",
         "name": "mankey",
         "displayName": "Mankey",
-        "gen": 1
+        "gen": 1,
+        "family": "056"
     },
     {
         "dexNum": "057",
         "name": "primeape",
         "displayName": "Primeape",
-        "gen": 1
+        "gen": 1,
+        "family": "056"
     },
     {
         "dexNum": "058",
         "name": "growlithe",
         "displayName": "Growlithe",
-        "gen": 1
+        "gen": 1,
+        "family": "058"
     },
     {
         "dexNum": "059",
         "name": "arcanine",
         "displayName": "Arcanine",
-        "gen": 1
+        "gen": 1,
+        "family": "058"
     },
     {
         "dexNum": "060",
         "name": "poliwag",
         "displayName": "Poliwag",
-        "gen": 1
+        "gen": 1,
+        "family": "060"
     },
     {
         "dexNum": "061",
         "name": "poliwhirl",
         "displayName": "Poliwhirl",
-        "gen": 1
+        "gen": 1,
+        "family": "060"
     },
     {
         "dexNum": "062",
         "name": "poliwrath",
         "displayName": "Poliwrath",
-        "gen": 1
+        "gen": 1,
+        "family": "060"
     },
     {
         "dexNum": "063",
         "name": "abra",
         "displayName": "Abra",
-        "gen": 1
+        "gen": 1,
+        "family": "063"
     },
     {
         "dexNum": "064",
         "name": "kadabra",
         "displayName": "Kadabra",
-        "gen": 1
+        "gen": 1,
+        "family": "063"
     },
     {
         "dexNum": "065",
         "name": "alakazam",
         "displayName": "Alakazam",
-        "gen": 1
+        "gen": 1,
+        "family": "063"
     },
     {
         "dexNum": "066",
         "name": "machop",
         "displayName": "Machop",
-        "gen": 1
+        "gen": 1,
+        "family": "066"
     },
     {
         "dexNum": "067",
         "name": "machoke",
         "displayName": "Machoke",
-        "gen": 1
+        "gen": 1,
+        "family": "066"
     },
     {
         "dexNum": "068",
         "name": "machamp",
         "displayName": "Machamp",
-        "gen": 1
+        "gen": 1,
+        "family": "066"
     },
     {
         "dexNum": "069",
         "name": "bellsprout",
         "displayName": "Bellsprout",
-        "gen": 1
+        "gen": 1,
+        "family": "069"
     },
     {
         "dexNum": "070",
         "name": "weepinbell",
         "displayName": "Weepinbell",
-        "gen": 1
+        "gen": 1,
+        "family": "069"
     },
     {
         "dexNum": "071",
         "name": "victreebel",
         "displayName": "Victreebel",
-        "gen": 1
+        "gen": 1,
+        "family": "069"
     },
     {
         "dexNum": "072",
         "name": "tentacool",
         "displayName": "Tentacool",
-        "gen": 1
+        "gen": 1,
+        "family": "072"
     },
     {
         "dexNum": "073",
         "name": "tentacruel",
         "displayName": "Tentacruel",
-        "gen": 1
+        "gen": 1,
+        "family": "072"
     },
     {
         "dexNum": "074",
         "name": "geodude",
         "displayName": "Geodude",
-        "gen": 1
+        "gen": 1,
+        "family": "074"
     },
     {
         "dexNum": "075",
         "name": "graveler",
         "displayName": "Graveler",
-        "gen": 1
+        "gen": 1,
+        "family": "074"
     },
     {
         "dexNum": "076",
         "name": "golem",
         "displayName": "Golem",
-        "gen": 1
+        "gen": 1,
+        "family": "074"
     },
     {
         "dexNum": "077",
         "name": "ponyta",
         "displayName": "Ponyta",
-        "gen": 1
+        "gen": 1,
+        "family": "077"
     },
     {
         "dexNum": "078",
         "name": "rapidash",
         "displayName": "Rapidash",
-        "gen": 1
+        "gen": 1,
+        "family": "077"
     },
     {
         "dexNum": "079",
         "name": "slowpoke",
         "displayName": "Slowpoke",
-        "gen": 1
+        "gen": 1,
+        "family": "079"
     },
     {
         "dexNum": "080",
         "name": "slowbro",
         "displayName": "Slowbro",
-        "gen": 1
+        "gen": 1,
+        "family": "079"
     },
     {
         "dexNum": "081",
         "name": "magnemite",
         "displayName": "Magnemite",
-        "gen": 1
+        "gen": 1,
+        "family": "081"
     },
     {
         "dexNum": "082",
         "name": "magneton",
         "displayName": "Magneton",
-        "gen": 1
+        "gen": 1,
+        "family": "081"
     },
     {
         "dexNum": "083",
         "name": "farfetchd",
         "displayName": "Farfetchd",
-        "gen": 1
+        "gen": 1,
+        "family": "083"
     },
     {
         "dexNum": "084",
         "name": "doduo",
         "displayName": "Doduo",
-        "gen": 1
+        "gen": 1,
+        "family": "084"
     },
     {
         "dexNum": "085",
         "name": "dodrio",
         "displayName": "Dodrio",
-        "gen": 1
+        "gen": 1,
+        "family": "084"
     },
     {
         "dexNum": "086",
         "name": "seel",
         "displayName": "Seel",
-        "gen": 1
+        "gen": 1,
+        "family": "086"
     },
     {
         "dexNum": "087",
         "name": "dewgong",
         "displayName": "Dewgong",
-        "gen": 1
+        "gen": 1,
+        "family": "086"
     },
     {
         "dexNum": "088",
         "name": "grimer",
         "displayName": "Grimer",
-        "gen": 1
+        "gen": 1,
+        "family": "088"
     },
     {
         "dexNum": "089",
         "name": "muk",
         "displayName": "Muk",
-        "gen": 1
+        "gen": 1,
+        "family": "088"
     },
     {
         "dexNum": "090",
         "name": "shellder",
         "displayName": "Shellder",
-        "gen": 1
+        "gen": 1,
+        "family": "090"
     },
     {
         "dexNum": "091",
         "name": "cloyster",
         "displayName": "Cloyster",
-        "gen": 1
+        "gen": 1,
+        "family": "090"
     },
     {
         "dexNum": "092",
         "name": "gastly",
         "displayName": "Gastly",
-        "gen": 1
+        "gen": 1,
+        "family": "092"
     },
     {
         "dexNum": "093",
         "name": "haunter",
         "displayName": "Haunter",
-        "gen": 1
+        "gen": 1,
+        "family": "092"
     },
     {
         "dexNum": "094",
         "name": "gengar",
         "displayName": "Gengar",
-        "gen": 1
+        "gen": 1,
+        "family": "092"
     },
     {
         "dexNum": "095",
         "name": "onix",
         "displayName": "Onix",
-        "gen": 1
+        "gen": 1,
+        "family": "095"
     },
     {
         "dexNum": "096",
         "name": "drowzee",
         "displayName": "Drowzee",
-        "gen": 1
+        "gen": 1,
+        "family": "096"
     },
     {
         "dexNum": "097",
         "name": "hypno",
         "displayName": "Hypno",
-        "gen": 1
+        "gen": 1,
+        "family": "096"
     },
     {
         "dexNum": "098",
         "name": "krabby",
         "displayName": "Krabby",
-        "gen": 1
+        "gen": 1,
+        "family": "098"
     },
     {
         "dexNum": "099",
         "name": "kingler",
         "displayName": "Kingler",
-        "gen": 1
+        "gen": 1,
+        "family": "098"
     },
     {
         "dexNum": "100",
         "name": "voltorb",
         "displayName": "Voltorb",
-        "gen": 1
+        "gen": 1,
+        "family": "100"
     },
     {
         "dexNum": "101",
         "name": "electrode",
         "displayName": "Electrode",
-        "gen": 1
+        "gen": 1,
+        "family": "100"
     },
     {
         "dexNum": "102",
         "name": "exeggcute",
         "displayName": "Exeggcute",
-        "gen": 1
+        "gen": 1,
+        "family": "102"
     },
     {
         "dexNum": "103",
         "name": "exeggutor",
         "displayName": "Exeggutor",
-        "gen": 1
+        "gen": 1,
+        "family": "102"
     },
     {
         "dexNum": "104",
         "name": "cubone",
         "displayName": "Cubone",
-        "gen": 1
+        "gen": 1,
+        "family": "104"
     },
     {
         "dexNum": "105",
         "name": "marowak",
         "displayName": "Marowak",
-        "gen": 1
+        "gen": 1,
+        "family": "104"
     },
     {
         "dexNum": "106",
         "name": "hitmonlee",
         "displayName": "Hitmonlee",
-        "gen": 1
+        "gen": 1,
+        "family": "106"
     },
     {
         "dexNum": "107",
         "name": "hitmonchan",
         "displayName": "Hitmonchan",
-        "gen": 1
+        "gen": 1,
+        "family": "106"
     },
     {
         "dexNum": "108",
         "name": "lickitung",
         "displayName": "Lickitung",
-        "gen": 1
+        "gen": 1,
+        "family": "108"
     },
     {
         "dexNum": "109",
         "name": "koffing",
         "displayName": "Koffing",
-        "gen": 1
+        "gen": 1,
+        "family": "109"
     },
     {
         "dexNum": "110",
         "name": "weezing",
         "displayName": "Weezing",
-        "gen": 1
+        "gen": 1,
+        "family": "109"
     },
     {
         "dexNum": "111",
         "name": "rhyhorn",
         "displayName": "Rhyhorn",
-        "gen": 1
+        "gen": 1,
+        "family": "111"
     },
     {
         "dexNum": "112",
         "name": "rhydon",
         "displayName": "Rhydon",
-        "gen": 1
+        "gen": 1,
+        "family": "111"
     },
     {
         "dexNum": "113",
         "name": "chansey",
         "displayName": "Chansey",
-        "gen": 1
+        "gen": 1,
+        "family": "113"
     },
     {
         "dexNum": "114",
         "name": "tangela",
         "displayName": "Tangela",
-        "gen": 1
+        "gen": 1,
+        "family": "114"
     },
     {
         "dexNum": "115",
         "name": "kangaskhan",
         "displayName": "Kangaskhan",
-        "gen": 1
+        "gen": 1,
+        "family": "115"
     },
     {
         "dexNum": "116",
         "name": "horsea",
         "displayName": "Horsea",
-        "gen": 1
+        "gen": 1,
+        "family": "116"
     },
     {
         "dexNum": "117",
         "name": "seadra",
         "displayName": "Seadra",
-        "gen": 1
+        "gen": 1,
+        "family": "116"
     },
     {
         "dexNum": "118",
         "name": "goldeen",
         "displayName": "Goldeen",
-        "gen": 1
+        "gen": 1,
+        "family": "118"
     },
     {
         "dexNum": "119",
         "name": "seaking",
         "displayName": "Seaking",
-        "gen": 1
+        "gen": 1,
+        "family": "118"
     },
     {
         "dexNum": "120",
         "name": "staryu",
         "displayName": "Staryu",
-        "gen": 1
+        "gen": 1,
+        "family": "120"
     },
     {
         "dexNum": "121",
         "name": "starmie",
         "displayName": "Starmie",
-        "gen": 1
+        "gen": 1,
+        "family": "120"
     },
     {
         "dexNum": "122",
         "name": "mr-mime",
         "displayName": "Mr. Mime",
-        "gen": 1
+        "gen": 1,
+        "family": "122"
     },
     {
         "dexNum": "123",
         "name": "scyther",
         "displayName": "Scyther",
-        "gen": 1
+        "gen": 1,
+        "family": "123"
     },
     {
         "dexNum": "124",
         "name": "jynx",
         "displayName": "Jynx",
-        "gen": 1
+        "gen": 1,
+        "family": "124"
     },
     {
         "dexNum": "125",
         "name": "electabuzz",
         "displayName": "Electabuzz",
-        "gen": 1
+        "gen": 1,
+        "family": "125"
     },
     {
         "dexNum": "126",
         "name": "magmar",
         "displayName": "Magmar",
-        "gen": 1
+        "gen": 1,
+        "family": "126"
     },
     {
         "dexNum": "127",
         "name": "pinsir",
         "displayName": "Pinsir",
-        "gen": 1
+        "gen": 1,
+        "family": "127"
     },
     {
         "dexNum": "128",
         "name": "tauros",
         "displayName": "Tauros",
-        "gen": 1
+        "gen": 1,
+        "family": "128"
     },
     {
         "dexNum": "129",
         "name": "magikarp",
         "displayName": "Magikarp",
-        "gen": 1
+        "gen": 1,
+        "family": "129"
     },
     {
         "dexNum": "130",
         "name": "gyarados",
         "displayName": "Gyarados",
-        "gen": 1
+        "gen": 1,
+        "family": "129"
     },
     {
         "dexNum": "131",
         "name": "lapras",
         "displayName": "Lapras",
-        "gen": 1
+        "gen": 1,
+        "family": "131"
     },
     {
         "dexNum": "132",
         "name": "ditto",
         "displayName": "Ditto",
-        "gen": 1
+        "gen": 1,
+        "family": "132"
     },
     {
         "dexNum": "133",
         "name": "eevee",
         "displayName": "Eevee",
-        "gen": 1
+        "gen": 1,
+        "family": "133"
     },
     {
         "dexNum": "134",
         "name": "vaporeon",
         "displayName": "Vaporeon",
-        "gen": 1
+        "gen": 1,
+        "family": "133"
     },
     {
         "dexNum": "135",
         "name": "jolteon",
         "displayName": "Jolteon",
-        "gen": 1
+        "gen": 1,
+        "family": "133"
     },
     {
         "dexNum": "136",
         "name": "flareon",
         "displayName": "Flareon",
-        "gen": 1
+        "gen": 1,
+        "family": "133"
     },
     {
         "dexNum": "137",
         "name": "porygon",
         "displayName": "Porygon",
-        "gen": 1
+        "gen": 1,
+        "family": "137"
     },
     {
         "dexNum": "138",
         "name": "omanyte",
         "displayName": "Omanyte",
-        "gen": 1
+        "gen": 1,
+        "family": "138"
     },
     {
         "dexNum": "139",
         "name": "omastar",
         "displayName": "Omastar",
-        "gen": 1
+        "gen": 1,
+        "family": "138"
     },
     {
         "dexNum": "140",
         "name": "kabuto",
         "displayName": "Kabuto",
-        "gen": 1
+        "gen": 1,
+        "family": "140"
     },
     {
         "dexNum": "141",
         "name": "kabutops",
         "displayName": "Kabutops",
-        "gen": 1
+        "gen": 1,
+        "family": "140"
     },
     {
         "dexNum": "142",
         "name": "aerodactyl",
         "displayName": "Aerodactyl",
-        "gen": 1
+        "gen": 1,
+        "family": "142"
     },
     {
         "dexNum": "143",
         "name": "snorlax",
         "displayName": "Snorlax",
-        "gen": 1
+        "gen": 1,
+        "family": "143"
     },
     {
         "dexNum": "144",
         "name": "articuno",
         "displayName": "Articuno",
-        "gen": 1
+        "gen": 1,
+        "family": "144"
     },
     {
         "dexNum": "145",
         "name": "zapdos",
         "displayName": "Zapdos",
-        "gen": 1
+        "gen": 1,
+        "family": "145"
     },
     {
         "dexNum": "146",
         "name": "moltres",
         "displayName": "Moltres",
-        "gen": 1
+        "gen": 1,
+        "family": "146"
     },
     {
         "dexNum": "147",
         "name": "dratini",
         "displayName": "Dratini",
-        "gen": 1
+        "gen": 1,
+        "family": "147"
     },
     {
         "dexNum": "148",
         "name": "dragonair",
         "displayName": "Dragonair",
-        "gen": 1
+        "gen": 1,
+        "family": "147"
     },
     {
         "dexNum": "149",
         "name": "dragonite",
         "displayName": "Dragonite",
-        "gen": 1
+        "gen": 1,
+        "family": "147"
     },
     {
         "dexNum": "150",
         "name": "mewtwo",
         "displayName": "Mewtwo",
-        "gen": 1
+        "gen": 1,
+        "family": "150"
     },
     {
         "dexNum": "151",
         "name": "mew",
         "displayName": "Mew",
-        "gen": 1
+        "gen": 1,
+        "family": "151"
     },
     {
         "dexNum": "152",
@@ -1011,7 +1162,8 @@
         "dexNum": "169",
         "name": "crobat",
         "displayName": "Crobat",
-        "gen": 2
+        "gen": 2,
+        "family": "041"
     },
     {
         "dexNum": "170",
@@ -1029,19 +1181,22 @@
         "dexNum": "172",
         "name": "pichu",
         "displayName": "Pichu",
-        "gen": 2
+        "gen": 2,
+        "family": "025"
     },
     {
         "dexNum": "173",
         "name": "cleffa",
         "displayName": "Cleffa",
-        "gen": 2
+        "gen": 2,
+        "family": "035"
     },
     {
         "dexNum": "174",
         "name": "igglybuff",
         "displayName": "Igglybuff",
-        "gen": 2
+        "gen": 2,
+        "family": "039"
     },
     {
         "dexNum": "175",
@@ -1089,7 +1244,8 @@
         "dexNum": "182",
         "name": "bellossom",
         "displayName": "Bellossom",
-        "gen": 2
+        "gen": 2,
+        "family": "043"
     },
     {
         "dexNum": "183",
@@ -1113,7 +1269,8 @@
         "dexNum": "186",
         "name": "politoed",
         "displayName": "Politoed",
-        "gen": 2
+        "gen": 2,
+        "family": "060"
     },
     {
         "dexNum": "187",
@@ -1173,13 +1330,15 @@
         "dexNum": "196",
         "name": "espeon",
         "displayName": "Espeon",
-        "gen": 2
+        "gen": 2,
+        "family": "133"
     },
     {
         "dexNum": "197",
         "name": "umbreon",
         "displayName": "Umbreon",
-        "gen": 2
+        "gen": 2,
+        "family": "133"
     },
     {
         "dexNum": "198",
@@ -1191,7 +1350,8 @@
         "dexNum": "199",
         "name": "slowking",
         "displayName": "Slowking",
-        "gen": 2
+        "gen": 2,
+        "family": "079"
     },
     {
         "dexNum": "200",
@@ -1245,7 +1405,8 @@
         "dexNum": "208",
         "name": "steelix",
         "displayName": "Steelix",
-        "gen": 2
+        "gen": 2,
+        "family": "095"
     },
     {
         "dexNum": "209",
@@ -1269,7 +1430,8 @@
         "dexNum": "212",
         "name": "scizor",
         "displayName": "Scizor",
-        "gen": 2
+        "gen": 2,
+        "family": "123"
     },
     {
         "dexNum": "213",
@@ -1377,7 +1539,8 @@
         "dexNum": "230",
         "name": "kingdra",
         "displayName": "Kingdra",
-        "gen": 2
+        "gen": 2,
+        "family": "116"
     },
     {
         "dexNum": "231",
@@ -1395,7 +1558,8 @@
         "dexNum": "233",
         "name": "porygon2",
         "displayName": "Porygon2",
-        "gen": 2
+        "gen": 2,
+        "family": "137"
     },
     {
         "dexNum": "234",
@@ -1413,31 +1577,36 @@
         "dexNum": "236",
         "name": "tyrogue",
         "displayName": "Tyrogue",
-        "gen": 2
+        "gen": 2,
+        "family": "106"
     },
     {
         "dexNum": "237",
         "name": "hitmontop",
         "displayName": "Hitmontop",
-        "gen": 2
+        "gen": 2,
+        "family": "106"
     },
     {
         "dexNum": "238",
         "name": "smoochum",
         "displayName": "Smoochum",
-        "gen": 2
+        "gen": 2,
+        "family": "124"
     },
     {
         "dexNum": "239",
         "name": "elekid",
         "displayName": "Elekid",
-        "gen": 2
+        "gen": 2,
+        "family": "125"
     },
     {
         "dexNum": "240",
         "name": "magby",
         "displayName": "Magby",
-        "gen": 2
+        "gen": 2,
+        "family": "126"
     },
     {
         "dexNum": "241",
@@ -1449,7 +1618,8 @@
         "dexNum": "242",
         "name": "blissey",
         "displayName": "Blissey",
-        "gen": 2
+        "gen": 2,
+        "family": "113"
     },
     {
         "dexNum": "243",
@@ -2631,13 +2801,15 @@
         "dexNum": "439",
         "name": "mime-jr",
         "displayName": "Mime Jr.",
-        "gen": 4
+        "gen": 4,
+        "family": "122"
     },
     {
         "dexNum": "440",
         "name": "happiny",
         "displayName": "Happiny",
-        "gen": 4
+        "gen": 4,
+        "family": "113"
     },
     {
         "dexNum": "441",
@@ -2673,7 +2845,8 @@
         "dexNum": "446",
         "name": "munchlax",
         "displayName": "Munchlax",
-        "gen": 4
+        "gen": 4,
+        "family": "143"
     },
     {
         "dexNum": "447",
@@ -2769,37 +2942,43 @@
         "dexNum": "462",
         "name": "magnezone",
         "displayName": "Magnezone",
-        "gen": 4
+        "gen": 4,
+        "family": "081"
     },
     {
         "dexNum": "463",
         "name": "lickilicky",
         "displayName": "Lickilicky",
-        "gen": 4
+        "gen": 4,
+        "family": "108"
     },
     {
         "dexNum": "464",
         "name": "rhyperior",
         "displayName": "Rhyperior",
-        "gen": 4
+        "gen": 4,
+        "family": "111"
     },
     {
         "dexNum": "465",
         "name": "tangrowth",
         "displayName": "Tangrowth",
-        "gen": 4
+        "gen": 4,
+        "family": "114"
     },
     {
         "dexNum": "466",
         "name": "electivire",
         "displayName": "Electivire",
-        "gen": 4
+        "gen": 4,
+        "family": "125"
     },
     {
         "dexNum": "467",
         "name": "magmortar",
         "displayName": "Magmortar",
-        "gen": 4
+        "gen": 4,
+        "family": "126"
     },
     {
         "dexNum": "468",
@@ -2817,13 +2996,15 @@
         "dexNum": "470",
         "name": "leafeon",
         "displayName": "Leafeon",
-        "gen": 4
+        "gen": 4,
+        "family": "133"
     },
     {
         "dexNum": "471",
         "name": "glaceon",
         "displayName": "Glaceon",
-        "gen": 4
+        "gen": 4,
+        "family": "133"
     },
     {
         "dexNum": "472",
@@ -2841,7 +3022,8 @@
         "dexNum": "474",
         "name": "porygon-z",
         "displayName": "Porygon-Z",
-        "gen": 4
+        "gen": 4,
+        "family": "137"
     },
     {
         "dexNum": "475",
@@ -4197,7 +4379,8 @@
         "dexNum": "700",
         "name": "sylveon",
         "displayName": "Sylveon",
-        "gen": 6
+        "gen": 6,
+        "family": "133"
     },
     {
         "dexNum": "701",

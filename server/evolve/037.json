@@ -7,11 +7,11 @@
       "trade": null,
       "happiness": null,
       "holdItem": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem": null,
-      "other": null
+      "other": []
     },
     {
       "num": "038",
@@ -19,11 +19,11 @@
       "trade": null,
       "happiness": null,
       "holdItem": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem":"fire-stone",
-      "other": null
+      "other": []
     }
   ]
 }

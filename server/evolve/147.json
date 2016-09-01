@@ -1,0 +1,44 @@
+{
+  "num": "147",
+  "family": [
+    {
+      "num": "147",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "148",
+      "level": 30,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "149",
+      "level": 55,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

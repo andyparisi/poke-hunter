@@ -1,0 +1,44 @@
+{
+  "num": "137",
+  "family": [
+    {
+      "num": "137",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "friendship": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "233",
+      "level": null,
+      "trade": true,
+      "happiness": null,
+      "holdItem": "up-grade",
+      "friendship": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "474",
+      "level": null,
+      "trade": true,
+      "happiness": null,
+      "holdItem": "dubious-disc",
+      "friendship": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

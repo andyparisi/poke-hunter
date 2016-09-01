@@ -1,0 +1,127 @@
+{
+  "num": "133",
+  "family": [
+    {
+      "num": "133",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    [
+      {
+        "num": "134",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": "water-stone",
+        "other": []
+      },
+      {
+        "num": "135",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": "thunder-stone",
+        "other": []
+      },
+      {
+        "num": "136",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": "fire-stone",
+        "other": []
+      },
+      {
+        "num": "196",
+        "level": null,
+        "trade": null,
+        "happiness": ">= 220",
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "time": "day",
+        "unique": null,
+        "useItem": null,
+        "other": []
+      },
+      {
+        "num": "197",
+        "level": null,
+        "trade": null,
+        "happiness": ">= 220",
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "time": "night",
+        "unique": null,
+        "useItem": null,
+        "other": []
+      },
+      {
+        "num": "470",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [
+          "Eterna Forest: Moss Rock"
+        ],
+        "time": null,
+        "unique": null,
+        "useItem": null,
+        "other": []
+      },
+      {
+        "num": "471",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [
+          "Rt. 217: Ice Rock"
+        ],
+        "time": null,
+        "unique": null,
+        "useItem": null,
+        "other": []
+      },
+      {
+        "num": "700",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [
+          "a Fairy-type move"
+        ],
+        "levelInArea": [],
+        "time": null,
+        "unique": null,
+        "useItem": null,
+        "other": [],
+        "affection": ">= 2"
+      }
+    ]
+  ]
+}

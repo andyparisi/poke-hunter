@@ -8,11 +8,11 @@
       "happiness": null,
       "holdItem": null,
       "friendship": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem": null,
-      "other": null
+      "other": []
     },
     {
       "num": "011",
@@ -21,11 +21,11 @@
       "happiness": null,
       "holdItem": null,
       "friendship": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem": null,
-      "other": null
+      "other": []
     },
     {
       "num": "012",
@@ -34,11 +34,11 @@
       "happiness": null,
       "holdItem": null,
       "friendship": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem": null,
-      "other": null
+      "other": []
     }
   ]
 }

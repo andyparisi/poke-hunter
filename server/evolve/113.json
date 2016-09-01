@@ -1,0 +1,42 @@
+{
+  "num": "113",
+  "family": [
+    {
+      "num": "440",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "113",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": "oval-stone",
+      "knowMove": [],
+      "levelInArea": [],
+      "time": "day",
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "242",
+      "level": null,
+      "trade": null,
+      "happiness": ">= 220",
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

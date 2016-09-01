@@ -1,0 +1,55 @@
+{
+  "num": "060",
+  "family": [
+    {
+      "num": "060",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "061",
+      "level": 25,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    [
+      {
+        "num": "062",
+        "level": null,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": "water-stone",
+        "other": []
+      },
+      {
+        "num": "186",
+        "level": null,
+        "trade": true,
+        "happiness": null,
+        "holdItem": "kings-rock",
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": null,
+        "other": []
+      }
+    ]
+  ]
+}

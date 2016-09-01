@@ -7,11 +7,11 @@
       "trade": null,
       "happiness": null,
       "holdItem": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem": null,
-      "other": null
+      "other": []
     },
     {
       "num": "042",
@@ -19,11 +19,11 @@
       "trade": null,
       "happiness": null,
       "holdItem": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem": null,
-      "other": null
+      "other": []
     },
     {
       "num": "169",
@@ -31,11 +31,11 @@
       "trade": null,
       "happiness": ">= 220",
       "holdItem": null,
-      "knowMove": null,
-      "trainedInArea": null,
+      "knowMove": [],
+      "levelInArea": [],
       "unique": null,
       "useItem": null,
-      "other": null
+      "other": []
     }
   ]
 }

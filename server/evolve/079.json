@@ -1,0 +1,43 @@
+{
+  "num": "079",
+  "family": [
+    {
+      "num": "079",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    [
+      {
+        "num": "080",
+        "level": 37,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": null,
+        "other": []
+      },
+      {
+        "num": "199",
+        "level": null,
+        "trade": true,
+        "happiness": null,
+        "holdItem": "kings-rock",
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": null,
+        "other": []
+      }
+    ]
+  ]
+}

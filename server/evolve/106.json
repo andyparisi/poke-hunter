@@ -1,0 +1,61 @@
+{
+  "num": "106",
+  "family": [
+    {
+      "num": "236",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    [
+      {
+        "num": "106",
+        "level": 20,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": null,
+        "other": [
+          "Attack > Defense"
+        ]
+      },
+      {
+        "num": "107",
+        "level": 20,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": null,
+        "other": [
+          "Attack < Defense"
+        ]
+      },
+      {
+        "num": "237",
+        "level": 20,
+        "trade": null,
+        "happiness": null,
+        "holdItem": null,
+        "knowMove": [],
+        "levelInArea": [],
+        "unique": null,
+        "useItem": null,
+        "other": [
+          "Attack = Defense"
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "num": "083",
+  "family": [
+    {
+      "num": "083",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

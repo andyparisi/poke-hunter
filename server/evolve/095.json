@@ -1,0 +1,29 @@
+{
+  "num": "095",
+  "family": [
+    {
+      "num": "095",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "208",
+      "level": null,
+      "trade": true,
+      "happiness": null,
+      "holdItem": "metal-coat",
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

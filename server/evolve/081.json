@@ -1,0 +1,46 @@
+{
+  "num": "081",
+  "family": [
+    {
+      "num": "081",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "082",
+      "level": 30,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    },
+    {
+      "num": "462",
+      "level": null,
+      "trade": null,
+      "happiness": null,
+      "holdItem": null,
+      "knowMove": [],
+      "levelInArea": [
+        "Mt. Coronet",
+        "Chargestone Cave",
+        "Kalos Rt. 13",
+        "New Mauville"
+      ],
+      "unique": null,
+      "useItem": null,
+      "other": []
+    }
+  ]
+}

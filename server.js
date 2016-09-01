@@ -51,6 +51,14 @@ app.get('/items', (req, res, next) => {
   next();
 });
 
+// Get evolution family
+app.get('/family/:num', (req, res, next) => {
+  var num = req.params.num;
+  var data = require(path.join(__dirname, '/server', '/evolve/' + num + '.json'));
+  res.json(data);
+  next();
+});
+
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '/client', 'index.html'));
 });
