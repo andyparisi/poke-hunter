@@ -13,27 +13,54 @@ export interface Props {
 
 export interface State {
   selectedPokes?: any;
+  genFilters?: any;
 }
 
 export class PokemonList extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
+
+    // Populate the default filters object
+    let genFilters: any = {};
+    for(let i = 1; i <= GENERATIONS.GEN_COUNT; i++) {
+      genFilters[i] = true;
+    }
+
     this.state = {
       selectedPokes: props.userPokes || {},
+      genFilters: genFilters,
     };
   }
 
   render() {
     const { pokemonList, shiftEngaged, userPokes, filterTerm } = this.props;
-    const { selectedPokes } = this.state;
+    const { selectedPokes, genFilters } = this.state;
     let pokeItems: Array<Array<any>> = [[]];
     let genList: Array<any> = [];
     let collected: Array<number> = [];
     let totalCollected: number = 0;
+    let genFilterItems: any = [];
 
+    // Go thru each gen and add a filter option
+    for(let i = 1; i <= GENERATIONS.GEN_COUNT; i++) {
+      genFilterItems.push(
+        <li key={i} className="gen-filter-item">
+          <label>
+            <input type="checkbox" value={i} onChange={this.toggleFilter.bind(this, i)} checked={genFilters[i] ? 'checked' : ''} />
+            {`Generation ${i}`}
+          </label>
+        </li>
+      );      
+    }
+
+    // Iterate through all the Pokemon
     pokemonList.forEach((poke, index) => {
       const { gen, dexNum } = poke;
       let dn: number = +dexNum;
+
+      // Skip disabled gens
+      if (!genFilters[gen]) return;
+
       // Track if the user has collected this one
       if(selectedPokes[dexNum] != null) {
         if(collected[gen - 1] == null) {
@@ -66,10 +93,14 @@ export class PokemonList extends React.Component<Props, State> {
       const genDiff: number = genEnd - genStart + 1;
       const genPct: number = (genCol / genDiff) * 100;
 
+
       // Add a gen marker to the beginning of each array
       if(!filterTerm) {
         let genGames: any = [];
         const gg: Array<any> = GENERATIONS[`GEN_${gen}`];
+
+        // Skip disabled gens
+        if (!genFilters[gen]) return;
 
         gg.forEach(game => {
           genGames.push(
@@ -101,10 +132,26 @@ export class PokemonList extends React.Component<Props, State> {
     
     return (
       <div className="pokemon-gens">
-        <div className="total-captured">{`${totalCollected} / ${pokemonList.length} captured`}</div>
+        <div className="info-box">
+          <header className="gen-filter-header">Filter By Gen</header>
+          <ul className="gen-filter">{genFilterItems}</ul>
+          <div className="total-captured">{`${totalCollected} / ${pokemonList.length} captured`}</div>
+        </div>
         {genList}
       </div>
     )
+  }
+
+  toggleFilter(gen: number) {
+    let { genFilters } = this.state;
+
+    // Flip to the opposite filter value
+    genFilters[gen] = !genFilters[gen];
+
+    // Set the toggled state
+    this.setState({
+      genFilters: genFilters
+    });
   }
 
   selectPoke(poke: any) {

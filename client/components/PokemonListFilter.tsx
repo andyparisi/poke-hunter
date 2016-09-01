@@ -17,9 +17,17 @@ export class PokemonListFilter extends React.Component<Props, {}> {
 
     return (
       <div className="pokemon-list-filter">
-        <input ref="filter" onKeyUp={this.handleKeyUp.bind(this)} type="text" spellCheck="false" placeholder="Filter by number or name" onChange={this.handleChange.bind(this)} />
+        <input className="filter" ref="filter" onKeyUp={this.handleKeyUp.bind(this)} type="text" spellCheck="false" placeholder="Filter by number or name" onChange={this.handleChange.bind(this)} />
+        <button className="clear-filter" onClick={this.clearFilter.bind(this)}>X</button>
       </div>
     )
+  }
+
+  clearFilter() {
+    let filterRef: any = this.refs['filter'];
+    filterRef.value = '';
+    this.props.setFilter('');
+    filterRef.blur();
   }
 
   handleChange(e: any) {
@@ -37,10 +45,7 @@ export class PokemonListFilter extends React.Component<Props, {}> {
   handleKeyUp(e: KeyboardEvent) {
     e.stopPropagation();
     if(e.keyCode === KEYBOARD.ESCAPE) {
-      let filterRef: any = this.refs["filter"];
-      filterRef.value = '';
-      filterRef.blur();
-      this.props.setFilter('');
+      this.clearFilter();
     }
   }
 }
