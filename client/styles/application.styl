@@ -347,6 +347,22 @@ h1
 // Evolve family
 .pokemon-evolve-family
   height: 100px
+  display: table
+  width: 100%
+
+  .family-member
+    display: table-cell
+    vertical-align: middle
+    text-align: center
+
+  .family-fork
+    display: table-cell
+    vertical-align: middle
+
+    .family-member
+      vertical-align: middle
+      display: table-row
+      text-align: center
 
 .loading
   position: absolute
@@ -357,3 +373,7 @@ h1
   text-align: center
   padding-top: 200px
   background: white
+
+// Media queries
+@media(max-width: 1340px)
+  @import 'med-screen'

@@ -11,6 +11,7 @@ export interface Props {
   openLocation?: Function;
   setLocation?: Function;
   itemsList?: Array<any>;
+  pokemonList: Array<any>;
 }
 
 export interface State {
@@ -24,7 +25,7 @@ export class PokemonLocation extends React.Component<Props, State> {
     super(props);
     this.state = {
       detailsActive: false,
-      family: {},
+      family: [],
       loading: true
     };
   }
@@ -47,7 +48,7 @@ export class PokemonLocation extends React.Component<Props, State> {
         .then(fam => fam.json())
         .then(fam => {
           this.setState({
-            family: fam,
+            family: fam.family,
             loading: false
           });
         });
@@ -70,8 +71,8 @@ export class PokemonLocation extends React.Component<Props, State> {
   }
 
   render() {
-    const { poke, locations, itemsList } = this.props;
-    const { detailsActive, loading } = this.state;
+    const { poke, locations, itemsList, pokemonList } = this.props;
+    const { detailsActive, loading, family } = this.state;
     const { dexNum, displayName } = poke;
 
     // Get the current Poke's location data
@@ -126,7 +127,7 @@ export class PokemonLocation extends React.Component<Props, State> {
             <button className={showDetailsClass} onClick={this.toggleDetailsPane.bind(this)}>{showDetailsText}</button>
           </header>
           <div ref="body" className={locationBodyClass}>
-            <PokemonEvolveFamily poke={poke} itemsList={itemsList} />
+            <PokemonEvolveFamily pokemonList={pokemonList} poke={poke} itemsList={itemsList} family={family} />
             <table className="location-table">
               <tbody>
                 {locationTableItems}

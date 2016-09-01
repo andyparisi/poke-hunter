@@ -88,6 +88,7 @@ export class Main extends React.Component<Props, State> {
     let pLoc: any = (pokeLocation) ? <PokemonLocation 
                                       poke={pokeLocation} 
                                       locations={locations} 
+                                      pokemonList={pokemonList}
                                       closeLocation={this.closeLocation.bind(this)} 
                                       openLocation={this.openLocation.bind(this)} 
                                       setLocation={this.setLocation.bind(this)}
