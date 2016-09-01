@@ -355,6 +355,17 @@ h1
     vertical-align: middle
     text-align: center
 
+    .member
+      .name
+        display: inline-block
+        font-size: 10px
+        text-align: center
+        border: 1px solid #999
+        background: #ebebeb
+        border-radius: 20px
+        padding: 0 4px
+        cursor: pointer
+
   .family-fork
     display: table-cell
     vertical-align: middle
@@ -363,6 +374,13 @@ h1
       vertical-align: middle
       display: table-row
       text-align: center
+
+  [class*='pkmn-'] 
+    vertical-align: middle
+    cursor: pointer
+
+    > i
+      transform: scale(1)
 
 .loading
   position: absolute

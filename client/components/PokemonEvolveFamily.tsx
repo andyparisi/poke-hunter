@@ -58,9 +58,12 @@ export class PokemonEvolveFamily extends React.Component<Props, {}> {
 
     return (
       <div key={num} className="family-member">
-        <span className={`pkspr pkmn-${pk.name}`}>
-          <i />
-        </span>
+        <div className="member">
+          <span className={`pkspr pkmn-${pk.name}`}>
+            <i />
+          </span>
+          <span className="name">{pk.displayName}</span>
+        </div>
       </div>
     );
   }
