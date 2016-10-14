@@ -79,9 +79,9 @@ export class PokemonLocation extends React.Component<Props, State> {
     const curLoc: any = locations[dexNum];
     let locationTableItems: any = [];
     let locationDetails: any = (curLoc != null && curLoc.details != null) ? <PokemonLocationDetails detailsActive={detailsActive} curLoc={curLoc} /> : null;
-    let locationBodyClass: String = (detailsActive) ? "location-body details-active" : "location-body";
-    let showDetailsClass: String = (curLoc != null && curLoc.details != null) ? "show-details" : "show-details is-hidden";
-    let showDetailsText: String = (detailsActive) ? "< Hide Details" : "Show Details >";
+    let locationBodyClass: string = (detailsActive) ? "location-body details-active" : "location-body";
+    let showDetailsClass: string = (curLoc != null && curLoc.details != null) ? "show-details" : "show-details is-hidden";
+    let showDetailsText: string = (detailsActive) ? "< Hide Details" : "Show Details >";
     let loadingItem = (loading) ? <div className="loading">Loading...</div> : null;
 
     for(let g in curLoc) {

@@ -6,9 +6,9 @@ import GENERATIONS from '../constants/generations';
 export interface Props {
   pokemonList: Array<any>;
   openLocation: Function;
-  shiftEngaged: Boolean;
+  shiftEngaged: boolean;
   userPokes: Array<any>;
-  filterTerm: String;
+  filterTerm: string;
 }
 
 export interface State {
@@ -46,7 +46,7 @@ export class PokemonList extends React.Component<Props, State> {
       genFilterItems.push(
         <li key={i} className="gen-filter-item">
           <label>
-            <input type="checkbox" value={i} onChange={this.toggleFilter.bind(this, i)} checked={genFilters[i] ? 'checked' : ''} />
+            <input type="checkbox" value={`${i}`} onChange={this.toggleFilter.bind(this, i)} checked={genFilters[i] != null} />
             {`Generation ${i}`}
           </label>
         </li>

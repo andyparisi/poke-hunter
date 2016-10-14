@@ -1,4 +1,5 @@
 import * as React from "react";
+import * as Promise from "es6-promise";
 import * as fetch from "isomorphic-fetch";
 import * as _ from "lodash";
 
@@ -13,8 +14,8 @@ export interface State {
   pokemonList?: Array<any>;
   pokeLocation?: any;
   locations?: any;
-  shiftEngaged?: Boolean;
-  filterTerm?: String;
+  shiftEngaged?: boolean;
+  filterTerm?: string;
   itemsList?: any;
 }
 
@@ -74,9 +75,9 @@ export class Main extends React.Component<Props, State> {
     
     // Apply a filter term
     if(filterTerm) {
-      let ft: String = filterTerm.toLowerCase();
+      let ft: string = filterTerm.toLowerCase();
       // Check for a dex number filter
-      let filterByNum: Boolean = (!isNaN(+filterTerm[0])) ? true : false;
+      let filterByNum: boolean = (!isNaN(+filterTerm[0])) ? true : false;
 
       // Filter the Pokemon list
       filteredList = filteredList.filter(p => {
@@ -112,6 +113,7 @@ export class Main extends React.Component<Props, State> {
     if (num >= start && num <= end) {
       return gen;
     }
+    
     return this.findGeneration(num, gen + 1);
   }
 
@@ -151,7 +153,7 @@ export class Main extends React.Component<Props, State> {
     }
   }
 
-  setFilter(term: String) {
+  setFilter(term: string) {
     this.setState({
       filterTerm: term
     });

@@ -2,7 +2,7 @@ import * as React from "react";
 
 export interface Props {
   curLoc: any;
-  detailsActive: Boolean;
+  detailsActive: boolean;
 }
 
 export class PokemonLocationDetails extends React.Component<Props, {}> {
@@ -10,11 +10,11 @@ export class PokemonLocationDetails extends React.Component<Props, {}> {
     const { curLoc, detailsActive } = this.props;
     const { details } = curLoc;
     let locationTableItems: any = [];
-    let detailsPaneClass: String = (detailsActive) ? "details-pane is-active" : "details-pane";
+    let detailsPaneClass: string = (detailsActive) ? "details-pane is-active" : "details-pane";
 
     for(let g in details) {
       let loc: Array<any> = details[g];
-      let label: String;
+      let label: string;
 
       // Skip the `num` prop
       if(g === 'num' || loc == null) continue;
@@ -37,7 +37,7 @@ export class PokemonLocationDetails extends React.Component<Props, {}> {
 
       locationTableItems.push(
         <tr key={`game_${g}`} className={`pokemon-${g}`}>
-          <td colSpan="4">{label}</td>
+          <td colSpan={4}>{label}</td>
         </tr>
       );
 

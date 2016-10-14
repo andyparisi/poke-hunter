@@ -17,7 +17,7 @@ export class PokemonListFilter extends React.Component<Props, {}> {
 
     return (
       <div className="pokemon-list-filter">
-        <input className="filter" ref="filter" onKeyUp={this.handleKeyUp.bind(this)} type="text" spellCheck="false" placeholder="Filter by number or name" onChange={this.handleChange.bind(this)} />
+        <input className="filter" ref="filter" onKeyUp={this.handleKeyUp.bind(this)} type="text" spellCheck={false} placeholder="Filter by number or name" onChange={this.handleChange.bind(this)} />
         <button className="clear-filter" onClick={this.clearFilter.bind(this)}>X</button>
       </div>
     )

@@ -3,17 +3,17 @@ import * as React from "react";
 export interface Props {
   poke: any;
   selectPoke: Function;
-  isSelected: Boolean;
+  isSelected: boolean;
   openLocation: Function;
-  shiftEngaged: Boolean;
+  shiftEngaged: boolean;
 }
 
 export class PokemonListItem extends React.Component<Props, {}> {
   render() {
     const { poke, isSelected } = this.props;
     const { dexNum, name, displayName } = poke;
-    let itemClass: String = "poke-list-item";
-    let caughtString: String = `I have ${displayName}!`;
+    let itemClass: string = "poke-list-item";
+    let caughtString: string = `I have ${displayName}!`;
 
     // Add a selected class
     if(isSelected) {
