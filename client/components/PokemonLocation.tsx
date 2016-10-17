@@ -86,7 +86,7 @@ export class PokemonLocation extends React.Component<Props, State> {
 
     for(let g in curLoc) {
       let loc: any = curLoc[g];
-      let label:String;
+      let label: string;
 
       // Skip the `num` prop
       if(g === 'num' || g === 'details') continue;
